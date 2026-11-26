@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2023-026-00,2023-02-01,Ibrahim Ilboudo,Département Sciences et Technologie,compte CampusFaso,haute,clos
+T-2023-026-01,2023-02-02,Awa Kientega,Direction de l'IBAM,vidéo projecteur Somgandé,normale,en cours
+T-2023-026-02,2023-02-03,Claire Nacanabo,Agence comptable de l'IBAM,poste bloqué,haute,clos
+T-2023-026-03,2023-02-04,Hassane Sanou,Agence comptable de l'IBAM,DocSearch inaccessible,basse,en cours
+T-2023-026-04,2023-02-05,Salimata Ouédraogo,Département Sciences et Technologie,poste bloqué,basse,clos
+T-2023-026-05,2023-02-06,Nadia Traoré,Cellule qualité et évaluation,compte CampusFaso,haute,en cours
+T-2023-026-06,2023-02-07,Paulin Bationo,Département Sciences économiques et de gestion,DocSearch inaccessible,basse,en cours
+T-2023-026-07,2023-02-08,Hassane Nacanabo,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,haute,en cours
+T-2023-026-08,2023-02-09,Claire Zongo,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,basse,ouvert
+T-2023-026-09,2023-02-10,Adama Somé,Département Sciences économiques et de gestion,restauration fichier,basse,ouvert
+T-2023-026-10,2023-02-11,Inès Savadogo,Cellule qualité et évaluation,imprimante documentation,normale,en cours
+T-2023-026-11,2023-02-12,Boukary Yaméogo,Département Sciences économiques et de gestion,restauration fichier,haute,en cours
+T-2023-026-12,2023-02-13,Fatou Dabiré,Département Sciences et Technologie,DocSearch inaccessible,basse,clos
+T-2023-026-13,2023-02-14,Aïcha Bationo,Département Sciences et Technologie,DocSearch inaccessible,basse,clos
+T-2023-026-14,2023-02-15,Salif Sawadogo,Département Sciences économiques et de gestion,restauration fichier,basse,ouvert
+T-2023-026-15,2023-02-16,Estelle Zida,Direction de l'IBAM,imprimante documentation,normale,en cours
+T-2023-026-16,2023-02-17,Aïcha Ganemtoré,Département Sciences et Technologie,restauration fichier,basse,en cours
+T-2023-026-17,2023-02-18,Issa Bationo,Centre de documentation et des archives,compte CampusFaso,normale,ouvert
+T-2023-026-18,2023-02-19,Boukary Somé,Centre de documentation et des archives,DocSearch inaccessible,normale,en cours
+T-2023-026-19,2023-02-20,Awa Traoré,Direction de l'IBAM,restauration fichier,basse,ouvert

@@ -1,0 +1,14 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0120-00,Openapi pour la recherche documentaire locale,Architecture logicielle,2026,microservices;ingestion;FastAPI,0.468
+P0120-01,Évaluation de autorisation dans un moteur d'indexation hybride,Sécurité des SI,2023,journalisation;LDAP;chiffrement,0.617
+P0120-02,Vers une indexation intelligente fondée sur autorisation,Sécurité des SI,2026,jeton Bearer;session;LDAP,0.482
+P0120-03,Index b-tree pour la recherche documentaire locale,Bases de données,2024,schéma;normalisation;OLAP,0.487
+P0120-04,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2025,classification;gradient;scikit-learn,0.626
+P0120-05,Vers une indexation intelligente fondée sur métadonnées,Recherche d'information,2022,métadonnées;précision;requête,0.692
+P0120-06,Session pour la recherche documentaire locale,Sécurité des SI,2023,LDAP;authentification;contrôle d'accès,0.367
+P0120-07,Évaluation de HTTP dans un moteur d'indexation hybride,Ingénierie web,2019,React;composant;état client,0.540
+P0120-08,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2023,requête SQL;schéma;index B-tree,0.727
+P0120-09,Évaluation de microservices dans un moteur d'indexation hybride,Architecture logicielle,2025,pipeline;Docker;FastAPI,0.596
+P0120-10,Évaluation de Whoosh dans un moteur d'indexation hybride,Recherche d'information,2021,ranking;Lucene;Whoosh,0.513
+P0120-11,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2024,gradient;validation croisée;surapprentissage,0.961
+P0120-12,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2019,gradient;régression;validation croisée,0.929

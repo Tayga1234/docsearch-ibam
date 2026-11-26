@@ -1,0 +1,13 @@
+code,designation,quantite,etat,localisation,service
+PC-SALLE-A,Poste salle TP MIAGE,24,Bon,Labo MIAGE campus,ST
+PC-SALLE-B,Poste salle TP soir,18,Moyen,Somgandé salle 14,ST
+SRV-DOC-01,Serveur documentaire DocSearch,1,À renforcer,Local technique,DSI
+OND-01,Onduleur serveur,1,Batterie faible,Local technique,DSI
+SW-01,Switch baie principale,1,Remplacé 22/03,Baie réseau,DSI
+PRJ-AMPHI-A,Vidéoprojecteur,1,Bon,Amphithéâtre A,Direction
+PRJ-SOM,Vidéoprojecteur,2,Moyen,Somgandé,ST
+SCAN-A,Scanner A4 accueil,1,Bon,Documentation,DOC
+SCAN-PROD,Scanner de production (commande),1,En marché,Magasin A,DOC
+PRINT-DOC,Imprimante laser,2,Bon,Documentation / scolarité,DOC
+CLIM-ARCH,Split magasin archives,2,Révisés mars,Magasin A,DOC
+BADGE-VIS,Badges visiteurs,200,Neuf,Accueil,Direction

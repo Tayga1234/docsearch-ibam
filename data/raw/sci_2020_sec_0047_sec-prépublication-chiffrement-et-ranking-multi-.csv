@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0047-00,Schéma pour la recherche documentaire locale,Bases de données,2024,PostgreSQL;FTS5;NoSQL,0.465
+P0047-01,Authentification pour la recherche documentaire locale,Sécurité des SI,2023,principe du moindre privilège;OWASP;session,0.957
+P0047-02,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2023,API REST;FastAPI;couches,0.646
+P0047-03,Nosql pour la recherche documentaire locale,Bases de données,2024,PostgreSQL;SQLite;normalisation,0.398
+P0047-04,Ldap pour la recherche documentaire locale,Sécurité des SI,2019,authentification;journalisation;contrôle d'accès,0.472
+P0047-05,Vers une indexation intelligente fondée sur session,Sécurité des SI,2021,authentification;principe du moindre privilège;contrôle d'accès,0.626
+P0047-06,Requête pour la recherche documentaire locale,Recherche d'information,2020,nDCG;BM25;Lucene,0.437
+P0047-07,Évaluation de métier dans un moteur d'indexation hybride,Systèmes d'information,2021,cycle de vie documentaire;urbanisation SI;interopérabilité,0.721
+P0047-08,Vers une indexation intelligente fondée sur normalisation,Bases de données,2019,normalisation;FTS5;requête SQL,0.795
+P0047-09,Vectorisation pour la recherche documentaire locale,Traitement automatique du langage,2025,n-grammes;tokenisation;similarité cosinus,0.650
+P0047-10,Métadonnées pour la recherche documentaire locale,Recherche d'information,2022,Whoosh;BM25;hybride,0.516
+P0047-11,Vers une indexation intelligente fondée sur autorisation,Sécurité des SI,2024,autorisation;LDAP;jeton Bearer,0.363
+P0047-12,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2023,n-grammes;embedding;entité nommée,0.399
+P0047-13,Découplage pour la recherche documentaire locale,Architecture logicielle,2025,ingestion;pipeline;découplage,0.482
+P0047-14,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2024,accessibilité;performance front;composant,0.663
+P0047-15,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2020,feature engineering;réseau de neurones;métrique F1,0.412
+P0047-16,Vers une indexation intelligente fondée sur JSON,Ingénierie web,2025,performance front;accessibilité;Vite,0.810
+P0047-17,Vers une indexation intelligente fondée sur PostgreSQL,Bases de données,2020,index B-tree;PostgreSQL;schéma,0.815
+P0047-18,Vers une indexation intelligente fondée sur FTS5,Bases de données,2020,requête SQL;index B-tree;transaction,0.529
+P0047-19,Vers une indexation intelligente fondée sur PostgreSQL,Bases de données,2020,normalisation;index B-tree;intégrité référentielle,0.566
+P0047-20,Évaluation de embedding dans un moteur d'indexation hybride,Traitement automatique du langage,2022,attention;entité nommée;bag-of-words,0.452
+P0047-21,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2019,urbanisation SI;GED;métier,0.690

@@ -1,0 +1,31 @@
+Évaluation de chiffrement dans un moteur d'indexation hybride
+
+Auteurs : S. Traoré (Université Nazi Boni), L. Compaoré (Université Thomas Sankara), G. KOROGO (IBAM / MISIE), M. Ouédraogo (IBAM)
+Année : 2022
+Type : article
+Domaine : Sécurité des SI
+Revue / support : Séminaire Master MISIE
+Mots-clés : session, authentification, autorisation, principe du moindre privilège, chiffrement, système d'information
+
+Résumé
+Cet article traite de « Évaluation de chiffrement dans un moteur d'indexation hybride » dans le domaine sécurité des si. Nous présentons une comparaison de trois approches d'indexation, centrée sur session, authentification, autorisation. Les résultats indiquent que l'approche retenue montre l'intérêt d'un enrichissement déterministe. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur autorisation et sur OWASP, souvent combinés dans des architectures hybrides. Dans le champ sécurité des si, la notion de chiffrement reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur chiffrement et sur session, souvent combinés dans des architectures hybrides.
+
+Méthode
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur principe du moindre privilège et sur contrôle d'accès, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Résultats
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Dans le champ sécurité des si, la notion de système d'information reste centrale pour comprendre la qualité des réponses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+Les travaux récents insistent sur autorisation et sur jeton Bearer, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+Dans le champ sécurité des si, la notion de authentification reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur authentification et sur principe du moindre privilège, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

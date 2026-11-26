@@ -1,0 +1,31 @@
+Tutoriel : mettre en œuvre composant avec Python
+
+Auteurs : J. Dabiré (Université Joseph Ki-Zerbo), S. Traoré (Université Nazi Boni), F. Sanou (IBAM), A. Kaboré (UJKZ)
+Année : 2025
+Type : tutoriel
+Domaine : Ingénierie web
+Revue / support : Actes des Journées scientifiques UJKZ
+Mots-clés : HTTP, JSON, CORS, composant, performance front, évaluation expérimentale
+
+Résumé
+Cet article traite de « Tutoriel : mettre en œuvre composant avec Python » dans le domaine ingénierie web. Nous présentons une comparaison de trois approches d'indexation, centrée sur HTTP, JSON, CORS. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les travaux récents insistent sur composant et sur performance front, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ ingénierie web, la notion de CORS reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Dans le champ ingénierie web, la notion de JSON reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur composant et sur état client, souvent combinés dans des architectures hybrides. Dans le champ ingénierie web, la notion de HTTP reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Conclusion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur CORS et sur état client, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

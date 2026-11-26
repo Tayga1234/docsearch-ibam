@@ -1,0 +1,31 @@
+Note technique — déploiement de jeton Bearer en environnement local
+
+Auteurs : I. Sawadogo (2iE), S. Traoré (Université Nazi Boni)
+Année : 2025
+Type : note_technique
+Domaine : Sécurité des SI
+Revue / support : Actes des Journées scientifiques UJKZ
+Mots-clés : authentification, session, autorisation, LDAP, contrôle d'accès, système d'information
+
+Résumé
+Cet article traite de « Note technique — déploiement de jeton Bearer en environnement local » dans le domaine sécurité des si. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur authentification, session, autorisation. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ sécurité des si, la notion de système d'information reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Cadre théorique
+Dans le champ sécurité des si, la notion de autorisation reste centrale pour comprendre la qualité des réponses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Méthode
+Dans le champ sécurité des si, la notion de authentification reste centrale pour comprendre la qualité des réponses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Résultats
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur autorisation et sur jeton Bearer, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Discussion
+Dans le champ sécurité des si, la notion de autorisation reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur authentification et sur principe du moindre privilège, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Conclusion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ sécurité des si, la notion de système d'information reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur LDAP et sur principe du moindre privilège, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

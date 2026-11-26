@@ -1,0 +1,31 @@
+Guide pratique — journalisation pour un prototype de master
+
+Auteurs : B. Lingani (UJKZ), M. Ouédraogo (IBAM), E. Tapsoba (IBAM)
+Année : 2026
+Type : tutoriel
+Domaine : Sécurité des SI
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : jeton Bearer, chiffrement, authentification, OWASP, journalisation, informatique
+
+Résumé
+Cet article traite de « Guide pratique — journalisation pour un prototype de master » dans le domaine sécurité des si. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur jeton Bearer, chiffrement, authentification. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Cadre théorique
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+Les travaux récents insistent sur OWASP et sur session, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de OWASP reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Résultats
+Les travaux récents insistent sur chiffrement et sur jeton Bearer, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Discussion
+Les travaux récents insistent sur OWASP et sur LDAP, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Conclusion
+Dans le champ sécurité des si, la notion de chiffrement reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

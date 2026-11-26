@@ -1,0 +1,11 @@
+date,bordereau,service,nb_fichiers,nb_rejetes,indexe_docsearch,agent
+2025-01-16,BORD-001,Direction,6,0,oui,D. Kaboré
+2025-01-22,BORD-004,RH,4,1,oui,D. Kaboré
+2025-01-28,BORD-007,Scolarité,8,0,oui,G. KOROGO
+2025-02-06,BORD-011,DSI,5,0,oui,G. KOROGO
+2025-02-13,BORD-014,Agence,3,0,oui,D. Kaboré
+2025-02-20,BORD-016,Stages,7,2,oui,G. KOROGO
+2025-02-27,BORD-018,Département ST,16,0,oui,G. KOROGO
+2025-03-10,BORD-021,SEG,5,1,oui,D. Kaboré
+2025-03-19,BORD-024,Qualité,2,0,oui,F. Sanou
+2025-03-28,BORD-027,Direction,4,1,oui,D. Kaboré

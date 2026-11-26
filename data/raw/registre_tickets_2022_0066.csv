@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2022-066-00,2022-05-01,Claire Ganemtoré,Agence comptable de l'IBAM,DocSearch inaccessible,normale,en cours
+T-2022-066-01,2022-05-02,Awa Guigma,Service des systèmes d'information,restauration fichier,haute,en cours
+T-2022-066-02,2022-05-03,Yacouba Ouédraogo,Cellule qualité et évaluation,compte CampusFaso,haute,ouvert
+T-2022-066-03,2022-05-04,Aminata Kaboré,Direction de l'IBAM,compte CampusFaso,basse,clos
+T-2022-066-04,2022-05-05,Salif Nacanabo,Direction de l'IBAM,poste bloqué,haute,en cours
+T-2022-066-05,2022-05-06,Issouf Yaméogo,Service de la scolarité et des examens,compte CampusFaso,haute,ouvert
+T-2022-066-06,2022-05-07,Claire Ouédraogo,Département Sciences et Technologie,restauration fichier,basse,clos
+T-2022-066-07,2022-05-08,Rasmané Dabiré,Cellule qualité et évaluation,vidéo projecteur Somgandé,normale,ouvert
+T-2022-066-08,2022-05-09,Inès Sawadogo,Cellule qualité et évaluation,vidéo projecteur Somgandé,normale,en cours
+T-2022-066-09,2022-05-10,Issouf Lingani,Direction de l'IBAM,poste bloqué,basse,clos
+T-2022-066-10,2022-05-11,Karim Sawadogo,Direction de l'IBAM,vidéo projecteur Somgandé,basse,ouvert
+T-2022-066-11,2022-05-12,Karim Zida,Centre de documentation et des archives,restauration fichier,basse,en cours
+T-2022-066-12,2022-05-13,Inès Ouattara,Cellule qualité et évaluation,DocSearch inaccessible,basse,clos
+T-2022-066-13,2022-05-14,Boukary Ganemtoré,Direction de l'IBAM,DocSearch inaccessible,haute,en cours
+T-2022-066-14,2022-05-15,Inès Ganemtoré,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,haute,clos
+T-2022-066-15,2022-05-16,Inès Sanou,Cellule qualité et évaluation,restauration fichier,normale,clos
+T-2022-066-16,2022-05-17,Aïcha Ouédraogo,Service de la scolarité et des examens,vidéo projecteur Somgandé,basse,en cours
+T-2022-066-17,2022-05-18,Adama Zongo,Service des ressources humaines,compte CampusFaso,haute,en cours
+T-2022-066-18,2022-05-19,David Sawadogo,Service des ressources humaines,restauration fichier,normale,clos
+T-2022-066-19,2022-05-20,Hassane Nikièma,Service des ressources humaines,vidéo projecteur Somgandé,haute,ouvert

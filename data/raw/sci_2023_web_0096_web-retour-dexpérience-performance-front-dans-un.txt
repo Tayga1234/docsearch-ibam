@@ -1,0 +1,31 @@
+Retour d'expérience : performance front dans un portail documentaire
+
+Auteurs : C. Yaméogo (UJKZ), D. Somé (IBAM), A. Kaboré (UJKZ)
+Année : 2023
+Type : note_technique
+Domaine : Ingénierie web
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : HTTP, CORS, JSON, Vite, composant, évaluation expérimentale
+
+Résumé
+Cet article traite de « Retour d'expérience : performance front dans un portail documentaire » dans le domaine ingénierie web. Nous présentons une étude de cas dans un centre de documentation universitaire, centrée sur HTTP, CORS, JSON. Les résultats indiquent que l'approche retenue distingue clairement parcours sans index et moteur à index. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur CORS et sur Vite, souvent combinés dans des architectures hybrides.
+
+Cadre théorique
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ ingénierie web, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur HTTP et sur Vite, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Résultats
+Dans le champ ingénierie web, la notion de HTTP reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur CORS et sur SPA, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Discussion
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les travaux récents insistent sur CORS et sur CORS, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur CORS et sur accessibilité, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

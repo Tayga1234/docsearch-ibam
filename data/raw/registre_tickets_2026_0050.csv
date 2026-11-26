@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2026-050-00,2026-05-01,Paulin Tapsoba,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,basse,clos
+T-2026-050-01,2026-05-02,Abdoulaye Ouattara,Cellule qualité et évaluation,DocSearch inaccessible,haute,clos
+T-2026-050-02,2026-05-03,David Nacanabo,Service des systèmes d'information,compte CampusFaso,haute,clos
+T-2026-050-03,2026-05-04,Paulin Kientega,Agence comptable de l'IBAM,DocSearch inaccessible,normale,clos
+T-2026-050-04,2026-05-05,Aïcha Zongo,Service des ressources humaines,poste bloqué,basse,ouvert
+T-2026-050-05,2026-05-06,Awa Bonkoungou,Direction de l'IBAM,poste bloqué,basse,clos
+T-2026-050-06,2026-05-07,Aïcha Bationo,Direction de l'IBAM,imprimante documentation,basse,en cours
+T-2026-050-07,2026-05-08,Awa Ganemtoré,Service des ressources humaines,restauration fichier,haute,ouvert
+T-2026-050-08,2026-05-09,Adama Zida,Cellule qualité et évaluation,compte CampusFaso,basse,clos
+T-2026-050-09,2026-05-10,Awa Zida,Département Sciences économiques et de gestion,imprimante documentation,normale,ouvert
+T-2026-050-10,2026-05-11,Salif Bonkoungou,Service des ressources humaines,DocSearch inaccessible,normale,clos
+T-2026-050-11,2026-05-12,Salimata Zongo,Cellule qualité et évaluation,poste bloqué,normale,ouvert
+T-2026-050-12,2026-05-13,Issa Bonkoungou,Centre de documentation et des archives,vidéo projecteur Somgandé,normale,clos
+T-2026-050-13,2026-05-14,Aïcha Lingani,Service de la scolarité et des examens,DocSearch inaccessible,normale,clos
+T-2026-050-14,2026-05-15,Rasmané Zongo,Agence comptable de l'IBAM,poste bloqué,haute,en cours
+T-2026-050-15,2026-05-16,Issouf Traoré,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,normale,clos
+T-2026-050-16,2026-05-17,Aminata Bonkoungou,Service des ressources humaines,DocSearch inaccessible,normale,clos
+T-2026-050-17,2026-05-18,Inès Ouédraogo,Agence comptable de l'IBAM,DocSearch inaccessible,basse,ouvert
+T-2026-050-18,2026-05-19,Fatou Savadogo,Département Sciences et Technologie,vidéo projecteur Somgandé,basse,ouvert
+T-2026-050-19,2026-05-20,Salimata Nikièma,Agence comptable de l'IBAM,poste bloqué,normale,clos

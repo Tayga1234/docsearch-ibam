@@ -1,0 +1,31 @@
+Affiche scientifique — Ingénierie web / performance front
+
+Auteurs : D. Somé (IBAM), S. Traoré (Université Nazi Boni), G. KOROGO (IBAM / MISIE), E. Tapsoba (IBAM)
+Année : 2021
+Type : poster
+Domaine : Ingénierie web
+Revue / support : Conférence SI et développement
+Mots-clés : HTTP, état client, React, composant, JSON, informatique
+
+Résumé
+Cet article traite de « Affiche scientifique — Ingénierie web / performance front » dans le domaine ingénierie web. Nous présentons une comparaison de trois approches d'indexation, centrée sur HTTP, état client, React. Les résultats indiquent que l'approche retenue confirme la faisabilité d'un prototype local. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Cadre théorique
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Méthode
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Résultats
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses.
+
+Discussion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Conclusion
+Dans le champ ingénierie web, la notion de React reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur composant et sur CORS, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

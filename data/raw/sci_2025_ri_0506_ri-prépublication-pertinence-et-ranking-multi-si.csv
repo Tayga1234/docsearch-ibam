@@ -1,0 +1,21 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0506-00,Docker pour la recherche documentaire locale,Architecture logicielle,2024,pipeline;microservices;OpenAPI,0.540
+P0506-01,Évaluation de NoSQL dans un moteur d'indexation hybride,Bases de données,2021,FTS5;NoSQL;transaction,0.889
+P0506-02,Vers une indexation intelligente fondée sur accessibilité,Ingénierie web,2026,composant;performance front;état client,0.629
+P0506-03,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2024,NoSQL;transaction;schéma,0.714
+P0506-04,Vers une indexation intelligente fondée sur tokenisation,Traitement automatique du langage,2021,entité nommée;spaCy;bag-of-words,0.804
+P0506-05,Lucene pour la recherche documentaire locale,Recherche d'information,2025,ranking;Lucene;nDCG,0.732
+P0506-06,Découplage pour la recherche documentaire locale,Architecture logicielle,2024,pipeline;contrat d'interface;API REST,0.459
+P0506-07,Vers une indexation intelligente fondée sur Whoosh,Recherche d'information,2024,requête;BM25;corpus,0.730
+P0506-08,Évaluation de NoSQL dans un moteur d'indexation hybride,Bases de données,2019,OLAP;intégrité référentielle;NoSQL,0.700
+P0506-09,Classification pour la recherche documentaire locale,Apprentissage automatique,2019,surapprentissage;réseau de neurones;jeu d'entraînement,0.751
+P0506-10,Contrôle d'accès pour la recherche documentaire locale,Sécurité des SI,2020,chiffrement;jeton Bearer;OWASP,0.886
+P0506-11,Évaluation de métrique F1 dans un moteur d'indexation hybride,Apprentissage automatique,2020,scikit-learn;métrique F1;classification,0.478
+P0506-12,Évaluation de interopérabilité dans un moteur d'indexation hybride,Systèmes d'information,2019,GED;référentiel;urbanisation SI,0.467
+P0506-13,Pipeline pour la recherche documentaire locale,Architecture logicielle,2026,contrat d'interface;pipeline;Docker,0.717
+P0506-14,Évaluation de urbanisation SI dans un moteur d'indexation hybride,Systèmes d'information,2024,référentiel;métier;GED,0.351
+P0506-15,Évaluation de Vite dans un moteur d'indexation hybride,Ingénierie web,2026,JSON;accessibilité;performance front,0.639
+P0506-16,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2024,archivage;processus;cycle de vie documentaire,0.564
+P0506-17,Évaluation de BM25 dans un moteur d'indexation hybride,Recherche d'information,2024,TF-IDF;métadonnées;hybride,0.518
+P0506-18,Évaluation de nDCG dans un moteur d'indexation hybride,Recherche d'information,2024,métadonnées;requête;rappel,0.890
+P0506-19,Vers une indexation intelligente fondée sur microservices,Architecture logicielle,2024,OpenAPI;ingestion;API REST,0.580

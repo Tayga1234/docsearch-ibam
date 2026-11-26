@@ -1,0 +1,31 @@
+Poster : requête SQL et indexation multi-formats
+
+Auteurs : V. Kinda (IBAM), F. Sanou (IBAM), A. Kaboré (UJKZ), Y. Ouattara (ESI)
+Année : 2022
+Type : poster
+Domaine : Bases de données
+Revue / support : Conférence SI et développement
+Mots-clés : schéma, transaction, requête SQL, SQLite, OLAP, informatique
+
+Résumé
+Cet article traite de « Poster : requête SQL et indexation multi-formats » dans le domaine bases de données. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur schéma, transaction, requête SQL. Les résultats indiquent que l'approche retenue confirme la faisabilité d'un prototype local. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Dans le champ bases de données, la notion de schéma reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Cadre théorique
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur OLAP et sur requête SQL, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Méthode
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur informatique et sur SQLite, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Résultats
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ bases de données, la notion de transaction reste centrale pour comprendre la qualité des réponses.
+
+Discussion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ bases de données, la notion de requête SQL reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Conclusion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

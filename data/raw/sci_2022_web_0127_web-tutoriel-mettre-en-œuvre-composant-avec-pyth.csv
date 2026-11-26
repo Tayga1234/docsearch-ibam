@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0127-00,Vers une indexation intelligente fondée sur transformer,Traitement automatique du langage,2019,embedding;n-grammes;tokenisation,0.964
+P0127-01,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2023,urbanisation SI;métier;interopérabilité,0.632
+P0127-02,Évaluation de accessibilité dans un moteur d'indexation hybride,Ingénierie web,2025,CORS;état client;Vite,0.932
+P0127-03,Vers une indexation intelligente fondée sur attention,Traitement automatique du langage,2023,lemmatisation;spaCy;bag-of-words,0.830
+P0127-04,Interopérabilité pour la recherche documentaire locale,Systèmes d'information,2020,archivage;GED;interopérabilité,0.932
+P0127-05,Vers une indexation intelligente fondée sur corpus,Recherche d'information,2020,BM25;Whoosh;corpus,0.724
+P0127-06,Vers une indexation intelligente fondée sur transaction,Bases de données,2021,OLAP;requête SQL;schéma,0.390
+P0127-07,Vers une indexation intelligente fondée sur SPA,Ingénierie web,2026,SPA;React;état client,0.621
+P0127-08,Évaluation de accessibilité dans un moteur d'indexation hybride,Ingénierie web,2019,SPA;CORS;Vite,0.586
+P0127-09,Composant pour la recherche documentaire locale,Ingénierie web,2024,SPA;React;HTTP,0.802
+P0127-10,Vectorisation pour la recherche documentaire locale,Traitement automatique du langage,2020,embedding;bag-of-words;similarité cosinus,0.898
+P0127-11,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2020,nDCG;hybride;requête,0.435

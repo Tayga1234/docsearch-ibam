@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2026-02-01,Service de la scolarité et des examens,8,mixte,BORD-2026-089-00,Issa Ouédraogo
+2026-02-02,Département Sciences économiques et de gestion,35,CSV,BORD-2026-089-01,David Kaboré
+2026-02-03,Département Sciences et Technologie,10,DOCX,BORD-2026-089-02,Fatou Sanou
+2026-02-04,Centre de documentation et des archives,35,TXT,BORD-2026-089-03,Issa Ouédraogo
+2026-02-05,Direction de l'IBAM,24,DOCX,BORD-2026-089-04,Issa Ouédraogo
+2026-02-06,Direction de l'IBAM,7,CSV,BORD-2026-089-05,David Kaboré
+2026-02-07,Centre de documentation et des archives,21,mixte,BORD-2026-089-06,Issa Ouédraogo
+2026-02-08,Direction de l'IBAM,36,DOCX,BORD-2026-089-07,David Kaboré
+2026-02-09,Agence comptable de l'IBAM,23,TXT,BORD-2026-089-08,Fatou Sanou
+2026-02-10,Agence comptable de l'IBAM,12,TXT,BORD-2026-089-09,Issa Ouédraogo
+2026-02-11,Service des systèmes d'information,30,mixte,BORD-2026-089-10,David Kaboré
+2026-02-12,Direction de l'IBAM,37,TXT,BORD-2026-089-11,Issa Ouédraogo
+2026-02-13,Cellule qualité et évaluation,34,CSV,BORD-2026-089-12,David Kaboré
+2026-02-14,Direction de l'IBAM,19,CSV,BORD-2026-089-13,Fatou Sanou
+2026-02-15,Cellule qualité et évaluation,32,mixte,BORD-2026-089-14,Fatou Sanou
+2026-02-16,Agence comptable de l'IBAM,18,mixte,BORD-2026-089-15,David Kaboré

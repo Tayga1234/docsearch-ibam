@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0008-00,Évaluation de performance front dans un moteur d'indexation hybride,Ingénierie web,2021,CORS;JSON;état client,0.651
+P0008-01,Pertinence pour la recherche documentaire locale,Recherche d'information,2024,TF-IDF;corpus;hybride,0.741
+P0008-02,Archivage pour la recherche documentaire locale,Systèmes d'information,2019,gouvernance des données;cycle de vie documentaire;interopérabilité,0.860
+P0008-03,Évaluation de autorisation dans un moteur d'indexation hybride,Sécurité des SI,2024,journalisation;LDAP;chiffrement,0.518
+P0008-04,Tf-idf pour la recherche documentaire locale,Recherche d'information,2023,TF-IDF;pertinence;BM25,0.549
+P0008-05,Évaluation de accessibilité dans un moteur d'indexation hybride,Ingénierie web,2019,état client;accessibilité;performance front,0.407
+P0008-06,Vers une indexation intelligente fondée sur feature engineering,Apprentissage automatique,2021,classification;validation croisée;métrique F1,0.936
+P0008-07,Évaluation de entité nommée dans un moteur d'indexation hybride,Traitement automatique du langage,2022,attention;lemmatisation;embedding,0.414
+P0008-08,Ndcg pour la recherche documentaire locale,Recherche d'information,2024,corpus;pertinence;BM25,0.431
+P0008-09,Vers une indexation intelligente fondée sur tokenisation,Traitement automatique du langage,2024,embedding;bag-of-words;transformer,0.849
+P0008-10,Vers une indexation intelligente fondée sur composant,Ingénierie web,2026,SPA;composant;HTTP,0.366
+P0008-11,Vers une indexation intelligente fondée sur bag-of-words,Traitement automatique du langage,2019,similarité cosinus;embedding;lemmatisation,0.546

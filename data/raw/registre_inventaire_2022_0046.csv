@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2022-046-00,switch réseau,11,à réformer,laboratoire MIAGE,Agence comptable de l'IBAM
+INV-2022-046-01,poste lecteur,24,moyen,complexe pédagogique de Somgandé,Département Sciences et Technologie
+INV-2022-046-02,vidéoprojecteur,3,bon,"campus principal, secteur 25",Service des ressources humaines
+INV-2022-046-03,switch réseau,4,moyen,magasin A des archives,Service des systèmes d'information
+INV-2022-046-04,split climatisation,20,moyen,local technique DSI,Département Sciences et Technologie
+INV-2022-046-05,vidéoprojecteur,4,moyen,amphithéâtre A,Agence comptable de l'IBAM
+INV-2022-046-06,split climatisation,10,bon,amphithéâtre A,Cellule qualité et évaluation
+INV-2022-046-07,vidéoprojecteur,8,moyen,local technique DSI,Service des ressources humaines
+INV-2022-046-08,rayonnage archives,15,à réformer,local technique DSI,Centre de documentation et des archives
+INV-2022-046-09,rayonnage archives,5,moyen,salle multimédia,Département Sciences économiques et de gestion
+INV-2022-046-10,poste lecteur,6,bon,salle de lecture du Centre de documentation,Service de la scolarité et des examens
+INV-2022-046-11,rayonnage archives,24,à réformer,magasin B (examens),Direction de l'IBAM
+INV-2022-046-12,split climatisation,6,bon,laboratoire MIAGE,Service des systèmes d'information
+INV-2022-046-13,rayonnage archives,15,à réformer,salle de lecture du Centre de documentation,Service des systèmes d'information
+INV-2022-046-14,vidéoprojecteur,12,à réformer,magasin A des archives,Cellule qualité et évaluation

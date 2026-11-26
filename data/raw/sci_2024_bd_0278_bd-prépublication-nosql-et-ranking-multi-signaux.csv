@@ -1,0 +1,24 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0278-00,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2021,accessibilité;état client;composant,0.562
+P0278-01,Évaluation de lemmatisation dans un moteur d'indexation hybride,Traitement automatique du langage,2024,BERT;transformer;similarité cosinus,0.663
+P0278-02,Tf-idf pour la recherche documentaire locale,Recherche d'information,2026,requête;TF-IDF;ranking,0.650
+P0278-03,Évaluation de similarité cosinus dans un moteur d'indexation hybride,Traitement automatique du langage,2023,spaCy;embedding;vectorisation,0.882
+P0278-04,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2022,référentiel;GED;processus,0.879
+P0278-05,Évaluation de réseau de neurones dans un moteur d'indexation hybride,Apprentissage automatique,2019,validation croisée;réseau de neurones;surapprentissage,0.448
+P0278-06,Vers une indexation intelligente fondée sur métier,Systèmes d'information,2021,urbanisation SI;archivage;interopérabilité,0.813
+P0278-07,Vers une indexation intelligente fondée sur rappel,Recherche d'information,2021,Lucene;BM25;requête,0.393
+P0278-08,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2023,contrat d'interface;ingestion;OpenAPI,0.522
+P0278-09,Cycle de vie documentaire pour la recherche documentaire locale,Systèmes d'information,2024,GED;archivage;référentiel,0.969
+P0278-10,Précision pour la recherche documentaire locale,Recherche d'information,2024,hybride;rappel;pertinence,0.609
+P0278-11,Évaluation de ingestion dans un moteur d'indexation hybride,Architecture logicielle,2020,couches;FastAPI;ingestion,0.590
+P0278-12,Vers une indexation intelligente fondée sur pertinence,Recherche d'information,2021,métadonnées;hybride;Lucene,0.393
+P0278-13,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2020,contrat d'interface;pipeline;microservices,0.588
+P0278-14,Vers une indexation intelligente fondée sur accessibilité,Ingénierie web,2021,SPA;composant;performance front,0.952
+P0278-15,Vers une indexation intelligente fondée sur feature engineering,Apprentissage automatique,2020,jeu d'entraînement;gradient;régression,0.570
+P0278-16,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2021,validation croisée;gradient;jeu d'entraînement,0.611
+P0278-17,Vers une indexation intelligente fondée sur n-grammes,Traitement automatique du langage,2022,bag-of-words;n-grammes;embedding,0.523
+P0278-18,Bm25 pour la recherche documentaire locale,Recherche d'information,2025,BM25;index inversé;Whoosh,0.762
+P0278-19,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2021,PostgreSQL;requête SQL;intégrité référentielle,0.778
+P0278-20,Entité nommée pour la recherche documentaire locale,Traitement automatique du langage,2023,similarité cosinus;bag-of-words;transformer,0.612
+P0278-21,Vers une indexation intelligente fondée sur FTS5,Bases de données,2019,SQLite;normalisation;OLAP,0.368
+P0278-22,Vers une indexation intelligente fondée sur NoSQL,Bases de données,2019,intégrité référentielle;SQLite;transaction,0.953

@@ -1,0 +1,29 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0450-00,Évaluation de rappel dans un moteur d'indexation hybride,Recherche d'information,2022,ranking;métadonnées;index inversé,0.354
+P0450-01,Vers une indexation intelligente fondée sur principe du moindre privilège,Sécurité des SI,2020,contrôle d'accès;chiffrement;LDAP,0.577
+P0450-02,Json pour la recherche documentaire locale,Ingénierie web,2019,état client;JSON;CORS,0.464
+P0450-03,Précision pour la recherche documentaire locale,Recherche d'information,2025,métadonnées;requête;précision,0.663
+P0450-04,Openapi pour la recherche documentaire locale,Architecture logicielle,2021,pipeline;découplage;Docker,0.547
+P0450-05,Lucene pour la recherche documentaire locale,Recherche d'information,2025,métadonnées;index inversé;nDCG,0.363
+P0450-06,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2026,régression;gradient;validation croisée,0.639
+P0450-07,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2024,gradient;feature engineering;régression,0.587
+P0450-08,Évaluation de archivage dans un moteur d'indexation hybride,Systèmes d'information,2023,interopérabilité;processus;archivage,0.488
+P0450-09,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2019,métrique F1;gradient;classification,0.363
+P0450-10,Métier pour la recherche documentaire locale,Systèmes d'information,2024,gouvernance des données;processus;cycle de vie documentaire,0.422
+P0450-11,Évaluation de LDAP dans un moteur d'indexation hybride,Sécurité des SI,2025,jeton Bearer;authentification;session,0.968
+P0450-12,Jeton bearer pour la recherche documentaire locale,Sécurité des SI,2022,journalisation;session;principe du moindre privilège,0.370
+P0450-13,Référentiel pour la recherche documentaire locale,Systèmes d'information,2020,gouvernance des données;cycle de vie documentaire;archivage,0.730
+P0450-14,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2021,Docker;couches;FastAPI,0.626
+P0450-15,Vers une indexation intelligente fondée sur OpenAPI,Architecture logicielle,2026,découplage;contrat d'interface;API REST,0.415
+P0450-16,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2025,tokenisation;vectorisation;bag-of-words,0.968
+P0450-17,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2025,scikit-learn;réseau de neurones;surapprentissage,0.775
+P0450-18,Session pour la recherche documentaire locale,Sécurité des SI,2026,contrôle d'accès;session;principe du moindre privilège,0.496
+P0450-19,Microservices pour la recherche documentaire locale,Architecture logicielle,2024,Docker;ingestion;contrat d'interface,0.582
+P0450-20,Requête pour la recherche documentaire locale,Recherche d'information,2026,pertinence;BM25;TF-IDF,0.821
+P0450-21,Évaluation de composant dans un moteur d'indexation hybride,Ingénierie web,2021,performance front;composant;JSON,0.919
+P0450-22,Évaluation de PostgreSQL dans un moteur d'indexation hybride,Bases de données,2024,SQLite;requête SQL;PostgreSQL,0.607
+P0450-23,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2021,transformer;bag-of-words;vectorisation,0.749
+P0450-24,Évaluation de Docker dans un moteur d'indexation hybride,Architecture logicielle,2026,contrat d'interface;découplage;API REST,0.625
+P0450-25,Postgresql pour la recherche documentaire locale,Bases de données,2022,NoSQL;index B-tree;requête SQL,0.748
+P0450-26,Vers une indexation intelligente fondée sur OLAP,Bases de données,2024,FTS5;NoSQL;normalisation,0.814
+P0450-27,Docker pour la recherche documentaire locale,Architecture logicielle,2026,ingestion;Docker;contrat d'interface,0.679

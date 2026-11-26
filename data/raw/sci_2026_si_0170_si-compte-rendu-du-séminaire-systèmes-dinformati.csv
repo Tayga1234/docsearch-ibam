@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0170-00,Vers une indexation intelligente fondée sur hybride,Recherche d'information,2025,Whoosh;corpus;TF-IDF,0.895
+P0170-01,Évaluation de ranking dans un moteur d'indexation hybride,Recherche d'information,2019,Whoosh;nDCG;TF-IDF,0.564
+P0170-02,Classification pour la recherche documentaire locale,Apprentissage automatique,2019,gradient;métrique F1;classification,0.574
+P0170-03,Contrôle d'accès pour la recherche documentaire locale,Sécurité des SI,2019,OWASP;chiffrement;LDAP,0.874
+P0170-04,Évaluation de bag-of-words dans un moteur d'indexation hybride,Traitement automatique du langage,2026,lemmatisation;BERT;embedding,0.819
+P0170-05,Vers une indexation intelligente fondée sur API REST,Architecture logicielle,2025,ingestion;API REST;OpenAPI,0.570
+P0170-06,Évaluation de chiffrement dans un moteur d'indexation hybride,Sécurité des SI,2026,authentification;LDAP;OWASP,0.375
+P0170-07,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2019,validation croisée;réseau de neurones;jeu d'entraînement,0.675
+P0170-08,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2026,feature engineering;gradient;scikit-learn,0.604
+P0170-09,Normalisation pour la recherche documentaire locale,Bases de données,2022,NoSQL;intégrité référentielle;index B-tree,0.848
+P0170-10,Ged pour la recherche documentaire locale,Systèmes d'information,2022,archivage;gouvernance des données;référentiel,0.975
+P0170-11,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2026,Docker;API REST;pipeline,0.597
+P0170-12,Évaluation de corpus dans un moteur d'indexation hybride,Recherche d'information,2022,ranking;index inversé;rappel,0.728
+P0170-13,Évaluation de FastAPI dans un moteur d'indexation hybride,Architecture logicielle,2019,OpenAPI;FastAPI;ingestion,0.602
+P0170-14,Vers une indexation intelligente fondée sur OpenAPI,Architecture logicielle,2025,microservices;découplage;API REST,0.663

@@ -1,0 +1,31 @@
+Brouillon — JSON sans processeur graphique
+
+Auteurs : T. Bonkoungou (UJKZ), V. Kinda (IBAM), F. Sanou (IBAM), Y. Ouattara (ESI)
+Année : 2024
+Type : preprint
+Domaine : Ingénierie web
+Revue / support : Séminaire Master MISIE
+Mots-clés : accessibilité, état client, SPA, HTTP, composant, évaluation expérimentale
+
+Résumé
+Cet article traite de « Brouillon — JSON sans processeur graphique » dans le domaine ingénierie web. Nous présentons une étude de cas dans un centre de documentation universitaire, centrée sur accessibilité, état client, SPA. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Cadre théorique
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ ingénierie web, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Méthode
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ ingénierie web, la notion de SPA reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur état client et sur composant, souvent combinés dans des architectures hybrides.
+
+Conclusion
+Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur SPA et sur Vite, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

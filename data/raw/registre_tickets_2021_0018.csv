@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2021-018-00,2021-01-01,Wendyam Yaméogo,Agence comptable de l'IBAM,imprimante documentation,haute,en cours
+T-2021-018-01,2021-01-02,Fatou Yaméogo,Agence comptable de l'IBAM,restauration fichier,haute,en cours
+T-2021-018-02,2021-01-03,Issa Dabiré,Service des systèmes d'information,imprimante documentation,haute,en cours
+T-2021-018-03,2021-01-04,Inès Somé,Département Sciences et Technologie,imprimante documentation,haute,ouvert
+T-2021-018-04,2021-01-05,Salif Bonkoungou,Département Sciences économiques et de gestion,DocSearch inaccessible,normale,ouvert
+T-2021-018-05,2021-01-06,Boukary Tapsoba,Direction de l'IBAM,vidéo projecteur Somgandé,basse,en cours
+T-2021-018-06,2021-01-07,Ibrahim Ilboudo,Service de la scolarité et des examens,DocSearch inaccessible,normale,en cours
+T-2021-018-07,2021-01-08,Aïcha Sawadogo,Cellule des stages et de l'insertion professionnelle,restauration fichier,normale,en cours
+T-2021-018-08,2021-01-09,Issa Sanou,Agence comptable de l'IBAM,vidéo projecteur Somgandé,haute,en cours
+T-2021-018-09,2021-01-10,Paulin Nacanabo,Service des systèmes d'information,imprimante documentation,normale,clos
+T-2021-018-10,2021-01-11,Issa Ouédraogo,Service de la scolarité et des examens,DocSearch inaccessible,normale,ouvert
+T-2021-018-11,2021-01-12,Wendyam Kaboré,Département Sciences et Technologie,compte CampusFaso,haute,clos
+T-2021-018-12,2021-01-13,Aïcha Traoré,Service de la scolarité et des examens,compte CampusFaso,basse,ouvert
+T-2021-018-13,2021-01-14,Boukary Compaoré,Département Sciences et Technologie,restauration fichier,normale,en cours
+T-2021-018-14,2021-01-15,Awa Ouédraogo,Cellule qualité et évaluation,poste bloqué,basse,clos
+T-2021-018-15,2021-01-16,Salimata Guigma,Service de la scolarité et des examens,imprimante documentation,normale,en cours
+T-2021-018-16,2021-01-17,Claire Tapsoba,Département Sciences économiques et de gestion,vidéo projecteur Somgandé,haute,clos
+T-2021-018-17,2021-01-18,Ibrahim Ilboudo,Direction de l'IBAM,poste bloqué,normale,ouvert
+T-2021-018-18,2021-01-19,Paulin Compaoré,Cellule des stages et de l'insertion professionnelle,poste bloqué,basse,ouvert
+T-2021-018-19,2021-01-20,Hassane Ilboudo,Département Sciences et Technologie,restauration fichier,haute,en cours

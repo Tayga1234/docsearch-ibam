@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2025-098-00,2025-07-01,David Kinda,Service des systèmes d'information,poste bloqué,haute,en cours
+T-2025-098-01,2025-07-02,Hassane Nacanabo,Cellule qualité et évaluation,vidéo projecteur Somgandé,basse,clos
+T-2025-098-02,2025-07-03,Awa Lingani,Service des ressources humaines,DocSearch inaccessible,haute,clos
+T-2025-098-03,2025-07-04,Ibrahim Somé,Service des ressources humaines,restauration fichier,haute,ouvert
+T-2025-098-04,2025-07-05,Wendyam Sanou,Département Sciences économiques et de gestion,compte CampusFaso,basse,clos
+T-2025-098-05,2025-07-06,Moussa Kinda,Département Sciences et Technologie,restauration fichier,haute,ouvert
+T-2025-098-06,2025-07-07,David Sawadogo,Département Sciences et Technologie,restauration fichier,basse,clos
+T-2025-098-07,2025-07-08,Awa Traoré,Centre de documentation et des archives,poste bloqué,haute,clos
+T-2025-098-08,2025-07-09,Yacouba Nikièma,Centre de documentation et des archives,poste bloqué,haute,en cours
+T-2025-098-09,2025-07-10,David Savadogo,Service des systèmes d'information,compte CampusFaso,basse,clos
+T-2025-098-10,2025-07-11,Ibrahim Somé,Service des systèmes d'information,compte CampusFaso,haute,clos
+T-2025-098-11,2025-07-12,Karim Somé,Agence comptable de l'IBAM,imprimante documentation,normale,en cours
+T-2025-098-12,2025-07-13,Yacouba Ilboudo,Service des systèmes d'information,compte CampusFaso,haute,ouvert
+T-2025-098-13,2025-07-14,Salimata Yaméogo,Direction de l'IBAM,DocSearch inaccessible,normale,ouvert
+T-2025-098-14,2025-07-15,Ibrahim Ouattara,Département Sciences et Technologie,DocSearch inaccessible,haute,ouvert
+T-2025-098-15,2025-07-16,Awa Kientega,Cellule qualité et évaluation,DocSearch inaccessible,haute,clos
+T-2025-098-16,2025-07-17,Karim Tapsoba,Service des systèmes d'information,poste bloqué,normale,clos
+T-2025-098-17,2025-07-18,Estelle Lingani,Département Sciences économiques et de gestion,poste bloqué,basse,clos
+T-2025-098-18,2025-07-19,Paulin Tapsoba,Service des systèmes d'information,DocSearch inaccessible,basse,en cours
+T-2025-098-19,2025-07-20,Estelle Savadogo,Agence comptable de l'IBAM,vidéo projecteur Somgandé,basse,clos

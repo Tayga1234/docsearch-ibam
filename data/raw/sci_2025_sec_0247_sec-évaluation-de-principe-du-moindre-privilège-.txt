@@ -1,0 +1,31 @@
+Évaluation de principe du moindre privilège dans un moteur d'indexation hybride
+
+Auteurs : D. Somé (IBAM), E. Tapsoba (IBAM), T. Bonkoungou (UJKZ)
+Année : 2025
+Type : article
+Domaine : Sécurité des SI
+Revue / support : Actes des Journées scientifiques UJKZ
+Mots-clés : OWASP, LDAP, autorisation, jeton Bearer, chiffrement, évaluation expérimentale
+
+Résumé
+Cet article traite de « Évaluation de principe du moindre privilège dans un moteur d'indexation hybride » dans le domaine sécurité des si. Nous présentons une expérimentation sur un corpus de démonstration, centrée sur OWASP, LDAP, autorisation. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur jeton Bearer et sur LDAP, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ sécurité des si, la notion de LDAP reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Résultats
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de chiffrement reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur chiffrement et sur session, souvent combinés dans des architectures hybrides.
+
+Discussion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Conclusion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ sécurité des si, la notion de chiffrement reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

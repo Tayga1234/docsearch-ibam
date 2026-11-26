@@ -1,0 +1,31 @@
+Compte rendu du séminaire Sécurité des SI — session OWASP
+
+Auteurs : D. Somé (IBAM), J. Dabiré (Université Joseph Ki-Zerbo), P. Nikièma (ANPTIC)
+Année : 2019
+Type : compte_rendu
+Domaine : Sécurité des SI
+Revue / support : Annales de l'IBAM
+Mots-clés : session, autorisation, principe du moindre privilège, authentification, journalisation, informatique
+
+Résumé
+Cet article traite de « Compte rendu du séminaire Sécurité des SI — session OWASP » dans le domaine sécurité des si. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur session, autorisation, principe du moindre privilège. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur journalisation et sur autorisation, souvent combinés dans des architectures hybrides.
+
+Cadre théorique
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur informatique et sur journalisation, souvent combinés dans des architectures hybrides.
+
+Méthode
+Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Résultats
+Les travaux récents insistent sur authentification et sur journalisation, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses.
+
+Discussion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur authentification et sur chiffrement, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de autorisation reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

@@ -1,0 +1,28 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0378-00,Fts5 pour la recherche documentaire locale,Bases de données,2019,intégrité référentielle;FTS5;index B-tree,0.452
+P0378-01,Ingestion pour la recherche documentaire locale,Architecture logicielle,2026,couches;contrat d'interface;ingestion,0.458
+P0378-02,Session pour la recherche documentaire locale,Sécurité des SI,2023,autorisation;contrôle d'accès;OWASP,0.913
+P0378-03,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2022,référentiel;métier;gouvernance des données,0.859
+P0378-04,Principe du moindre privilège pour la recherche documentaire locale,Sécurité des SI,2024,contrôle d'accès;journalisation;LDAP,0.833
+P0378-05,Vers une indexation intelligente fondée sur nDCG,Recherche d'information,2024,rappel;hybride;nDCG,0.722
+P0378-06,Chiffrement pour la recherche documentaire locale,Sécurité des SI,2025,authentification;principe du moindre privilège;chiffrement,0.641
+P0378-07,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2021,vectorisation;BERT;attention,0.867
+P0378-08,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2020,référentiel;gouvernance des données;cycle de vie documentaire,0.398
+P0378-09,Whoosh pour la recherche documentaire locale,Recherche d'information,2023,métadonnées;ranking;Lucene,0.620
+P0378-10,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2021,métrique F1;validation croisée;régression,0.913
+P0378-11,Vers une indexation intelligente fondée sur archivage,Systèmes d'information,2025,urbanisation SI;référentiel;GED,0.792
+P0378-12,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2021,journalisation;jeton Bearer;chiffrement,0.440
+P0378-13,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2021,scikit-learn;gradient;réseau de neurones,0.685
+P0378-14,Hybride pour la recherche documentaire locale,Recherche d'information,2021,corpus;TF-IDF;rappel,0.620
+P0378-15,Évaluation de TF-IDF dans un moteur d'indexation hybride,Recherche d'information,2026,rappel;Lucene;corpus,0.487
+P0378-16,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2023,bag-of-words;embedding;spaCy,0.953
+P0378-17,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2020,interopérabilité;processus;cycle de vie documentaire,0.717
+P0378-18,Évaluation de précision dans un moteur d'indexation hybride,Recherche d'information,2026,ranking;nDCG;précision,0.960
+P0378-19,Évaluation de bag-of-words dans un moteur d'indexation hybride,Traitement automatique du langage,2019,transformer;entité nommée;attention,0.900
+P0378-20,Vers une indexation intelligente fondée sur Vite,Ingénierie web,2025,accessibilité;SPA;CORS,0.445
+P0378-21,Vers une indexation intelligente fondée sur métier,Systèmes d'information,2021,urbanisation SI;cycle de vie documentaire;processus,0.871
+P0378-22,Évaluation de JSON dans un moteur d'indexation hybride,Ingénierie web,2021,performance front;SPA;état client,0.649
+P0378-23,Vers une indexation intelligente fondée sur chiffrement,Sécurité des SI,2021,autorisation;authentification;jeton Bearer,0.826
+P0378-24,Vers une indexation intelligente fondée sur FTS5,Bases de données,2021,OLAP;transaction;intégrité référentielle,0.833
+P0378-25,Évaluation de validation croisée dans un moteur d'indexation hybride,Apprentissage automatique,2025,surapprentissage;métrique F1;classification,0.521
+P0378-26,Évaluation de réseau de neurones dans un moteur d'indexation hybride,Apprentissage automatique,2022,validation croisée;jeu d'entraînement;feature engineering,0.395

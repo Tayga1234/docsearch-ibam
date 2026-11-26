@@ -1,0 +1,31 @@
+Prépublication : FTS5 et ranking multi-signaux
+
+Auteurs : N. Guigma (UJKZ), P. Nikièma (ANPTIC)
+Année : 2019
+Type : preprint
+Domaine : Bases de données
+Revue / support : Revue africaine d'informatique appliquée
+Mots-clés : SQLite, transaction, FTS5, PostgreSQL, OLAP, évaluation expérimentale
+
+Résumé
+Cet article traite de « Prépublication : FTS5 et ranking multi-signaux » dans le domaine bases de données. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur SQLite, transaction, FTS5. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Cadre théorique
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur transaction et sur OLAP, souvent combinés dans des architectures hybrides.
+
+Méthode
+Les travaux récents insistent sur SQLite et sur intégrité référentielle, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ bases de données, la notion de PostgreSQL reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Dans le champ bases de données, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Discussion
+Dans le champ bases de données, la notion de transaction reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Conclusion
+Les travaux récents insistent sur PostgreSQL et sur NoSQL, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ bases de données, la notion de FTS5 reste centrale pour comprendre la qualité des réponses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

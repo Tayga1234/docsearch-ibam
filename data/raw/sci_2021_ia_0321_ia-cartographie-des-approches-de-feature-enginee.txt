@@ -1,0 +1,31 @@
+Cartographie des approches de feature engineering (2018-2026)
+
+Auteurs : P. Nikièma (ANPTIC), N. Guigma (UJKZ), Y. Ouattara (ESI)
+Année : 2021
+Type : survey
+Domaine : Apprentissage automatique
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : métrique F1, réseau de neurones, classification, validation croisée, régression, évaluation expérimentale
+
+Résumé
+Cet article traite de « Cartographie des approches de feature engineering (2018-2026) » dans le domaine apprentissage automatique. Nous présentons une comparaison de trois approches d'indexation, centrée sur métrique F1, réseau de neurones, classification. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ apprentissage automatique, la notion de validation croisée reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Les travaux récents insistent sur validation croisée et sur classification, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Méthode
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ apprentissage automatique, la notion de métrique F1 reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur validation croisée et sur réseau de neurones, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Conclusion
+Les travaux récents insistent sur évaluation expérimentale et sur réseau de neurones, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ apprentissage automatique, la notion de validation croisée reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

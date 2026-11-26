@@ -1,0 +1,26 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0088-00,Évaluation de métrique F1 dans un moteur d'indexation hybride,Apprentissage automatique,2025,gradient;surapprentissage;scikit-learn,0.562
+P0088-01,Évaluation de ranking dans un moteur d'indexation hybride,Recherche d'information,2026,index inversé;précision;BM25,0.939
+P0088-02,Jeu d'entraînement pour la recherche documentaire locale,Apprentissage automatique,2026,régression;feature engineering;surapprentissage,0.515
+P0088-03,Vers une indexation intelligente fondée sur entité nommée,Traitement automatique du langage,2019,embedding;tokenisation;similarité cosinus,0.363
+P0088-04,Gradient pour la recherche documentaire locale,Apprentissage automatique,2024,surapprentissage;classification;jeu d'entraînement,0.555
+P0088-05,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2026,hybride;ranking;métadonnées,0.977
+P0088-06,Gouvernance des données pour la recherche documentaire locale,Systèmes d'information,2022,GED;référentiel;archivage,0.673
+P0088-07,Évaluation de processus dans un moteur d'indexation hybride,Systèmes d'information,2024,interopérabilité;archivage;gouvernance des données,0.547
+P0088-08,Évaluation de attention dans un moteur d'indexation hybride,Traitement automatique du langage,2026,vectorisation;embedding;attention,0.839
+P0088-09,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2022,similarité cosinus;spaCy;n-grammes,0.453
+P0088-10,Vers une indexation intelligente fondée sur interopérabilité,Systèmes d'information,2019,gouvernance des données;métier;urbanisation SI,0.433
+P0088-11,Vers une indexation intelligente fondée sur OLAP,Bases de données,2023,index B-tree;transaction;OLAP,0.433
+P0088-12,Performance front pour la recherche documentaire locale,Ingénierie web,2024,JSON;CORS;performance front,0.470
+P0088-13,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2022,jeu d'entraînement;gradient;régression,0.519
+P0088-14,Évaluation de classification dans un moteur d'indexation hybride,Apprentissage automatique,2026,régression;réseau de neurones;feature engineering,0.453
+P0088-15,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2025,journalisation;principe du moindre privilège;session,0.904
+P0088-16,Sqlite pour la recherche documentaire locale,Bases de données,2021,FTS5;PostgreSQL;requête SQL,0.580
+P0088-17,Évaluation de précision dans un moteur d'indexation hybride,Recherche d'information,2023,rappel;ranking;BM25,0.460
+P0088-18,Index b-tree pour la recherche documentaire locale,Bases de données,2019,requête SQL;index B-tree;FTS5,0.806
+P0088-19,Vers une indexation intelligente fondée sur n-grammes,Traitement automatique du langage,2019,tokenisation;embedding;transformer,0.910
+P0088-20,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2021,couches;Docker;microservices,0.451
+P0088-21,Évaluation de découplage dans un moteur d'indexation hybride,Architecture logicielle,2024,découplage;couches;OpenAPI,0.674
+P0088-22,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2020,principe du moindre privilège;contrôle d'accès;OWASP,0.501
+P0088-23,Évaluation de validation croisée dans un moteur d'indexation hybride,Apprentissage automatique,2024,régression;classification;réseau de neurones,0.808
+P0088-24,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2020,requête SQL;intégrité référentielle;PostgreSQL,0.930

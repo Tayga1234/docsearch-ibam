@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2022-06-01,Centre de documentation et des archives,9,mixte,BORD-2022-105-00,David Kaboré
+2022-06-02,Département Sciences et Technologie,34,CSV,BORD-2022-105-01,David Kaboré
+2022-06-03,Département Sciences et Technologie,5,DOCX,BORD-2022-105-02,Fatou Sanou
+2022-06-04,Département Sciences et Technologie,14,mixte,BORD-2022-105-03,Fatou Sanou
+2022-06-05,Centre de documentation et des archives,25,TXT,BORD-2022-105-04,Fatou Sanou
+2022-06-06,Département Sciences et Technologie,8,DOCX,BORD-2022-105-05,David Kaboré
+2022-06-07,Direction de l'IBAM,13,mixte,BORD-2022-105-06,Fatou Sanou
+2022-06-08,Centre de documentation et des archives,36,TXT,BORD-2022-105-07,David Kaboré
+2022-06-09,Service de la scolarité et des examens,34,PDF,BORD-2022-105-08,Issa Ouédraogo
+2022-06-10,Agence comptable de l'IBAM,11,PDF,BORD-2022-105-09,Fatou Sanou
+2022-06-11,Agence comptable de l'IBAM,40,mixte,BORD-2022-105-10,David Kaboré
+2022-06-12,Service des ressources humaines,5,TXT,BORD-2022-105-11,David Kaboré
+2022-06-13,Service des systèmes d'information,15,TXT,BORD-2022-105-12,Fatou Sanou
+2022-06-14,Service des ressources humaines,11,CSV,BORD-2022-105-13,Fatou Sanou
+2022-06-15,Agence comptable de l'IBAM,6,PDF,BORD-2022-105-14,Fatou Sanou
+2022-06-16,Département Sciences et Technologie,39,TXT,BORD-2022-105-15,David Kaboré

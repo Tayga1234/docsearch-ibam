@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2021-074-00,2021-06-01,Paulin Kientega,Cellule des stages et de l'insertion professionnelle,DocSearch inaccessible,haute,en cours
+T-2021-074-01,2021-06-02,David Lingani,Département Sciences économiques et de gestion,poste bloqué,basse,en cours
+T-2021-074-02,2021-06-03,Ibrahim Bationo,Département Sciences économiques et de gestion,DocSearch inaccessible,normale,en cours
+T-2021-074-03,2021-06-04,Aminata Ouédraogo,Service de la scolarité et des examens,restauration fichier,basse,en cours
+T-2021-074-04,2021-06-05,Inès Nacanabo,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,haute,clos
+T-2021-074-05,2021-06-06,Wendyam Zida,Agence comptable de l'IBAM,poste bloqué,basse,en cours
+T-2021-074-06,2021-06-07,Abdoulaye Somé,Service des systèmes d'information,vidéo projecteur Somgandé,haute,ouvert
+T-2021-074-07,2021-06-08,Moussa Zongo,Centre de documentation et des archives,vidéo projecteur Somgandé,basse,ouvert
+T-2021-074-08,2021-06-09,Issa Traoré,Service des ressources humaines,imprimante documentation,basse,en cours
+T-2021-074-09,2021-06-10,Boukary Traoré,Département Sciences économiques et de gestion,vidéo projecteur Somgandé,basse,clos
+T-2021-074-10,2021-06-11,Issa Sawadogo,Département Sciences et Technologie,poste bloqué,normale,en cours
+T-2021-074-11,2021-06-12,Rasmané Savadogo,Service des systèmes d'information,DocSearch inaccessible,normale,clos
+T-2021-074-12,2021-06-13,Claire Bationo,Département Sciences économiques et de gestion,DocSearch inaccessible,haute,ouvert
+T-2021-074-13,2021-06-14,Wendyam Bationo,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,haute,en cours
+T-2021-074-14,2021-06-15,Abdoulaye Savadogo,Département Sciences économiques et de gestion,vidéo projecteur Somgandé,basse,clos
+T-2021-074-15,2021-06-16,Yacouba Traoré,Service des ressources humaines,imprimante documentation,basse,en cours
+T-2021-074-16,2021-06-17,Salimata Ganemtoré,Département Sciences et Technologie,DocSearch inaccessible,haute,ouvert
+T-2021-074-17,2021-06-18,Nadia Sawadogo,Département Sciences économiques et de gestion,restauration fichier,haute,en cours
+T-2021-074-18,2021-06-19,Wendyam Ganemtoré,Centre de documentation et des archives,restauration fichier,normale,clos
+T-2021-074-19,2021-06-20,Mariam Ganemtoré,Cellule qualité et évaluation,restauration fichier,basse,clos

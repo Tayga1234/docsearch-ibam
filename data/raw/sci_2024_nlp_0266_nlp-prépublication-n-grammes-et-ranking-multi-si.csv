@@ -1,0 +1,15 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0266-00,Requête pour la recherche documentaire locale,Recherche d'information,2019,Whoosh;ranking;requête,0.377
+P0266-01,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2025,transformer;spaCy;lemmatisation,0.483
+P0266-02,Vite pour la recherche documentaire locale,Ingénierie web,2022,HTTP;accessibilité;JSON,0.896
+P0266-03,Vers une indexation intelligente fondée sur gouvernance des données,Systèmes d'information,2023,interopérabilité;archivage;GED,0.457
+P0266-04,Vers une indexation intelligente fondée sur vectorisation,Traitement automatique du langage,2020,embedding;BERT;bag-of-words,0.969
+P0266-05,Schéma pour la recherche documentaire locale,Bases de données,2019,intégrité référentielle;FTS5;SQLite,0.369
+P0266-06,Vers une indexation intelligente fondée sur microservices,Architecture logicielle,2025,contrat d'interface;OpenAPI;FastAPI,0.433
+P0266-07,Évaluation de JSON dans un moteur d'indexation hybride,Ingénierie web,2021,SPA;CORS;performance front,0.954
+P0266-08,Évaluation de SQLite dans un moteur d'indexation hybride,Bases de données,2021,OLAP;intégrité référentielle;index B-tree,0.671
+P0266-09,Transaction pour la recherche documentaire locale,Bases de données,2024,normalisation;OLAP;requête SQL,0.901
+P0266-10,Évaluation de transaction dans un moteur d'indexation hybride,Bases de données,2019,intégrité référentielle;transaction;SQLite,0.910
+P0266-11,Évaluation de nDCG dans un moteur d'indexation hybride,Recherche d'information,2026,précision;requête;pertinence,0.831
+P0266-12,Sqlite pour la recherche documentaire locale,Bases de données,2026,PostgreSQL;FTS5;requête SQL,0.779
+P0266-13,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2019,performance front;Vite;CORS,0.603

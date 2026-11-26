@@ -1,0 +1,31 @@
+Cartographie des approches de HTTP (2018-2026)
+
+Auteurs : E. Tapsoba (IBAM), T. Bonkoungou (UJKZ), C. Yaméogo (UJKZ), L. Compaoré (Université Thomas Sankara)
+Année : 2020
+Type : survey
+Domaine : Ingénierie web
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : Vite, CORS, composant, état client, SPA, évaluation expérimentale
+
+Résumé
+Cet article traite de « Cartographie des approches de HTTP (2018-2026) » dans le domaine ingénierie web. Nous présentons une comparaison de trois approches d'indexation, centrée sur Vite, CORS, composant. Les résultats indiquent que l'approche retenue montre l'intérêt d'un enrichissement déterministe. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Cadre théorique
+Dans le champ ingénierie web, la notion de Vite reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur composant et sur accessibilité, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Méthode
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ ingénierie web, la notion de état client reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur état client et sur React, souvent combinés dans des architectures hybrides.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

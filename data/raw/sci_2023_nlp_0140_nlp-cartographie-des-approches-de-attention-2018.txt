@@ -1,0 +1,31 @@
+Cartographie des approches de attention (2018-2026)
+
+Auteurs : N. Guigma (UJKZ), S. Traoré (Université Nazi Boni), E. Tapsoba (IBAM), Y. Ouattara (ESI)
+Année : 2023
+Type : survey
+Domaine : Traitement automatique du langage
+Revue / support : Conférence SI et développement
+Mots-clés : spaCy, entité nommée, similarité cosinus, embedding, bag-of-words, système d'information
+
+Résumé
+Cet article traite de « Cartographie des approches de attention (2018-2026) » dans le domaine traitement automatique du langage. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur spaCy, entité nommée, similarité cosinus. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Cadre théorique
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur système d'information et sur lemmatisation, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Méthode
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur entité nommée et sur bag-of-words, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Résultats
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur entité nommée et sur bag-of-words, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les travaux récents insistent sur système d'information et sur attention, souvent combinés dans des architectures hybrides. Dans le champ traitement automatique du langage, la notion de système d'information reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Conclusion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

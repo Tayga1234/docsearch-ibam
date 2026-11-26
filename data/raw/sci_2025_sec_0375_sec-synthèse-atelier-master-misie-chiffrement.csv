@@ -1,0 +1,19 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0375-00,Spacy pour la recherche documentaire locale,Traitement automatique du langage,2020,BERT;lemmatisation;n-grammes,0.554
+P0375-01,Ndcg pour la recherche documentaire locale,Recherche d'information,2019,ranking;hybride;index inversé,0.723
+P0375-02,Évaluation de intégrité référentielle dans un moteur d'indexation hybride,Bases de données,2026,SQLite;transaction;requête SQL,0.609
+P0375-03,Journalisation pour la recherche documentaire locale,Sécurité des SI,2026,contrôle d'accès;OWASP;autorisation,0.971
+P0375-04,Évaluation de similarité cosinus dans un moteur d'indexation hybride,Traitement automatique du langage,2026,entité nommée;lemmatisation;attention,0.625
+P0375-05,Tf-idf pour la recherche documentaire locale,Recherche d'information,2021,BM25;rappel;nDCG,0.563
+P0375-06,Requête sql pour la recherche documentaire locale,Bases de données,2019,index B-tree;requête SQL;transaction,0.645
+P0375-07,Vers une indexation intelligente fondée sur urbanisation SI,Systèmes d'information,2020,métier;processus;urbanisation SI,0.875
+P0375-08,Vers une indexation intelligente fondée sur OpenAPI,Architecture logicielle,2021,API REST;microservices;ingestion,0.963
+P0375-09,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2021,contrat d'interface;API REST;couches,0.549
+P0375-10,Vers une indexation intelligente fondée sur gradient,Apprentissage automatique,2023,surapprentissage;réseau de neurones;classification,0.948
+P0375-11,Vers une indexation intelligente fondée sur métier,Systèmes d'information,2026,interopérabilité;cycle de vie documentaire;référentiel,0.410
+P0375-12,Évaluation de découplage dans un moteur d'indexation hybride,Architecture logicielle,2022,contrat d'interface;ingestion;FastAPI,0.875
+P0375-13,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2026,urbanisation SI;archivage;processus,0.783
+P0375-14,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2019,régression;jeu d'entraînement;réseau de neurones,0.504
+P0375-15,Docker pour la recherche documentaire locale,Architecture logicielle,2025,découplage;Docker;pipeline,0.385
+P0375-16,Évaluation de Docker dans un moteur d'indexation hybride,Architecture logicielle,2019,OpenAPI;pipeline;microservices,0.882
+P0375-17,Vers une indexation intelligente fondée sur requête,Recherche d'information,2019,corpus;Lucene;rappel,0.537

@@ -1,0 +1,31 @@
+Compte rendu du séminaire Traitement automatique du langage — session similarité cosinus
+
+Auteurs : B. Lingani (UJKZ), E. Tapsoba (IBAM)
+Année : 2026
+Type : compte_rendu
+Domaine : Traitement automatique du langage
+Revue / support : Bulletin technique ANPTIC
+Mots-clés : attention, vectorisation, n-grammes, transformer, embedding, système d'information
+
+Résumé
+Cet article traite de « Compte rendu du séminaire Traitement automatique du langage — session similarité cosinus » dans le domaine traitement automatique du langage. Nous présentons une comparaison de trois approches d'indexation, centrée sur attention, vectorisation, n-grammes. Les résultats indiquent que l'approche retenue met en évidence le rôle des métadonnées dans le ranking. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Dans le champ traitement automatique du langage, la notion de transformer reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur n-grammes et sur vectorisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur embedding et sur tokenisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Résultats
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+Les travaux récents insistent sur embedding et sur vectorisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ traitement automatique du langage, la notion de attention reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Conclusion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Dans le champ traitement automatique du langage, la notion de système d'information reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

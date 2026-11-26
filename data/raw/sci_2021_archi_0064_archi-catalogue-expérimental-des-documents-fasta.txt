@@ -1,0 +1,31 @@
+Catalogue expérimental des documents FastAPI
+
+Auteurs : N. Guigma (UJKZ), P. Nikièma (ANPTIC), D. Somé (IBAM), R. Ilboudo (IBAM)
+Année : 2021
+Type : dataset
+Domaine : Architecture logicielle
+Revue / support : Actes des Journées scientifiques UJKZ
+Mots-clés : Docker, contrat d'interface, pipeline, OpenAPI, couches, informatique
+
+Résumé
+Cet article traite de « Catalogue expérimental des documents FastAPI » dans le domaine architecture logicielle. Nous présentons une étude de cas dans un centre de documentation universitaire, centrée sur Docker, contrat d'interface, pipeline. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur contrat d'interface et sur contrat d'interface, souvent combinés dans des architectures hybrides.
+
+Cadre théorique
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur informatique et sur microservices, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur couches et sur Docker, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ architecture logicielle, la notion de Docker reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur contrat d'interface et sur FastAPI, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ architecture logicielle, la notion de Docker reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur OpenAPI et sur contrat d'interface, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ architecture logicielle, la notion de OpenAPI reste centrale pour comprendre la qualité des réponses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

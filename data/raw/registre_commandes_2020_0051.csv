@@ -1,0 +1,15 @@
+ref,date,designation,montant_fcfa,imputation,etat
+BC-2020-051-00,2020-01-01,pièces onduleur,605000,606,soldé
+BC-2020-051-01,2020-01-02,reliure semestrielles,70000,618,soldé
+BC-2020-051-02,2020-01-03,ramettes A4,710000,641,soldé
+BC-2020-051-03,2020-01-04,pièces onduleur,255000,641,soldé
+BC-2020-051-04,2020-01-05,classeurs archives,385000,618,engagé
+BC-2020-051-05,2020-01-06,abonnements revues,585000,606,livré
+BC-2020-051-06,2020-01-07,pièces onduleur,750000,618,livré
+BC-2020-051-07,2020-01-08,reliure semestrielles,370000,643,livré
+BC-2020-051-08,2020-01-09,badges visiteurs,605000,618,engagé
+BC-2020-051-09,2020-01-10,reliure semestrielles,185000,618,engagé
+BC-2020-051-10,2020-01-11,classeurs archives,460000,606,engagé
+BC-2020-051-11,2020-01-12,classeurs archives,110000,643,engagé
+BC-2020-051-12,2020-01-13,reliure semestrielles,540000,606,livré
+BC-2020-051-13,2020-01-14,ramettes A4,635000,641,livré

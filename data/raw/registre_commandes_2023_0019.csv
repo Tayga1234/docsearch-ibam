@@ -1,0 +1,15 @@
+ref,date,designation,montant_fcfa,imputation,etat
+BC-2023-019-00,2023-03-01,classeurs archives,250000,606,soldé
+BC-2023-019-01,2023-03-02,reliure semestrielles,430000,641,soldé
+BC-2023-019-02,2023-03-03,reliure semestrielles,150000,643,engagé
+BC-2023-019-03,2023-03-04,abonnements revues,310000,618,engagé
+BC-2023-019-04,2023-03-05,classeurs archives,220000,641,livré
+BC-2023-019-05,2023-03-06,classeurs archives,110000,643,engagé
+BC-2023-019-06,2023-03-07,classeurs archives,185000,641,soldé
+BC-2023-019-07,2023-03-08,pièces onduleur,640000,641,livré
+BC-2023-019-08,2023-03-09,reliure semestrielles,695000,618,livré
+BC-2023-019-09,2023-03-10,classeurs archives,320000,641,soldé
+BC-2023-019-10,2023-03-11,classeurs archives,630000,606,soldé
+BC-2023-019-11,2023-03-12,abonnements revues,620000,606,livré
+BC-2023-019-12,2023-03-13,reliure semestrielles,730000,641,livré
+BC-2023-019-13,2023-03-14,pièces onduleur,30000,641,livré

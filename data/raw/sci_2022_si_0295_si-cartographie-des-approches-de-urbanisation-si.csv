@@ -1,0 +1,17 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0295-00,Vers une indexation intelligente fondée sur bag-of-words,Traitement automatique du langage,2023,bag-of-words;lemmatisation;vectorisation,0.555
+P0295-01,Ldap pour la recherche documentaire locale,Sécurité des SI,2026,chiffrement;autorisation;principe du moindre privilège,0.700
+P0295-02,Autorisation pour la recherche documentaire locale,Sécurité des SI,2021,session;chiffrement;authentification,0.877
+P0295-03,Fts5 pour la recherche documentaire locale,Bases de données,2020,SQLite;OLAP;intégrité référentielle,0.573
+P0295-04,Ged pour la recherche documentaire locale,Systèmes d'information,2024,métier;interopérabilité;gouvernance des données,0.857
+P0295-05,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2022,API REST;FastAPI;Docker,0.976
+P0295-06,Ingestion pour la recherche documentaire locale,Architecture logicielle,2021,Docker;ingestion;couches,0.485
+P0295-07,Évaluation de couches dans un moteur d'indexation hybride,Architecture logicielle,2023,pipeline;OpenAPI;contrat d'interface,0.362
+P0295-08,Accessibilité pour la recherche documentaire locale,Ingénierie web,2026,composant;performance front;Vite,0.528
+P0295-09,Vers une indexation intelligente fondée sur SQLite,Bases de données,2021,OLAP;requête SQL;FTS5,0.625
+P0295-10,Vers une indexation intelligente fondée sur hybride,Recherche d'information,2025,rappel;corpus;ranking,0.910
+P0295-11,Évaluation de gradient dans un moteur d'indexation hybride,Apprentissage automatique,2022,classification;validation croisée;réseau de neurones,0.404
+P0295-12,Vers une indexation intelligente fondée sur similarité cosinus,Traitement automatique du langage,2024,bag-of-words;similarité cosinus;spaCy,0.637
+P0295-13,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2023,gradient;scikit-learn;feature engineering,0.600
+P0295-14,Bag-of-words pour la recherche documentaire locale,Traitement automatique du langage,2025,lemmatisation;n-grammes;attention,0.507
+P0295-15,Vers une indexation intelligente fondée sur pertinence,Recherche d'information,2019,hybride;Lucene;rappel,0.773

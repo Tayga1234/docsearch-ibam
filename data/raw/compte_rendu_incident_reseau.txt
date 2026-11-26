@@ -1,0 +1,28 @@
+BURKINA FASO
+Unité – Progrès – Justice
+
+Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+UNIVERSITÉ JOSEPH KI-ZERBO
+INSTITUT BURKINABÈ DES ARTS ET MÉTIERS (IBAM)
+Service des systèmes d'information
+
+03 BP 7021 Ouagadougou 03  —  Tél. (+226) 25 30 70 64 / 65  —  Fax (+226) 25 30 72 42
+
+Réf. : IBAM/DSI/INC/2025/007
+Ouagadougou, le 12 mars 2025
+
+Objet : Compte rendu d'incident réseau du 11 mars 2025
+Destinataires : Direction, agence comptable
+
+Le 11 mars 2025 à 9 h 12, une coupure SONABEL a entraîné l'arrêt brutal du serveur documentaire malgré l'onduleur, dont la batterie n'a tenu que 8 minutes (au lieu de 40). DocSearch a été indisponible jusqu'à 11 h 47, après contrôle d'intégrité de la base SQLite (aucune corruption).
+Pendant l'indisponibilité, le prêt d'ouvrages s'est fait manuellement. Deux étudiants de L3 MIAGE n'ont pas pu consulter le règlement des examens en ligne ; un exemplaire papier leur a été fourni.
+Cause racine : batterie onduleur en fin de vie (installée en 2022) et charge excessive des climatiseurs sur le même circuit. Actions : devis de batterie (voir demande d'achat), étiquetage du circuit archives, test mensuel d'autonomie.
+Incident clos le 12 mars. Cote DSI-INC-2025-007.
+
+Ampliations :
+  – Direction de l'IBAM
+  – Centre de documentation et des archives
+  – Chrono / archives IBAM
+
+Ibrahim Ouédraogo, chef du service des systèmes d'information
+IBAM / UJKZ — document interne, reproduction soumise à autorisation.

@@ -1,0 +1,31 @@
+Vers une indexation intelligente fondée sur OWASP
+
+Auteurs : J. Dabiré (Université Joseph Ki-Zerbo), E. Tapsoba (IBAM)
+Année : 2019
+Type : article
+Domaine : Sécurité des SI
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : session, LDAP, jeton Bearer, chiffrement, authentification, évaluation expérimentale
+
+Résumé
+Cet article traite de « Vers une indexation intelligente fondée sur OWASP » dans le domaine sécurité des si. Nous présentons une revue systématique de la littérature, centrée sur session, LDAP, jeton Bearer. Les résultats indiquent que l'approche retenue met en évidence le rôle des métadonnées dans le ranking. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les travaux récents insistent sur session et sur session, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Cadre théorique
+Les travaux récents insistent sur chiffrement et sur autorisation, souvent combinés dans des architectures hybrides. Dans le champ sécurité des si, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur authentification et sur session, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+Dans le champ sécurité des si, la notion de authentification reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur session et sur journalisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Discussion
+Les travaux récents insistent sur LDAP et sur contrôle d'accès, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ sécurité des si, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

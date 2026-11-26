@@ -1,0 +1,31 @@
+Poster : gouvernance des données et indexation multi-formats
+
+Auteurs : A. Kaboré (UJKZ), N. Guigma (UJKZ), R. Ilboudo (IBAM)
+Année : 2022
+Type : poster
+Domaine : Systèmes d'information
+Revue / support : Workshop Recherche d'information francophone
+Mots-clés : gouvernance des données, archivage, urbanisation SI, interopérabilité, métier, évaluation expérimentale
+
+Résumé
+Cet article traite de « Poster : gouvernance des données et indexation multi-formats » dans le domaine systèmes d'information. Nous présentons une analyse de pipeline d'ingestion multi-formats, centrée sur gouvernance des données, archivage, urbanisation SI. Les résultats indiquent que l'approche retenue distingue clairement parcours sans index et moteur à index. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Cadre théorique
+Dans le champ systèmes d'information, la notion de archivage reste centrale pour comprendre la qualité des réponses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Méthode
+Dans le champ systèmes d'information, la notion de interopérabilité reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+Les travaux récents insistent sur urbanisation SI et sur cycle de vie documentaire, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur évaluation expérimentale et sur interopérabilité, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Conclusion
+Les travaux récents insistent sur métier et sur cycle de vie documentaire, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

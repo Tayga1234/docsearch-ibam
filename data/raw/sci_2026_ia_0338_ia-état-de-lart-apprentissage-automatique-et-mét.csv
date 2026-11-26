@@ -1,0 +1,29 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0338-00,Évaluation de SPA dans un moteur d'indexation hybride,Ingénierie web,2021,HTTP;React;performance front,0.643
+P0338-01,Vers une indexation intelligente fondée sur régression,Apprentissage automatique,2019,feature engineering;régression;validation croisée,0.741
+P0338-02,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2020,hybride;corpus;rappel,0.717
+P0338-03,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2023,composant;SPA;accessibilité,0.668
+P0338-04,Évaluation de index B-tree dans un moteur d'indexation hybride,Bases de données,2022,requête SQL;NoSQL;OLAP,0.918
+P0338-05,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2021,référentiel;cycle de vie documentaire;processus,0.823
+P0338-06,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2025,réseau de neurones;jeu d'entraînement;scikit-learn,0.502
+P0338-07,Vers une indexation intelligente fondée sur état client,Ingénierie web,2023,Vite;HTTP;React,0.670
+P0338-08,Vers une indexation intelligente fondée sur SQLite,Bases de données,2024,NoSQL;intégrité référentielle;SQLite,0.488
+P0338-09,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2023,contrat d'interface;FastAPI;API REST,0.484
+P0338-10,Évaluation de BERT dans un moteur d'indexation hybride,Traitement automatique du langage,2025,vectorisation;spaCy;tokenisation,0.700
+P0338-11,Principe du moindre privilège pour la recherche documentaire locale,Sécurité des SI,2024,principe du moindre privilège;chiffrement;authentification,0.819
+P0338-12,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2025,lemmatisation;attention;entité nommée,0.381
+P0338-13,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2024,requête SQL;PostgreSQL;NoSQL,0.477
+P0338-14,Vers une indexation intelligente fondée sur bag-of-words,Traitement automatique du langage,2021,lemmatisation;attention;entité nommée,0.742
+P0338-15,Vers une indexation intelligente fondée sur NoSQL,Bases de données,2021,PostgreSQL;index B-tree;schéma,0.534
+P0338-16,Session pour la recherche documentaire locale,Sécurité des SI,2023,principe du moindre privilège;jeton Bearer;autorisation,0.768
+P0338-17,Vers une indexation intelligente fondée sur feature engineering,Apprentissage automatique,2021,feature engineering;validation croisée;gradient,0.686
+P0338-18,Référentiel pour la recherche documentaire locale,Systèmes d'information,2023,gouvernance des données;métier;cycle de vie documentaire,0.727
+P0338-19,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2023,OpenAPI;pipeline;découplage,0.438
+P0338-20,Vers une indexation intelligente fondée sur chiffrement,Sécurité des SI,2023,principe du moindre privilège;OWASP;authentification,0.816
+P0338-21,Json pour la recherche documentaire locale,Ingénierie web,2026,composant;CORS;JSON,0.934
+P0338-22,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2025,archivage;GED;urbanisation SI,0.443
+P0338-23,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2021,Docker;API REST;ingestion,0.502
+P0338-24,Évaluation de transformer dans un moteur d'indexation hybride,Traitement automatique du langage,2024,embedding;transformer;entité nommée,0.462
+P0338-25,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2023,urbanisation SI;archivage;métier,0.668
+P0338-26,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2022,LDAP;OWASP;principe du moindre privilège,0.515
+P0338-27,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2021,contrat d'interface;découplage;ingestion,0.407

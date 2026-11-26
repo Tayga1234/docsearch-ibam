@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0362-00,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2019,authentification;OWASP;principe du moindre privilège,0.411
+P0362-01,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2026,classification;scikit-learn;régression,0.575
+P0362-02,Autorisation pour la recherche documentaire locale,Sécurité des SI,2019,authentification;autorisation;chiffrement,0.868
+P0362-03,Vers une indexation intelligente fondée sur entité nommée,Traitement automatique du langage,2023,n-grammes;lemmatisation;vectorisation,0.610
+P0362-04,React pour la recherche documentaire locale,Ingénierie web,2025,accessibilité;performance front;React,0.356
+P0362-05,Postgresql pour la recherche documentaire locale,Bases de données,2024,schéma;transaction;PostgreSQL,0.898
+P0362-06,Validation croisée pour la recherche documentaire locale,Apprentissage automatique,2024,validation croisée;jeu d'entraînement;feature engineering,0.856
+P0362-07,Vers une indexation intelligente fondée sur Vite,Ingénierie web,2026,accessibilité;Vite;état client,0.943
+P0362-08,Entité nommée pour la recherche documentaire locale,Traitement automatique du langage,2022,lemmatisation;similarité cosinus;vectorisation,0.502
+P0362-09,Vers une indexation intelligente fondée sur attention,Traitement automatique du langage,2020,transformer;entité nommée;tokenisation,0.889
+P0362-10,Évaluation de microservices dans un moteur d'indexation hybride,Architecture logicielle,2025,découplage;pipeline;FastAPI,0.727
+P0362-11,Évaluation de pertinence dans un moteur d'indexation hybride,Recherche d'information,2022,rappel;corpus;ranking,0.525
+P0362-12,État client pour la recherche documentaire locale,Ingénierie web,2026,CORS;performance front;React,0.811
+P0362-13,Évaluation de FTS5 dans un moteur d'indexation hybride,Bases de données,2026,normalisation;NoSQL;requête SQL,0.893
+P0362-14,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2019,JSON;accessibilité;composant,0.583
+P0362-15,React pour la recherche documentaire locale,Ingénierie web,2024,HTTP;JSON;état client,0.570
+P0362-16,Api rest pour la recherche documentaire locale,Architecture logicielle,2019,contrat d'interface;découplage;pipeline,0.817
+P0362-17,Vers une indexation intelligente fondée sur similarité cosinus,Traitement automatique du langage,2025,attention;embedding;similarité cosinus,0.728
+P0362-18,Microservices pour la recherche documentaire locale,Architecture logicielle,2023,couches;contrat d'interface;Docker,0.666
+P0362-19,Tokenisation pour la recherche documentaire locale,Traitement automatique du langage,2025,embedding;vectorisation;entité nommée,0.915
+P0362-20,Rappel pour la recherche documentaire locale,Recherche d'information,2026,hybride;corpus;TF-IDF,0.695
+P0362-21,Évaluation de n-grammes dans un moteur d'indexation hybride,Traitement automatique du langage,2022,transformer;entité nommée;n-grammes,0.584

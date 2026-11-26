@@ -1,0 +1,26 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0315-00,Autorisation pour la recherche documentaire locale,Sécurité des SI,2023,OWASP;session;principe du moindre privilège,0.390
+P0315-01,Vers une indexation intelligente fondée sur état client,Ingénierie web,2021,SPA;React;état client,0.632
+P0315-02,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2026,métrique F1;surapprentissage;jeu d'entraînement,0.881
+P0315-03,Évaluation de session dans un moteur d'indexation hybride,Sécurité des SI,2026,autorisation;chiffrement;jeton Bearer,0.700
+P0315-04,Validation croisée pour la recherche documentaire locale,Apprentissage automatique,2022,classification;régression;réseau de neurones,0.568
+P0315-05,Évaluation de transaction dans un moteur d'indexation hybride,Bases de données,2019,normalisation;PostgreSQL;SQLite,0.472
+P0315-06,Session pour la recherche documentaire locale,Sécurité des SI,2025,authentification;OWASP;chiffrement,0.890
+P0315-07,Vers une indexation intelligente fondée sur embedding,Traitement automatique du langage,2019,attention;tokenisation;bag-of-words,0.499
+P0315-08,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2022,ingestion;microservices;FastAPI,0.942
+P0315-09,Fts5 pour la recherche documentaire locale,Bases de données,2020,NoSQL;SQLite;transaction,0.972
+P0315-10,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2024,validation croisée;feature engineering;scikit-learn,0.642
+P0315-11,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2026,OLAP;requête SQL;FTS5,0.536
+P0315-12,Postgresql pour la recherche documentaire locale,Bases de données,2020,OLAP;requête SQL;normalisation,0.801
+P0315-13,Évaluation de nDCG dans un moteur d'indexation hybride,Recherche d'information,2019,hybride;corpus;ranking,0.835
+P0315-14,Vers une indexation intelligente fondée sur SPA,Ingénierie web,2021,performance front;JSON;composant,0.922
+P0315-15,Schéma pour la recherche documentaire locale,Bases de données,2022,intégrité référentielle;SQLite;transaction,0.551
+P0315-16,Évaluation de NoSQL dans un moteur d'indexation hybride,Bases de données,2026,transaction;NoSQL;SQLite,0.622
+P0315-17,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2022,couches;pipeline;découplage,0.415
+P0315-18,Précision pour la recherche documentaire locale,Recherche d'information,2025,ranking;BM25;Lucene,0.559
+P0315-19,Évaluation de lemmatisation dans un moteur d'indexation hybride,Traitement automatique du langage,2022,spaCy;vectorisation;embedding,0.935
+P0315-20,Évaluation de schéma dans un moteur d'indexation hybride,Bases de données,2021,schéma;intégrité référentielle;SQLite,0.659
+P0315-21,Spa pour la recherche documentaire locale,Ingénierie web,2022,accessibilité;composant;React,0.733
+P0315-22,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2020,urbanisation SI;archivage;GED,0.834
+P0315-23,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2020,archivage;gouvernance des données;processus,0.828
+P0315-24,Spa pour la recherche documentaire locale,Ingénierie web,2023,JSON;Vite;React,0.550

@@ -1,0 +1,17 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0059-00,Vers une indexation intelligente fondée sur métrique F1,Apprentissage automatique,2019,scikit-learn;classification;feature engineering,0.365
+P0059-01,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2025,validation croisée;scikit-learn;métrique F1,0.591
+P0059-02,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2019,autorisation;contrôle d'accès;LDAP,0.352
+P0059-03,Json pour la recherche documentaire locale,Ingénierie web,2020,accessibilité;performance front;composant,0.456
+P0059-04,Jeu d'entraînement pour la recherche documentaire locale,Apprentissage automatique,2022,surapprentissage;jeu d'entraînement;classification,0.926
+P0059-05,React pour la recherche documentaire locale,Ingénierie web,2021,composant;JSON;état client,0.748
+P0059-06,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2025,réseau de neurones;métrique F1;surapprentissage,0.562
+P0059-07,Évaluation de couches dans un moteur d'indexation hybride,Architecture logicielle,2020,pipeline;découplage;API REST,0.564
+P0059-08,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2026,validation croisée;scikit-learn;régression,0.428
+P0059-09,Nosql pour la recherche documentaire locale,Bases de données,2020,requête SQL;index B-tree;SQLite,0.574
+P0059-10,Évaluation de pipeline dans un moteur d'indexation hybride,Architecture logicielle,2019,Docker;ingestion;contrat d'interface,0.812
+P0059-11,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2025,feature engineering;gradient;surapprentissage,0.695
+P0059-12,Gradient pour la recherche documentaire locale,Apprentissage automatique,2022,validation croisée;scikit-learn;jeu d'entraînement,0.457
+P0059-13,Cors pour la recherche documentaire locale,Ingénierie web,2019,JSON;composant;état client,0.499
+P0059-14,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2019,jeton Bearer;authentification;OWASP,0.389
+P0059-15,Vers une indexation intelligente fondée sur gouvernance des données,Systèmes d'information,2020,urbanisation SI;processus;archivage,0.865

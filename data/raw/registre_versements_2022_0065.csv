@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2022-06-01,Service de la scolarité et des examens,4,PDF,BORD-2022-065-00,Fatou Sanou
+2022-06-02,Centre de documentation et des archives,18,mixte,BORD-2022-065-01,David Kaboré
+2022-06-03,Service des systèmes d'information,34,DOCX,BORD-2022-065-02,David Kaboré
+2022-06-04,Direction de l'IBAM,15,CSV,BORD-2022-065-03,Issa Ouédraogo
+2022-06-05,Service des systèmes d'information,6,PDF,BORD-2022-065-04,Issa Ouédraogo
+2022-06-06,Direction de l'IBAM,39,DOCX,BORD-2022-065-05,Fatou Sanou
+2022-06-07,Département Sciences économiques et de gestion,39,DOCX,BORD-2022-065-06,David Kaboré
+2022-06-08,Agence comptable de l'IBAM,40,TXT,BORD-2022-065-07,Issa Ouédraogo
+2022-06-09,Cellule qualité et évaluation,31,TXT,BORD-2022-065-08,David Kaboré
+2022-06-10,Département Sciences et Technologie,10,TXT,BORD-2022-065-09,Issa Ouédraogo
+2022-06-11,Direction de l'IBAM,15,DOCX,BORD-2022-065-10,Fatou Sanou
+2022-06-12,Centre de documentation et des archives,20,DOCX,BORD-2022-065-11,David Kaboré
+2022-06-13,Cellule des stages et de l'insertion professionnelle,39,TXT,BORD-2022-065-12,Fatou Sanou
+2022-06-14,Département Sciences et Technologie,21,PDF,BORD-2022-065-13,David Kaboré
+2022-06-15,Service des systèmes d'information,6,TXT,BORD-2022-065-14,Fatou Sanou
+2022-06-16,Service des ressources humaines,8,mixte,BORD-2022-065-15,Issa Ouédraogo

@@ -1,0 +1,31 @@
+Cors pour la recherche documentaire locale
+
+Auteurs : I. Sawadogo (2iE), F. Sanou (IBAM), A. Kaboré (UJKZ), K. Zongo (UJKZ)
+Année : 2019
+Type : article
+Domaine : Ingénierie web
+Revue / support : Cahiers de la recherche en SI
+Mots-clés : JSON, performance front, composant, HTTP, accessibilité, informatique
+
+Résumé
+Cet article traite de « Cors pour la recherche documentaire locale » dans le domaine ingénierie web. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur JSON, performance front, composant. Les résultats indiquent que l'approche retenue montre l'intérêt d'un enrichissement déterministe. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur informatique et sur CORS, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur JSON et sur SPA, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Méthode
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ ingénierie web, la notion de composant reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Les travaux récents insistent sur accessibilité et sur composant, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Discussion
+Les travaux récents insistent sur performance front et sur composant, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Conclusion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

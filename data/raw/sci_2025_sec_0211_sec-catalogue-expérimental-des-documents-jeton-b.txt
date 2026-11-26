@@ -1,0 +1,31 @@
+Catalogue expérimental des documents jeton Bearer
+
+Auteurs : E. Tapsoba (IBAM), L. Compaoré (Université Thomas Sankara), P. Nikièma (ANPTIC), D. Somé (IBAM)
+Année : 2025
+Type : dataset
+Domaine : Sécurité des SI
+Revue / support : Conférence SI et développement
+Mots-clés : principe du moindre privilège, OWASP, LDAP, chiffrement, contrôle d'accès, informatique
+
+Résumé
+Cet article traite de « Catalogue expérimental des documents jeton Bearer » dans le domaine sécurité des si. Nous présentons une analyse de pipeline d'ingestion multi-formats, centrée sur principe du moindre privilège, OWASP, LDAP. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Dans le champ sécurité des si, la notion de chiffrement reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur contrôle d'accès et sur chiffrement, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Cadre théorique
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+Les travaux récents insistent sur principe du moindre privilège et sur chiffrement, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Discussion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Conclusion
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ sécurité des si, la notion de informatique reste centrale pour comprendre la qualité des réponses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0045-00,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2026,contrat d'interface;couches;pipeline,0.627
+P0045-01,État client pour la recherche documentaire locale,Ingénierie web,2020,CORS;accessibilité;SPA,0.653
+P0045-02,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2026,performance front;Vite;accessibilité,0.869
+P0045-03,Fastapi pour la recherche documentaire locale,Architecture logicielle,2024,pipeline;API REST;ingestion,0.534
+P0045-04,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2026,chiffrement;LDAP;jeton Bearer,0.836
+P0045-05,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2020,régression;scikit-learn;classification,0.393
+P0045-06,Jeton bearer pour la recherche documentaire locale,Sécurité des SI,2021,OWASP;authentification;session,0.481
+P0045-07,Gradient pour la recherche documentaire locale,Apprentissage automatique,2022,gradient;scikit-learn;validation croisée,0.657
+P0045-08,Évaluation de n-grammes dans un moteur d'indexation hybride,Traitement automatique du langage,2024,lemmatisation;similarité cosinus;embedding,0.832
+P0045-09,Contrôle d'accès pour la recherche documentaire locale,Sécurité des SI,2026,autorisation;OWASP;jeton Bearer,0.818
+P0045-10,Vers une indexation intelligente fondée sur SQLite,Bases de données,2019,OLAP;PostgreSQL;index B-tree,0.716
+P0045-11,Vers une indexation intelligente fondée sur CORS,Ingénierie web,2023,HTTP;performance front;JSON,0.858
+P0045-12,Évaluation de NoSQL dans un moteur d'indexation hybride,Bases de données,2021,FTS5;OLAP;SQLite,0.439
+P0045-13,Postgresql pour la recherche documentaire locale,Bases de données,2024,index B-tree;intégrité référentielle;normalisation,0.772
+P0045-14,N-grammes pour la recherche documentaire locale,Traitement automatique du langage,2020,spaCy;vectorisation;similarité cosinus,0.712

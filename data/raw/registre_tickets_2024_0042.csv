@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2024-042-00,2024-11-01,Mariam Kientega,Cellule des stages et de l'insertion professionnelle,poste bloqué,basse,clos
+T-2024-042-01,2024-11-02,David Somé,Département Sciences économiques et de gestion,poste bloqué,haute,en cours
+T-2024-042-02,2024-11-03,Yacouba Dabiré,Centre de documentation et des archives,vidéo projecteur Somgandé,haute,ouvert
+T-2024-042-03,2024-11-04,Nadia Bationo,Cellule des stages et de l'insertion professionnelle,DocSearch inaccessible,normale,en cours
+T-2024-042-04,2024-11-05,Moussa Zongo,Cellule qualité et évaluation,compte CampusFaso,normale,clos
+T-2024-042-05,2024-11-06,Wendyam Ilboudo,Direction de l'IBAM,poste bloqué,normale,en cours
+T-2024-042-06,2024-11-07,Mariam Sawadogo,Service des ressources humaines,restauration fichier,basse,en cours
+T-2024-042-07,2024-11-08,Boukary Yaméogo,Cellule des stages et de l'insertion professionnelle,imprimante documentation,basse,en cours
+T-2024-042-08,2024-11-09,David Bationo,Centre de documentation et des archives,imprimante documentation,basse,en cours
+T-2024-042-09,2024-11-10,Ibrahim Zida,Service des ressources humaines,vidéo projecteur Somgandé,haute,clos
+T-2024-042-10,2024-11-11,Moussa Kientega,Direction de l'IBAM,poste bloqué,haute,clos
+T-2024-042-11,2024-11-12,Awa Ouédraogo,Direction de l'IBAM,poste bloqué,basse,ouvert
+T-2024-042-12,2024-11-13,Issa Somé,Service de la scolarité et des examens,compte CampusFaso,normale,en cours
+T-2024-042-13,2024-11-14,Issa Traoré,Service des systèmes d'information,vidéo projecteur Somgandé,haute,en cours
+T-2024-042-14,2024-11-15,Wendyam Ilboudo,Service de la scolarité et des examens,restauration fichier,normale,en cours
+T-2024-042-15,2024-11-16,Salif Tapsoba,Département Sciences économiques et de gestion,compte CampusFaso,haute,ouvert
+T-2024-042-16,2024-11-17,Mariam Nacanabo,Centre de documentation et des archives,poste bloqué,basse,en cours
+T-2024-042-17,2024-11-18,Nadia Kinda,Centre de documentation et des archives,restauration fichier,basse,en cours
+T-2024-042-18,2024-11-19,Moussa Lingani,Cellule des stages et de l'insertion professionnelle,DocSearch inaccessible,basse,en cours
+T-2024-042-19,2024-11-20,Fatou Nikièma,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,haute,ouvert

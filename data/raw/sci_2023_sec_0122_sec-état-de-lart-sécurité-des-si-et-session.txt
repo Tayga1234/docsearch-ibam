@@ -1,0 +1,31 @@
+État de l'art : sécurité des si et session
+
+Auteurs : V. Kinda (IBAM), H. Bationo (Université Norbert Zongo), D. Somé (IBAM), S. Traoré (Université Nazi Boni)
+Année : 2023
+Type : survey
+Domaine : Sécurité des SI
+Revue / support : Bulletin technique ANPTIC
+Mots-clés : OWASP, autorisation, session, contrôle d'accès, journalisation, évaluation expérimentale
+
+Résumé
+Cet article traite de « État de l'art : sécurité des si et session » dans le domaine sécurité des si. Nous présentons une comparaison de trois approches d'indexation, centrée sur OWASP, autorisation, session. Les résultats indiquent que l'approche retenue distingue clairement parcours sans index et moteur à index. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les travaux récents insistent sur contrôle d'accès et sur LDAP, souvent combinés dans des architectures hybrides. Dans le champ sécurité des si, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ sécurité des si, la notion de journalisation reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur session et sur autorisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ sécurité des si, la notion de OWASP reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur OWASP et sur authentification, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Résultats
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur OWASP et sur contrôle d'accès, souvent combinés dans des architectures hybrides. Dans le champ sécurité des si, la notion de autorisation reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Discussion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur session et sur authentification, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Conclusion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ sécurité des si, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

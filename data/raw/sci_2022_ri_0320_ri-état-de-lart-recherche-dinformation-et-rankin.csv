@@ -1,0 +1,19 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0320-00,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2019,BM25;pertinence;ranking,0.650
+P0320-01,Gradient pour la recherche documentaire locale,Apprentissage automatique,2019,scikit-learn;feature engineering;gradient,0.638
+P0320-02,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2021,métrique F1;feature engineering;validation croisée,0.532
+P0320-03,Vers une indexation intelligente fondée sur hybride,Recherche d'information,2020,nDCG;corpus;index inversé,0.604
+P0320-04,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2020,NoSQL;transaction;SQLite,0.916
+P0320-05,Évaluation de Lucene dans un moteur d'indexation hybride,Recherche d'information,2023,métadonnées;pertinence;rappel,0.889
+P0320-06,Vers une indexation intelligente fondée sur journalisation,Sécurité des SI,2026,OWASP;authentification;principe du moindre privilège,0.735
+P0320-07,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2019,métier;processus;GED,0.871
+P0320-08,Évaluation de lemmatisation dans un moteur d'indexation hybride,Traitement automatique du langage,2026,bag-of-words;similarité cosinus;entité nommée,0.541
+P0320-09,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2025,FastAPI;découplage;API REST,0.599
+P0320-10,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2020,BERT;transformer;n-grammes,0.382
+P0320-11,Journalisation pour la recherche documentaire locale,Sécurité des SI,2022,principe du moindre privilège;autorisation;authentification,0.700
+P0320-12,React pour la recherche documentaire locale,Ingénierie web,2020,composant;CORS;React,0.533
+P0320-13,Vers une indexation intelligente fondée sur accessibilité,Ingénierie web,2022,performance front;état client;React,0.722
+P0320-14,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2025,validation croisée;gradient;régression,0.769
+P0320-15,Vers une indexation intelligente fondée sur PostgreSQL,Bases de données,2024,normalisation;intégrité référentielle;schéma,0.572
+P0320-16,Vers une indexation intelligente fondée sur session,Sécurité des SI,2026,session;journalisation;authentification,0.566
+P0320-17,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2023,réseau de neurones;jeu d'entraînement;feature engineering,0.617

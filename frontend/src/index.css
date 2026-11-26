@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+:root,
+html[data-theme="clair"] {
+  --bg: #eef2f6;
+  --surface: #ffffff;
+  --sidebar: #0f172a;
+  --sidebar-ink: #f8fafc;
+  --sidebar-muted: #94a3b8;
+  --ink: #1e293b;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --accent: #2563eb;
+  --accent-2: #0d9488;
+  --accent-soft: #eff6ff;
+  --danger: #be123c;
+  --ok: #047857;
+  --shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+  --glow-a: transparent;
+  --glow-b: transparent;
+  --tag-bg: #eff6ff;
+  --tag-text: #1d4ed8;
+  --track: #e2e8f0;
+  --mark: #fef08a;
+  --danger-bg: #fff1f2;
+  --ok-bg: #ecfdf5;
+  --radius: 16px;
+}
+
+html[data-theme="sombre"] {
+  --bg: #12181f;
+  --surface: #1a222c;
+  --sidebar: #070b10;
+  --sidebar-ink: #f1f5f9;
+  --sidebar-muted: #7b8794;
+  --ink: #e8eef4;
+  --muted: #94a3b8;
+  --line: #2a3440;
+  --accent: #60a5fa;
+  --accent-2: #2dd4bf;
+  --accent-soft: rgba(96, 165, 250, 0.14);
+  --danger: #fb7185;
+  --ok: #34d399;
+  --shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+  --glow-a: transparent;
+  --glow-b: transparent;
+  --tag-bg: rgba(96, 165, 250, 0.16);
+  --tag-text: #93c5fd;
+  --track: #243040;
+  --mark: #854d0e;
+  --danger-bg: #3f1d2a;
+  --ok-bg: #16352f;
+}
+
+html[data-theme="sahel"] {
+  --bg: #f6f1e8;
+  --surface: #fffaf3;
+  --sidebar: #143d32;
+  --sidebar-ink: #f7f3ea;
+  --sidebar-muted: #c5d5ce;
+  --ink: #1c1917;
+  --muted: #78716c;
+  --line: #e4d8c8;
+  --accent: #1b5e4b;
+  --accent-2: #c45c26;
+  --accent-soft: #e7f2ed;
+  --danger: #b91c1c;
+  --ok: #1b5e4b;
+  --shadow: 0 12px 32px rgba(28, 25, 23, 0.08);
+  --glow-a: transparent;
+  --glow-b: transparent;
+  --tag-bg: #efe4d4;
+  --tag-text: #9a3412;
+  --track: #e8dccb;
+  --mark: #fde68a;
+  --danger-bg: #fee2e2;
+  --ok-bg: #dcfce7;
+}
+
+html {
+  height: 100%;
+  font-family: Inter, system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
+
+#root {
+  height: 100%;
+  min-height: 100%;
+}

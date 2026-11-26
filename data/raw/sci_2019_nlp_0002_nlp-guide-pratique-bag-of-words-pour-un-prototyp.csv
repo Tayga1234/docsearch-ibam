@@ -1,0 +1,27 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0002-00,Évaluation de authentification dans un moteur d'indexation hybride,Sécurité des SI,2025,journalisation;contrôle d'accès;session,0.717
+P0002-01,Tf-idf pour la recherche documentaire locale,Recherche d'information,2023,pertinence;Whoosh;nDCG,0.699
+P0002-02,Bert pour la recherche documentaire locale,Traitement automatique du langage,2026,tokenisation;attention;entité nommée,0.644
+P0002-03,Interopérabilité pour la recherche documentaire locale,Systèmes d'information,2025,processus;cycle de vie documentaire;gouvernance des données,0.840
+P0002-04,Évaluation de couches dans un moteur d'indexation hybride,Architecture logicielle,2024,OpenAPI;API REST;Docker,0.865
+P0002-05,Vers une indexation intelligente fondée sur référentiel,Systèmes d'information,2025,GED;métier;référentiel,0.475
+P0002-06,Vers une indexation intelligente fondée sur validation croisée,Apprentissage automatique,2025,surapprentissage;classification;validation croisée,0.808
+P0002-07,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2025,OWASP;contrôle d'accès;chiffrement,0.484
+P0002-08,Vers une indexation intelligente fondée sur lemmatisation,Traitement automatique du langage,2023,BERT;embedding;spaCy,0.444
+P0002-09,Évaluation de SQLite dans un moteur d'indexation hybride,Bases de données,2022,schéma;SQLite;NoSQL,0.377
+P0002-10,Découplage pour la recherche documentaire locale,Architecture logicielle,2023,pipeline;contrat d'interface;couches,0.461
+P0002-11,Métadonnées pour la recherche documentaire locale,Recherche d'information,2021,métadonnées;requête;Lucene,0.867
+P0002-12,Évaluation de contrôle d'accès dans un moteur d'indexation hybride,Sécurité des SI,2022,chiffrement;LDAP;authentification,0.866
+P0002-13,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2026,métier;référentiel;interopérabilité,0.658
+P0002-14,Vers une indexation intelligente fondée sur corpus,Recherche d'information,2023,Whoosh;Lucene;hybride,0.877
+P0002-15,Évaluation de attention dans un moteur d'indexation hybride,Traitement automatique du langage,2022,attention;vectorisation;entité nommée,0.928
+P0002-16,Évaluation de requête dans un moteur d'indexation hybride,Recherche d'information,2024,rappel;nDCG;précision,0.855
+P0002-17,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2024,classification;gradient;surapprentissage,0.617
+P0002-18,Évaluation de contrôle d'accès dans un moteur d'indexation hybride,Sécurité des SI,2023,journalisation;chiffrement;authentification,0.545
+P0002-19,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2021,pipeline;API REST;ingestion,0.374
+P0002-20,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2020,processus;gouvernance des données;archivage,0.857
+P0002-21,Évaluation de performance front dans un moteur d'indexation hybride,Ingénierie web,2025,JSON;performance front;accessibilité,0.574
+P0002-22,Schéma pour la recherche documentaire locale,Bases de données,2025,index B-tree;SQLite;FTS5,0.371
+P0002-23,Évaluation de authentification dans un moteur d'indexation hybride,Sécurité des SI,2023,principe du moindre privilège;chiffrement;jeton Bearer,0.463
+P0002-24,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2021,gradient;régression;scikit-learn,0.952
+P0002-25,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2023,chiffrement;contrôle d'accès;LDAP,0.856

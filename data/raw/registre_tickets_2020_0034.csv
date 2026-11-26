@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2020-034-00,2020-10-01,Moussa Nacanabo,Département Sciences et Technologie,poste bloqué,basse,ouvert
+T-2020-034-01,2020-10-02,Estelle Yaméogo,Cellule qualité et évaluation,restauration fichier,haute,en cours
+T-2020-034-02,2020-10-03,Aïcha Nacanabo,Cellule qualité et évaluation,compte CampusFaso,normale,ouvert
+T-2020-034-03,2020-10-04,Rasmané Ilboudo,Département Sciences économiques et de gestion,vidéo projecteur Somgandé,basse,clos
+T-2020-034-04,2020-10-05,Boukary Ouédraogo,Département Sciences économiques et de gestion,DocSearch inaccessible,haute,en cours
+T-2020-034-05,2020-10-06,Issa Savadogo,Cellule qualité et évaluation,poste bloqué,haute,ouvert
+T-2020-034-06,2020-10-07,Mariam Kaboré,Agence comptable de l'IBAM,imprimante documentation,normale,ouvert
+T-2020-034-07,2020-10-08,Wendyam Ouattara,Service de la scolarité et des examens,vidéo projecteur Somgandé,normale,ouvert
+T-2020-034-08,2020-10-09,Issouf Ilboudo,Service des ressources humaines,restauration fichier,normale,en cours
+T-2020-034-09,2020-10-10,Aminata Lingani,Agence comptable de l'IBAM,imprimante documentation,normale,ouvert
+T-2020-034-10,2020-10-11,Abdoulaye Yaméogo,Cellule qualité et évaluation,compte CampusFaso,normale,clos
+T-2020-034-11,2020-10-12,Karim Somé,Service des systèmes d'information,restauration fichier,normale,en cours
+T-2020-034-12,2020-10-13,Nadia Savadogo,Agence comptable de l'IBAM,DocSearch inaccessible,normale,ouvert
+T-2020-034-13,2020-10-14,Paulin Yaméogo,Service de la scolarité et des examens,compte CampusFaso,basse,clos
+T-2020-034-14,2020-10-15,Ibrahim Ganemtoré,Cellule des stages et de l'insertion professionnelle,DocSearch inaccessible,haute,clos
+T-2020-034-15,2020-10-16,Wendyam Sawadogo,Service des systèmes d'information,compte CampusFaso,basse,ouvert
+T-2020-034-16,2020-10-17,Claire Ilboudo,Service des ressources humaines,vidéo projecteur Somgandé,normale,ouvert
+T-2020-034-17,2020-10-18,Nadia Nikièma,Direction de l'IBAM,compte CampusFaso,basse,en cours
+T-2020-034-18,2020-10-19,Estelle Compaoré,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,normale,ouvert
+T-2020-034-19,2020-10-20,Awa Somé,Service des systèmes d'information,compte CampusFaso,basse,ouvert

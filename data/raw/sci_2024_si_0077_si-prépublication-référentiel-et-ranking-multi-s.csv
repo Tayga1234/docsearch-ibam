@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0077-00,Métadonnées pour la recherche documentaire locale,Recherche d'information,2026,corpus;requête;TF-IDF,0.843
+P0077-01,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2019,régression;métrique F1;jeu d'entraînement,0.561
+P0077-02,Vers une indexation intelligente fondée sur chiffrement,Sécurité des SI,2024,journalisation;OWASP;session,0.442
+P0077-03,Openapi pour la recherche documentaire locale,Architecture logicielle,2022,API REST;FastAPI;contrat d'interface,0.966
+P0077-04,Vers une indexation intelligente fondée sur gouvernance des données,Systèmes d'information,2024,processus;urbanisation SI;interopérabilité,0.632
+P0077-05,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2023,React;Vite;composant,0.869
+P0077-06,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2026,chiffrement;contrôle d'accès;LDAP,0.771
+P0077-07,Index inversé pour la recherche documentaire locale,Recherche d'information,2023,Lucene;précision;rappel,0.973
+P0077-08,Entité nommée pour la recherche documentaire locale,Traitement automatique du langage,2023,embedding;n-grammes;attention,0.682
+P0077-09,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2019,état client;CORS;JSON,0.791
+P0077-10,Journalisation pour la recherche documentaire locale,Sécurité des SI,2025,session;contrôle d'accès;principe du moindre privilège,0.880
+P0077-11,Précision pour la recherche documentaire locale,Recherche d'information,2022,précision;Whoosh;TF-IDF,0.848

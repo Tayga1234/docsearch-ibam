@@ -1,0 +1,31 @@
+Affiche scientifique — Ingénierie web / Vite
+
+Auteurs : P. Nikièma (ANPTIC), F. Sanou (IBAM), R. Ilboudo (IBAM), A. Kaboré (UJKZ)
+Année : 2025
+Type : poster
+Domaine : Ingénierie web
+Revue / support : Annales de l'IBAM
+Mots-clés : état client, HTTP, SPA, accessibilité, CORS, informatique
+
+Résumé
+Cet article traite de « Affiche scientifique — Ingénierie web / Vite » dans le domaine ingénierie web. Nous présentons une analyse de pipeline d'ingestion multi-formats, centrée sur état client, HTTP, SPA. Les résultats indiquent que l'approche retenue distingue clairement parcours sans index et moteur à index. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les travaux récents insistent sur accessibilité et sur React, souvent combinés dans des architectures hybrides.
+
+Cadre théorique
+Dans le champ ingénierie web, la notion de HTTP reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur accessibilité et sur JSON, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ ingénierie web, la notion de HTTP reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur accessibilité et sur JSON, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Résultats
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur informatique et sur JSON, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Discussion
+Les travaux récents insistent sur accessibilité et sur JSON, souvent combinés dans des architectures hybrides. Dans le champ ingénierie web, la notion de accessibilité reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur état client et sur HTTP, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

@@ -1,0 +1,31 @@
+Brouillon — bag-of-words sans processeur graphique
+
+Auteurs : A. Kaboré (UJKZ), C. Yaméogo (UJKZ), V. Kinda (IBAM), L. Compaoré (Université Thomas Sankara)
+Année : 2023
+Type : preprint
+Domaine : Traitement automatique du langage
+Revue / support : Bulletin technique ANPTIC
+Mots-clés : vectorisation, lemmatisation, similarité cosinus, embedding, spaCy, informatique
+
+Résumé
+Cet article traite de « Brouillon — bag-of-words sans processeur graphique » dans le domaine traitement automatique du langage. Nous présentons une étude de cas dans un centre de documentation universitaire, centrée sur vectorisation, lemmatisation, similarité cosinus. Les résultats indiquent que l'approche retenue confirme la faisabilité d'un prototype local. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur lemmatisation et sur vectorisation, souvent combinés dans des architectures hybrides. Dans le champ traitement automatique du langage, la notion de embedding reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ traitement automatique du langage, la notion de embedding reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur informatique et sur attention, souvent combinés dans des architectures hybrides. Dans le champ traitement automatique du langage, la notion de lemmatisation reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

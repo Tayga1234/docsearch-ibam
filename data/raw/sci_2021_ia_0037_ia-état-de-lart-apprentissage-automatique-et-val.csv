@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0037-00,Métier pour la recherche documentaire locale,Systèmes d'information,2025,processus;gouvernance des données;urbanisation SI,0.394
+P0037-01,Principe du moindre privilège pour la recherche documentaire locale,Sécurité des SI,2021,autorisation;LDAP;authentification,0.495
+P0037-02,Bm25 pour la recherche documentaire locale,Recherche d'information,2021,requête;Lucene;Whoosh,0.600
+P0037-03,Bm25 pour la recherche documentaire locale,Recherche d'information,2026,nDCG;corpus;index inversé,0.501
+P0037-04,Vers une indexation intelligente fondée sur session,Sécurité des SI,2021,autorisation;OWASP;LDAP,0.827
+P0037-05,Vers une indexation intelligente fondée sur JSON,Ingénierie web,2023,HTTP;accessibilité;React,0.876
+P0037-06,Vers une indexation intelligente fondée sur transformer,Traitement automatique du langage,2022,spaCy;transformer;BERT,0.767
+P0037-07,Évaluation de autorisation dans un moteur d'indexation hybride,Sécurité des SI,2025,session;authentification;contrôle d'accès,0.457
+P0037-08,Requête sql pour la recherche documentaire locale,Bases de données,2020,requête SQL;PostgreSQL;NoSQL,0.488
+P0037-09,Tf-idf pour la recherche documentaire locale,Recherche d'information,2025,nDCG;Whoosh;rappel,0.854
+P0037-10,Requête pour la recherche documentaire locale,Recherche d'information,2020,métadonnées;BM25;hybride,0.860
+P0037-11,Évaluation de validation croisée dans un moteur d'indexation hybride,Apprentissage automatique,2021,métrique F1;feature engineering;jeu d'entraînement,0.412
+P0037-12,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2024,authentification;session;contrôle d'accès,0.565
+P0037-13,Vers une indexation intelligente fondée sur session,Sécurité des SI,2025,chiffrement;jeton Bearer;journalisation,0.891
+P0037-14,Vers une indexation intelligente fondée sur ranking,Recherche d'information,2024,index inversé;requête;TF-IDF,0.713
+P0037-15,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2023,urbanisation SI;interopérabilité;référentiel,0.496
+P0037-16,Vers une indexation intelligente fondée sur vectorisation,Traitement automatique du langage,2020,similarité cosinus;entité nommée;n-grammes,0.458
+P0037-17,Évaluation de index inversé dans un moteur d'indexation hybride,Recherche d'information,2022,rappel;métadonnées;requête,0.396
+P0037-18,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2021,transaction;SQLite;index B-tree,0.627
+P0037-19,Vers une indexation intelligente fondée sur SQLite,Bases de données,2026,OLAP;requête SQL;schéma,0.408
+P0037-20,Évaluation de interopérabilité dans un moteur d'indexation hybride,Systèmes d'information,2023,référentiel;métier;urbanisation SI,0.499
+P0037-21,Feature engineering pour la recherche documentaire locale,Apprentissage automatique,2026,surapprentissage;gradient;métrique F1,0.939

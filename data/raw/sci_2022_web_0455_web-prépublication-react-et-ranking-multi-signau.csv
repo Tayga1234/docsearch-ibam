@@ -1,0 +1,26 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0455-00,Évaluation de index B-tree dans un moteur d'indexation hybride,Bases de données,2022,PostgreSQL;schéma;SQLite,0.380
+P0455-01,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2026,classification;validation croisée;métrique F1,0.878
+P0455-02,Évaluation de JSON dans un moteur d'indexation hybride,Ingénierie web,2022,accessibilité;performance front;état client,0.426
+P0455-03,Évaluation de lemmatisation dans un moteur d'indexation hybride,Traitement automatique du langage,2025,vectorisation;bag-of-words;transformer,0.576
+P0455-04,Lucene pour la recherche documentaire locale,Recherche d'information,2023,rappel;précision;index inversé,0.881
+P0455-05,Vers une indexation intelligente fondée sur n-grammes,Traitement automatique du langage,2021,tokenisation;embedding;similarité cosinus,0.928
+P0455-06,Évaluation de Vite dans un moteur d'indexation hybride,Ingénierie web,2022,HTTP;accessibilité;JSON,0.375
+P0455-07,Évaluation de ranking dans un moteur d'indexation hybride,Recherche d'information,2026,Lucene;Whoosh;rappel,0.415
+P0455-08,Évaluation de autorisation dans un moteur d'indexation hybride,Sécurité des SI,2022,LDAP;journalisation;autorisation,0.400
+P0455-09,Évaluation de PostgreSQL dans un moteur d'indexation hybride,Bases de données,2019,PostgreSQL;requête SQL;intégrité référentielle,0.886
+P0455-10,Vers une indexation intelligente fondée sur GED,Systèmes d'information,2026,urbanisation SI;archivage;processus,0.551
+P0455-11,Référentiel pour la recherche documentaire locale,Systèmes d'information,2026,interopérabilité;archivage;métier,0.785
+P0455-12,Réseau de neurones pour la recherche documentaire locale,Apprentissage automatique,2023,scikit-learn;métrique F1;classification,0.717
+P0455-13,Vers une indexation intelligente fondée sur métrique F1,Apprentissage automatique,2020,feature engineering;réseau de neurones;jeu d'entraînement,0.543
+P0455-14,Vers une indexation intelligente fondée sur régression,Apprentissage automatique,2025,feature engineering;classification;scikit-learn,0.831
+P0455-15,Vers une indexation intelligente fondée sur jeu d'entraînement,Apprentissage automatique,2023,réseau de neurones;scikit-learn;gradient,0.419
+P0455-16,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2022,gradient;scikit-learn;validation croisée,0.829
+P0455-17,Découplage pour la recherche documentaire locale,Architecture logicielle,2022,microservices;couches;pipeline,0.498
+P0455-18,Vers une indexation intelligente fondée sur entité nommée,Traitement automatique du langage,2019,n-grammes;embedding;tokenisation,0.804
+P0455-19,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2026,journalisation;autorisation;chiffrement,0.540
+P0455-20,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2026,chiffrement;OWASP;session,0.439
+P0455-21,Interopérabilité pour la recherche documentaire locale,Systèmes d'information,2025,gouvernance des données;cycle de vie documentaire;métier,0.729
+P0455-22,Évaluation de FTS5 dans un moteur d'indexation hybride,Bases de données,2024,normalisation;schéma;transaction,0.666
+P0455-23,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2023,métrique F1;régression;validation croisée,0.967
+P0455-24,Évaluation de n-grammes dans un moteur d'indexation hybride,Traitement automatique du langage,2023,vectorisation;similarité cosinus;n-grammes,0.704

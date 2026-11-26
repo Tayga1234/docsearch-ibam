@@ -1,0 +1,21 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0307-00,Évaluation de contrat d'interface dans un moteur d'indexation hybride,Architecture logicielle,2023,découplage;Docker;API REST,0.419
+P0307-01,Vite pour la recherche documentaire locale,Ingénierie web,2024,état client;Vite;accessibilité,0.586
+P0307-02,Attention pour la recherche documentaire locale,Traitement automatique du langage,2025,bag-of-words;spaCy;vectorisation,0.572
+P0307-03,Principe du moindre privilège pour la recherche documentaire locale,Sécurité des SI,2025,session;journalisation;jeton Bearer,0.365
+P0307-04,Vers une indexation intelligente fondée sur CORS,Ingénierie web,2022,CORS;JSON;React,0.844
+P0307-05,Ldap pour la recherche documentaire locale,Sécurité des SI,2022,autorisation;jeton Bearer;contrôle d'accès,0.466
+P0307-06,Évaluation de composant dans un moteur d'indexation hybride,Ingénierie web,2025,Vite;état client;CORS,0.842
+P0307-07,Évaluation de GED dans un moteur d'indexation hybride,Systèmes d'information,2020,interopérabilité;processus;métier,0.400
+P0307-08,Vers une indexation intelligente fondée sur index B-tree,Bases de données,2019,NoSQL;PostgreSQL;index B-tree,0.466
+P0307-09,Évaluation de validation croisée dans un moteur d'indexation hybride,Apprentissage automatique,2025,régression;gradient;feature engineering,0.894
+P0307-10,Olap pour la recherche documentaire locale,Bases de données,2022,FTS5;NoSQL;SQLite,0.368
+P0307-11,Vers une indexation intelligente fondée sur FastAPI,Architecture logicielle,2020,Docker;microservices;FastAPI,0.707
+P0307-12,Accessibilité pour la recherche documentaire locale,Ingénierie web,2021,JSON;Vite;SPA,0.677
+P0307-13,React pour la recherche documentaire locale,Ingénierie web,2026,CORS;Vite;performance front,0.978
+P0307-14,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2024,couches;contrat d'interface;découplage,0.874
+P0307-15,Évaluation de hybride dans un moteur d'indexation hybride,Recherche d'information,2021,Lucene;pertinence;index inversé,0.778
+P0307-16,Contrôle d'accès pour la recherche documentaire locale,Sécurité des SI,2026,chiffrement;autorisation;authentification,0.486
+P0307-17,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2021,découplage;Docker;pipeline,0.775
+P0307-18,Évaluation de attention dans un moteur d'indexation hybride,Traitement automatique du langage,2019,lemmatisation;BERT;similarité cosinus,0.438
+P0307-19,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2021,réseau de neurones;classification;gradient,0.413

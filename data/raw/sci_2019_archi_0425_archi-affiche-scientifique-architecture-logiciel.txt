@@ -1,0 +1,31 @@
+Affiche scientifique — Architecture logicielle / contrat d'interface
+
+Auteurs : I. Sawadogo (2iE), K. Zongo (UJKZ), Y. Ouattara (ESI), N. Guigma (UJKZ)
+Année : 2019
+Type : poster
+Domaine : Architecture logicielle
+Revue / support : Annales de l'IBAM
+Mots-clés : ingestion, contrat d'interface, OpenAPI, découplage, Docker, système d'information
+
+Résumé
+Cet article traite de « Affiche scientifique — Architecture logicielle / contrat d'interface » dans le domaine architecture logicielle. Nous présentons une comparaison de trois approches d'indexation, centrée sur ingestion, contrat d'interface, OpenAPI. Les résultats indiquent que l'approche retenue améliore la précision au rang 10 sans GPU. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Dans le champ architecture logicielle, la notion de contrat d'interface reste centrale pour comprendre la qualité des réponses.
+
+Cadre théorique
+Dans le champ architecture logicielle, la notion de OpenAPI reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur système d'information et sur découplage, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur Docker et sur ingestion, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur ingestion et sur OpenAPI, souvent combinés dans des architectures hybrides.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur ingestion et sur Docker, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Conclusion
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Dans le champ architecture logicielle, la notion de ingestion reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

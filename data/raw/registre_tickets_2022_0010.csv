@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2022-010-00,2022-01-01,Wendyam Kientega,Département Sciences et Technologie,poste bloqué,normale,en cours
+T-2022-010-01,2022-01-02,Inès Ilboudo,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,normale,ouvert
+T-2022-010-02,2022-01-03,Fatou Kientega,Agence comptable de l'IBAM,restauration fichier,haute,clos
+T-2022-010-03,2022-01-04,Salimata Nikièma,Service de la scolarité et des examens,compte CampusFaso,haute,ouvert
+T-2022-010-04,2022-01-05,Awa Nacanabo,Service des systèmes d'information,DocSearch inaccessible,haute,en cours
+T-2022-010-05,2022-01-06,Issa Yaméogo,Cellule qualité et évaluation,DocSearch inaccessible,normale,clos
+T-2022-010-06,2022-01-07,Estelle Kinda,Direction de l'IBAM,restauration fichier,haute,ouvert
+T-2022-010-07,2022-01-08,Issa Ouattara,Département Sciences économiques et de gestion,restauration fichier,normale,clos
+T-2022-010-08,2022-01-09,Claire Bonkoungou,Centre de documentation et des archives,DocSearch inaccessible,normale,en cours
+T-2022-010-09,2022-01-10,Paulin Bationo,Cellule des stages et de l'insertion professionnelle,restauration fichier,normale,ouvert
+T-2022-010-10,2022-01-11,Moussa Tapsoba,Département Sciences économiques et de gestion,DocSearch inaccessible,haute,ouvert
+T-2022-010-11,2022-01-12,Nadia Sanou,Direction de l'IBAM,DocSearch inaccessible,basse,clos
+T-2022-010-12,2022-01-13,Wendyam Bonkoungou,Direction de l'IBAM,compte CampusFaso,normale,ouvert
+T-2022-010-13,2022-01-14,Yacouba Savadogo,Centre de documentation et des archives,compte CampusFaso,basse,en cours
+T-2022-010-14,2022-01-15,Aïcha Lingani,Cellule des stages et de l'insertion professionnelle,poste bloqué,haute,ouvert
+T-2022-010-15,2022-01-16,Inès Savadogo,Département Sciences et Technologie,DocSearch inaccessible,normale,ouvert
+T-2022-010-16,2022-01-17,Rasmané Tapsoba,Cellule qualité et évaluation,vidéo projecteur Somgandé,haute,ouvert
+T-2022-010-17,2022-01-18,David Ouédraogo,Service de la scolarité et des examens,compte CampusFaso,haute,en cours
+T-2022-010-18,2022-01-19,Nadia Zongo,Service des systèmes d'information,imprimante documentation,haute,ouvert
+T-2022-010-19,2022-01-20,Hassane Kientega,Centre de documentation et des archives,poste bloqué,normale,ouvert

@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2026-002-00,2026-05-01,Inès Traoré,Service des systèmes d'information,imprimante documentation,basse,en cours
+T-2026-002-01,2026-05-02,Claire Zongo,Service des systèmes d'information,DocSearch inaccessible,haute,clos
+T-2026-002-02,2026-05-03,Karim Ganemtoré,Direction de l'IBAM,poste bloqué,haute,ouvert
+T-2026-002-03,2026-05-04,Issa Savadogo,Département Sciences et Technologie,imprimante documentation,haute,ouvert
+T-2026-002-04,2026-05-05,Mariam Dabiré,Cellule qualité et évaluation,compte CampusFaso,normale,clos
+T-2026-002-05,2026-05-06,Fatou Somé,Direction de l'IBAM,imprimante documentation,haute,en cours
+T-2026-002-06,2026-05-07,Fatou Guigma,Département Sciences et Technologie,compte CampusFaso,basse,ouvert
+T-2026-002-07,2026-05-08,Ibrahim Kaboré,Cellule qualité et évaluation,imprimante documentation,haute,en cours
+T-2026-002-08,2026-05-09,Rasmané Tapsoba,Centre de documentation et des archives,DocSearch inaccessible,haute,en cours
+T-2026-002-09,2026-05-10,Ibrahim Lingani,Cellule des stages et de l'insertion professionnelle,DocSearch inaccessible,haute,en cours
+T-2026-002-10,2026-05-11,Wendyam Tapsoba,Centre de documentation et des archives,compte CampusFaso,haute,ouvert
+T-2026-002-11,2026-05-12,Boukary Ouédraogo,Service des ressources humaines,vidéo projecteur Somgandé,basse,clos
+T-2026-002-12,2026-05-13,Ibrahim Zida,Département Sciences économiques et de gestion,poste bloqué,basse,en cours
+T-2026-002-13,2026-05-14,Awa Savadogo,Cellule qualité et évaluation,compte CampusFaso,basse,en cours
+T-2026-002-14,2026-05-15,David Savadogo,Cellule qualité et évaluation,imprimante documentation,normale,en cours
+T-2026-002-15,2026-05-16,Adama Somé,Cellule des stages et de l'insertion professionnelle,poste bloqué,normale,en cours
+T-2026-002-16,2026-05-17,Issa Ouédraogo,Service de la scolarité et des examens,compte CampusFaso,haute,clos
+T-2026-002-17,2026-05-18,Wendyam Guigma,Centre de documentation et des archives,vidéo projecteur Somgandé,haute,en cours
+T-2026-002-18,2026-05-19,David Savadogo,Département Sciences et Technologie,vidéo projecteur Somgandé,basse,en cours
+T-2026-002-19,2026-05-20,Fatou Sanou,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,haute,clos

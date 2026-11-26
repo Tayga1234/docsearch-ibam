@@ -1,0 +1,22 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0380-00,Processus pour la recherche documentaire locale,Systèmes d'information,2025,référentiel;métier;processus,0.675
+P0380-01,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2019,régression;jeu d'entraînement;métrique F1,0.907
+P0380-02,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2022,classification;scikit-learn;réseau de neurones,0.918
+P0380-03,Évaluation de spaCy dans un moteur d'indexation hybride,Traitement automatique du langage,2019,n-grammes;transformer;vectorisation,0.808
+P0380-04,Vers une indexation intelligente fondée sur FastAPI,Architecture logicielle,2022,microservices;pipeline;API REST,0.908
+P0380-05,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2019,microservices;OpenAPI;pipeline,0.586
+P0380-06,Olap pour la recherche documentaire locale,Bases de données,2025,normalisation;FTS5;SQLite,0.829
+P0380-07,Vers une indexation intelligente fondée sur CORS,Ingénierie web,2024,JSON;performance front;CORS,0.697
+P0380-08,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2019,jeu d'entraînement;classification;régression,0.628
+P0380-09,Évaluation de GED dans un moteur d'indexation hybride,Systèmes d'information,2023,interopérabilité;référentiel;processus,0.883
+P0380-10,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2023,principe du moindre privilège;LDAP;journalisation,0.697
+P0380-11,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2021,OWASP;jeton Bearer;authentification,0.682
+P0380-12,Session pour la recherche documentaire locale,Sécurité des SI,2023,contrôle d'accès;chiffrement;authentification,0.958
+P0380-13,Attention pour la recherche documentaire locale,Traitement automatique du langage,2026,lemmatisation;transformer;vectorisation,0.660
+P0380-14,Évaluation de JSON dans un moteur d'indexation hybride,Ingénierie web,2020,état client;Vite;CORS,0.380
+P0380-15,Vers une indexation intelligente fondée sur archivage,Systèmes d'information,2025,urbanisation SI;processus;cycle de vie documentaire,0.696
+P0380-16,Vers une indexation intelligente fondée sur CORS,Ingénierie web,2021,performance front;accessibilité;SPA,0.965
+P0380-17,Vers une indexation intelligente fondée sur principe du moindre privilège,Sécurité des SI,2024,principe du moindre privilège;authentification;contrôle d'accès,0.596
+P0380-18,Nosql pour la recherche documentaire locale,Bases de données,2021,schéma;OLAP;normalisation,0.682
+P0380-19,Évaluation de session dans un moteur d'indexation hybride,Sécurité des SI,2024,chiffrement;session;autorisation,0.665
+P0380-20,Évaluation de cycle de vie documentaire dans un moteur d'indexation hybride,Systèmes d'information,2024,GED;référentiel;urbanisation SI,0.972

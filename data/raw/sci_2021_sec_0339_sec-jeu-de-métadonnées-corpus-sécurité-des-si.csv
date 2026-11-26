@@ -1,0 +1,27 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0339-00,Évaluation de schéma dans un moteur d'indexation hybride,Bases de données,2019,normalisation;PostgreSQL;schéma,0.601
+P0339-01,Vers une indexation intelligente fondée sur similarité cosinus,Traitement automatique du langage,2023,entité nommée;bag-of-words;embedding,0.678
+P0339-02,Entité nommée pour la recherche documentaire locale,Traitement automatique du langage,2019,transformer;tokenisation;spaCy,0.392
+P0339-03,Pertinence pour la recherche documentaire locale,Recherche d'information,2022,TF-IDF;Whoosh;BM25,0.701
+P0339-04,Évaluation de interopérabilité dans un moteur d'indexation hybride,Systèmes d'information,2019,urbanisation SI;cycle de vie documentaire;GED,0.912
+P0339-05,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2023,FastAPI;contrat d'interface;couches,0.901
+P0339-06,Évaluation de Lucene dans un moteur d'indexation hybride,Recherche d'information,2025,rappel;hybride;précision,0.740
+P0339-07,Évaluation de index B-tree dans un moteur d'indexation hybride,Bases de données,2019,intégrité référentielle;OLAP;schéma,0.417
+P0339-08,Évaluation de contrôle d'accès dans un moteur d'indexation hybride,Sécurité des SI,2022,authentification;journalisation;LDAP,0.433
+P0339-09,Évaluation de urbanisation SI dans un moteur d'indexation hybride,Systèmes d'information,2026,GED;urbanisation SI;référentiel,0.924
+P0339-10,Vers une indexation intelligente fondée sur archivage,Systèmes d'information,2020,cycle de vie documentaire;processus;métier,0.458
+P0339-11,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2019,feature engineering;réseau de neurones;gradient,0.403
+P0339-12,Vers une indexation intelligente fondée sur couches,Architecture logicielle,2024,pipeline;découplage;API REST,0.377
+P0339-13,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2026,OWASP;principe du moindre privilège;chiffrement,0.628
+P0339-14,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2023,métier;interopérabilité;processus,0.744
+P0339-15,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2021,classification;gradient;réseau de neurones,0.663
+P0339-16,Évaluation de GED dans un moteur d'indexation hybride,Systèmes d'information,2024,processus;interopérabilité;archivage,0.539
+P0339-17,Évaluation de spaCy dans un moteur d'indexation hybride,Traitement automatique du langage,2024,entité nommée;lemmatisation;vectorisation,0.707
+P0339-18,Vers une indexation intelligente fondée sur Lucene,Recherche d'information,2024,corpus;ranking;index inversé,0.838
+P0339-19,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2019,métrique F1;gradient;classification,0.714
+P0339-20,Contrat d'interface pour la recherche documentaire locale,Architecture logicielle,2023,FastAPI;pipeline;découplage,0.760
+P0339-21,Précision pour la recherche documentaire locale,Recherche d'information,2024,BM25;index inversé;ranking,0.618
+P0339-22,Vers une indexation intelligente fondée sur urbanisation SI,Systèmes d'information,2020,cycle de vie documentaire;GED;gouvernance des données,0.427
+P0339-23,Vers une indexation intelligente fondée sur index inversé,Recherche d'information,2020,hybride;ranking;Whoosh,0.681
+P0339-24,Contrat d'interface pour la recherche documentaire locale,Architecture logicielle,2025,pipeline;FastAPI;Docker,0.586
+P0339-25,Jeton bearer pour la recherche documentaire locale,Sécurité des SI,2025,chiffrement;principe du moindre privilège;autorisation,0.967

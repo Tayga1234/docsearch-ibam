@@ -1,0 +1,30 @@
+BURKINA FASO
+Unité – Progrès – Justice
+
+Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+UNIVERSITÉ JOSEPH KI-ZERBO
+INSTITUT BURKINABÈ DES ARTS ET MÉTIERS (IBAM)
+Centre de documentation et des archives
+
+03 BP 7021 Ouagadougou 03  —  Tél. (+226) 25 30 70 64 / 65  —  Fax (+226) 25 30 72 42
+
+Réf. : IBAM/DOC/PROC/2025/02
+Ouagadougou, le 20 janvier 2025
+
+Objet : Procédure d'archivage numérique et d'indexation dans DocSearch — version 2.1
+Destinataires : Tous les services versants
+
+Objectif : garantir la traçabilité, la conservation et la recherchabilité des pièces administratives de l'IBAM. Cette version 2.1 remplace la version 1.4 de 2023, limitée aux partages Windows.
+Étape 1 — Le service versant dépose le fichier source (PDF texte, DOCX, CSV ou TXT) dans le répertoire de versement, nommé de façon parlante, sans caractères spéciaux. Les PDF image sont refusés tant qu'un OCR n'a pas été fait.
+Étape 2 — David Kaboré enregistre le versement sur le bordereau (cote, service, date, nombre de fichiers). Étape 3 — L'administrateur lance l'indexation (scan du dossier ou import). Étape 4 — Fatou Sanou vérifie la fiche (titre, tags, résumé) et signale les erreurs à la DSI.
+Délai cible : 48 heures ouvrées entre le dépôt et la disponibilité dans le portail. Formats acceptés : PDF, DOCX, CSV, TXT. Taille maximale unitaire : 20 Mo.
+Les pièces contenant des notes d'étudiants nominatives suivent la note d'anonymisation de la scolarité. En cas d'échec d'extraction, le versement est retourné au service d'origine avec motif.
+Contact : documentation.ibam@ujkz.bf.
+
+Ampliations :
+  – Direction de l'IBAM
+  – Centre de documentation et des archives
+  – Chrono / archives IBAM
+
+Fatou Sanou, documentaliste
+IBAM / UJKZ — document interne, reproduction soumise à autorisation.

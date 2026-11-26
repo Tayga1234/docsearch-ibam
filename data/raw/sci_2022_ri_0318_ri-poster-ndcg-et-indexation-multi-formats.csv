@@ -1,0 +1,14 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0318-00,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2026,autorisation;authentification;contrôle d'accès,0.675
+P0318-01,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2022,régression;réseau de neurones;feature engineering,0.697
+P0318-02,Évaluation de PostgreSQL dans un moteur d'indexation hybride,Bases de données,2020,FTS5;normalisation;NoSQL,0.913
+P0318-03,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2025,surapprentissage;feature engineering;scikit-learn,0.654
+P0318-04,Évaluation de normalisation dans un moteur d'indexation hybride,Bases de données,2022,intégrité référentielle;FTS5;transaction,0.418
+P0318-05,Vers une indexation intelligente fondée sur contrôle d'accès,Sécurité des SI,2020,jeton Bearer;chiffrement;principe du moindre privilège,0.564
+P0318-06,Olap pour la recherche documentaire locale,Bases de données,2024,FTS5;PostgreSQL;transaction,0.810
+P0318-07,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2024,jeton Bearer;authentification;principe du moindre privilège,0.769
+P0318-08,Vers une indexation intelligente fondée sur tokenisation,Traitement automatique du langage,2025,entité nommée;similarité cosinus;embedding,0.596
+P0318-09,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2019,réseau de neurones;régression;jeu d'entraînement,0.772
+P0318-10,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2024,OWASP;journalisation;autorisation,0.782
+P0318-11,Vers une indexation intelligente fondée sur SPA,Ingénierie web,2020,HTTP;React;JSON,0.544
+P0318-12,Évaluation de microservices dans un moteur d'indexation hybride,Architecture logicielle,2026,microservices;découplage;contrat d'interface,0.751

@@ -1,0 +1,31 @@
+État de l'art : recherche d'information et nDCG
+
+Auteurs : V. Kinda (IBAM), I. Sawadogo (2iE)
+Année : 2022
+Type : survey
+Domaine : Recherche d'information
+Revue / support : Annales de l'IBAM
+Mots-clés : requête, nDCG, corpus, précision, BM25, évaluation expérimentale
+
+Résumé
+Cet article traite de « État de l'art : recherche d'information et nDCG » dans le domaine recherche d'information. Nous présentons une revue systématique de la littérature, centrée sur requête, nDCG, corpus. Les résultats indiquent que l'approche retenue met en évidence le rôle des métadonnées dans le ranking. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ recherche d'information, la notion de évaluation expérimentale reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur corpus et sur ranking, souvent combinés dans des architectures hybrides.
+
+Cadre théorique
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ recherche d'information, la notion de nDCG reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux.
+
+Méthode
+Dans le champ recherche d'information, la notion de nDCG reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur précision et sur Whoosh, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur évaluation expérimentale et sur précision, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Discussion
+Les travaux récents insistent sur BM25 et sur ranking, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ recherche d'information, la notion de corpus reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

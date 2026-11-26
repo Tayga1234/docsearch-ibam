@@ -1,0 +1,24 @@
+# Résumé général de la revue de littérature
+
+**Thème :** Indexation intelligente de données hétérogènes pour la recherche d'information  
+**Corpus :** 15 articles scientifiques (2022–2026)
+
+---
+
+La littérature récente sur l'indexation intelligente de données hétérogènes montre une transformation nette de la recherche d'information. Pendant longtemps, les systèmes reposaient sur un index inversé puis un classement par pertinence. Les quinze articles lus entre 2022 et 2026 montrent que ce modèle reste utile, mais qu'il est désormais complété par des approches unifiées, apprises, hybrides et multimodales.
+
+Les travaux du premier jour portent sur les fondements de l'indexation face à la diversité des formats. Clarke (2024) propose l'indexation annotative : le contenu est placé dans un espace d'adresses, puis enrichi d'annotations comme la segmentation, les entités, les scores ou les vecteurs. Selon Clarke, ce cadre unifie l'index inversé, les magasins de colonnes, les bases orientées objet et les graphes de connaissances. Heflin et al. (2024) s'intéressent aux données scientifiques semi-structurées en JSON. Ils étendent l'indexation cell-centric : chaque valeur ou paire clé-valeur devient une unité indexable, ce qui permet de découvrir des données sans connaître à l'avance leur schéma exact. Tay et al. (2022) introduisent le Differentiable Search Index (DSI) : la mémoire d'un Transformer remplace l'index externe, et la recherche devient une tâche de génération d'identifiants de documents. Wang et al. (2022) proposent le Neural Corpus Indexer (NCI), un modèle séquence-à-séquence qui associe directement une requête à un identifiant sémantique. Zhang et al. (2024) synthétisent ce passage de la correspondance textuelle à la Generative Information Retrieval (GenIR).
+
+Le deuxième jour approfondit la recherche générative et l'hybridation des moteurs. Yang et al. (2023) présentent l'Auto Search Indexer (ASI), qui apprend automatiquement des docids sémantiques pour les documents existants et futurs. Lee et al. (2023) proposent GLEN, une méthode qui apprend un index lexical en deux phases afin de garder des identifiants plus interprétables. Les auteurs de HetaRAG (2025) partent du constat qu'un seul type d'index ne suffit plus : la recherche vectorielle capture le sens, le plein texte retrouve les termes exacts, les graphes représentent les relations et les bases relationnelles structurent les données. Gollapudi et al. (2024) étudient la recherche hybride avec ACORN, une extension de l'index HNSW capable de combiner similarité vectorielle et contraintes structurées. Chuang et al. (2023) développent DiscoverPath, qui transforme des résumés biomédicaux en graphe de connaissances pour guider la découverte documentaire interdisciplinaire.
+
+Le troisième jour insiste sur l'amont du pipeline. Pérez et Vizcaino (2024) montrent que la qualité d'un système RAG dépend fortement de l'ingestion : extraction rapide, OCR et analyse par modèle de langage permettent de reconstituer un Markdown structuré. Faysse et al. (2024), avec ColPali, indexent directement les pages comme images via un modèle vision-langage. Yu et al. (2024) élargissent cette idée à VisRAG, un pipeline RAG complet basé sur la vision. Zhong et al. (2024) s'intéressent à la taille des segments indexés avec Mix-of-Granularity. Dadopoulos et al. (2025) démontrent enfin que l'enrichissement par métadonnées améliore fortement la recherche sur documents longs et structurés.
+
+Plusieurs enseignements transversaux se dégagent. Premièrement, l'indexation intelligente ne se limite plus à stocker des mots : elle doit aussi représenter le sens, la structure, les relations et parfois l'apparence visuelle des documents. Deuxièmement, la recherche générative ouvre une voie nouvelle, mais elle reste fragile face aux corpus évolutifs, au coût de calcul et à la mise à jour des identifiants. Troisièmement, les systèmes hybrides apparaissent comme une réponse pragmatique : plutôt que de choisir un seul paradigme, il faut combiner plusieurs signaux de pertinence. Quatrièmement, la qualité de l'ingestion, du chunking et des métadonnées conditionne toute la chaîne aval.
+
+En synthèse, la période 2022–2026 marque le passage d'un index monolithique vers des systèmes plus flexibles, hybrides et intelligents. Pour indexer et rechercher des données hétérogènes, il faut aujourd'hui penser ensemble l'extraction, la structure de l'index, la combinaison de plusieurs moteurs et l'enrichissement des documents.
+
+---
+
+## Références citées
+
+Clarke (2024) ; Heflin et al. (2024) ; Tay et al. (2022) ; Wang et al. (2022) ; Zhang et al. (2024) ; Yang et al. (2023) ; Lee et al. (2023) ; KnowledgeXLab (2025) ; Gollapudi et al. (2024) ; Chuang et al. (2023) ; Pérez et Vizcaino (2024) ; Faysse et al. (2024) ; Yu et al. (2024) ; Zhong et al. (2024) ; Dadopoulos et al. (2025).

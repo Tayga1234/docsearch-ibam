@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2021-12-01,Agence comptable de l'IBAM,39,DOCX,BORD-2021-025-00,David Kaboré
+2021-12-02,Service des ressources humaines,20,DOCX,BORD-2021-025-01,Issa Ouédraogo
+2021-12-03,Service des systèmes d'information,35,TXT,BORD-2021-025-02,David Kaboré
+2021-12-04,Service des systèmes d'information,26,mixte,BORD-2021-025-03,Issa Ouédraogo
+2021-12-05,Cellule qualité et évaluation,4,mixte,BORD-2021-025-04,Fatou Sanou
+2021-12-06,Direction de l'IBAM,10,mixte,BORD-2021-025-05,David Kaboré
+2021-12-07,Direction de l'IBAM,27,CSV,BORD-2021-025-06,Issa Ouédraogo
+2021-12-08,Cellule des stages et de l'insertion professionnelle,18,TXT,BORD-2021-025-07,David Kaboré
+2021-12-09,Département Sciences économiques et de gestion,4,PDF,BORD-2021-025-08,Issa Ouédraogo
+2021-12-10,Cellule qualité et évaluation,26,PDF,BORD-2021-025-09,Fatou Sanou
+2021-12-11,Cellule des stages et de l'insertion professionnelle,5,TXT,BORD-2021-025-10,Fatou Sanou
+2021-12-12,Agence comptable de l'IBAM,28,DOCX,BORD-2021-025-11,Issa Ouédraogo
+2021-12-13,Service des ressources humaines,38,DOCX,BORD-2021-025-12,David Kaboré
+2021-12-14,Service de la scolarité et des examens,31,CSV,BORD-2021-025-13,Fatou Sanou
+2021-12-15,Service des systèmes d'information,26,PDF,BORD-2021-025-14,Issa Ouédraogo
+2021-12-16,Cellule qualité et évaluation,18,mixte,BORD-2021-025-15,Fatou Sanou

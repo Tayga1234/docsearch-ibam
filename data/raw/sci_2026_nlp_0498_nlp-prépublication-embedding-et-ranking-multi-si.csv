@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0498-00,Vers une indexation intelligente fondée sur contrôle d'accès,Sécurité des SI,2026,autorisation;contrôle d'accès;jeton Bearer,0.910
+P0498-01,Évaluation de FTS5 dans un moteur d'indexation hybride,Bases de données,2025,FTS5;schéma;SQLite,0.466
+P0498-02,Vers une indexation intelligente fondée sur urbanisation SI,Systèmes d'information,2020,gouvernance des données;archivage;processus,0.941
+P0498-03,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2023,SQLite;PostgreSQL;requête SQL,0.746
+P0498-04,Session pour la recherche documentaire locale,Sécurité des SI,2021,session;authentification;journalisation,0.407
+P0498-05,Lemmatisation pour la recherche documentaire locale,Traitement automatique du langage,2019,BERT;n-grammes;similarité cosinus,0.680
+P0498-06,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2022,GED;processus;archivage,0.688
+P0498-07,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2019,transaction;SQLite;NoSQL,0.408
+P0498-08,Pipeline pour la recherche documentaire locale,Architecture logicielle,2021,microservices;FastAPI;ingestion,0.920
+P0498-09,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2025,état client;CORS;Vite,0.459
+P0498-10,Évaluation de jeton Bearer dans un moteur d'indexation hybride,Sécurité des SI,2022,OWASP;autorisation;journalisation,0.493
+P0498-11,Validation croisée pour la recherche documentaire locale,Apprentissage automatique,2023,classification;gradient;régression,0.839

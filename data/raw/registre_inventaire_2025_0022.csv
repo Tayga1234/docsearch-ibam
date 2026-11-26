@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2025-022-00,scanner A4,22,bon,salle multimédia,Service des systèmes d'information
+INV-2025-022-01,rayonnage archives,1,moyen,laboratoire MIAGE,Cellule des stages et de l'insertion professionnelle
+INV-2025-022-02,split climatisation,24,moyen,magasin A des archives,Direction de l'IBAM
+INV-2025-022-03,poste lecteur,1,bon,"campus principal, secteur 25",Centre de documentation et des archives
+INV-2025-022-04,switch réseau,17,à réformer,laboratoire MIAGE,Service des systèmes d'information
+INV-2025-022-05,rayonnage archives,20,moyen,amphithéâtre A,Département Sciences économiques et de gestion
+INV-2025-022-06,scanner A4,19,moyen,local technique DSI,Service de la scolarité et des examens
+INV-2025-022-07,scanner A4,1,bon,salle de lecture du Centre de documentation,Service de la scolarité et des examens
+INV-2025-022-08,poste lecteur,11,bon,laboratoire MIAGE,Cellule qualité et évaluation
+INV-2025-022-09,extincteur,20,moyen,local technique DSI,Direction de l'IBAM
+INV-2025-022-10,poste lecteur,6,bon,laboratoire MIAGE,Service de la scolarité et des examens
+INV-2025-022-11,split climatisation,18,à réformer,local technique DSI,Département Sciences économiques et de gestion
+INV-2025-022-12,switch réseau,15,à réformer,complexe pédagogique de Somgandé,Centre de documentation et des archives
+INV-2025-022-13,rayonnage archives,4,moyen,magasin A des archives,Service de la scolarité et des examens
+INV-2025-022-14,poste lecteur,17,à réformer,"campus principal, secteur 25",Cellule des stages et de l'insertion professionnelle

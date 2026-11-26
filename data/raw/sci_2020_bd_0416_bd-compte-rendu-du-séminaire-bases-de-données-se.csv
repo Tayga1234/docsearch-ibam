@@ -1,0 +1,28 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0416-00,Microservices pour la recherche documentaire locale,Architecture logicielle,2023,OpenAPI;API REST;ingestion,0.976
+P0416-01,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2025,entité nommée;bag-of-words;similarité cosinus,0.574
+P0416-02,Réseau de neurones pour la recherche documentaire locale,Apprentissage automatique,2022,classification;jeu d'entraînement;régression,0.902
+P0416-03,Évaluation de Docker dans un moteur d'indexation hybride,Architecture logicielle,2024,microservices;découplage;contrat d'interface,0.703
+P0416-04,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2019,référentiel;archivage;interopérabilité,0.407
+P0416-05,Performance front pour la recherche documentaire locale,Ingénierie web,2025,CORS;React;composant,0.926
+P0416-06,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2025,performance front;état client;SPA,0.975
+P0416-07,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2020,urbanisation SI;processus;métier,0.630
+P0416-08,Évaluation de vectorisation dans un moteur d'indexation hybride,Traitement automatique du langage,2020,bag-of-words;vectorisation;attention,0.680
+P0416-09,Vers une indexation intelligente fondée sur SPA,Ingénierie web,2024,React;performance front;accessibilité,0.948
+P0416-10,Évaluation de CORS dans un moteur d'indexation hybride,Ingénierie web,2024,composant;SPA;Vite,0.721
+P0416-11,Whoosh pour la recherche documentaire locale,Recherche d'information,2025,ranking;Whoosh;nDCG,0.828
+P0416-12,Évaluation de attention dans un moteur d'indexation hybride,Traitement automatique du langage,2026,embedding;tokenisation;bag-of-words,0.778
+P0416-13,Microservices pour la recherche documentaire locale,Architecture logicielle,2023,découplage;API REST;Docker,0.409
+P0416-14,Évaluation de couches dans un moteur d'indexation hybride,Architecture logicielle,2026,pipeline;découplage;ingestion,0.727
+P0416-15,Normalisation pour la recherche documentaire locale,Bases de données,2023,schéma;PostgreSQL;requête SQL,0.914
+P0416-16,Authentification pour la recherche documentaire locale,Sécurité des SI,2019,LDAP;OWASP;autorisation,0.420
+P0416-17,Openapi pour la recherche documentaire locale,Architecture logicielle,2019,Docker;OpenAPI;API REST,0.842
+P0416-18,Openapi pour la recherche documentaire locale,Architecture logicielle,2021,contrat d'interface;découplage;couches,0.978
+P0416-19,Vers une indexation intelligente fondée sur métrique F1,Apprentissage automatique,2022,classification;surapprentissage;réseau de neurones,0.423
+P0416-20,Vers une indexation intelligente fondée sur React,Ingénierie web,2021,état client;HTTP;composant,0.966
+P0416-21,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2021,feature engineering;validation croisée;scikit-learn,0.761
+P0416-22,Fastapi pour la recherche documentaire locale,Architecture logicielle,2024,microservices;couches;OpenAPI,0.571
+P0416-23,Vers une indexation intelligente fondée sur principe du moindre privilège,Sécurité des SI,2025,jeton Bearer;contrôle d'accès;principe du moindre privilège,0.678
+P0416-24,Transformer pour la recherche documentaire locale,Traitement automatique du langage,2026,attention;bag-of-words;transformer,0.960
+P0416-25,Vers une indexation intelligente fondée sur PostgreSQL,Bases de données,2021,PostgreSQL;intégrité référentielle;transaction,0.360
+P0416-26,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2020,embedding;spaCy;lemmatisation,0.826

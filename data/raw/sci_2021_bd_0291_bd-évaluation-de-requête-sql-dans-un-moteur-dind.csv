@@ -1,0 +1,18 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0291-00,Vers une indexation intelligente fondée sur ranking,Recherche d'information,2021,rappel;hybride;BM25,0.385
+P0291-01,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2024,classification;réseau de neurones;régression,0.704
+P0291-02,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2025,gouvernance des données;métier;urbanisation SI,0.619
+P0291-03,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2021,validation croisée;jeu d'entraînement;feature engineering,0.857
+P0291-04,Jeu d'entraînement pour la recherche documentaire locale,Apprentissage automatique,2025,validation croisée;classification;jeu d'entraînement,0.388
+P0291-05,Évaluation de session dans un moteur d'indexation hybride,Sécurité des SI,2019,autorisation;OWASP;journalisation,0.624
+P0291-06,Vers une indexation intelligente fondée sur feature engineering,Apprentissage automatique,2024,classification;jeu d'entraînement;scikit-learn,0.425
+P0291-07,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2023,TF-IDF;nDCG;ranking,0.675
+P0291-08,Couches pour la recherche documentaire locale,Architecture logicielle,2022,FastAPI;couches;pipeline,0.704
+P0291-09,Vers une indexation intelligente fondée sur accessibilité,Ingénierie web,2021,HTTP;composant;performance front,0.522
+P0291-10,Ged pour la recherche documentaire locale,Systèmes d'information,2020,GED;référentiel;interopérabilité,0.844
+P0291-11,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2022,gouvernance des données;GED;métier,0.671
+P0291-12,Évaluation de BERT dans un moteur d'indexation hybride,Traitement automatique du langage,2026,transformer;spaCy;n-grammes,0.861
+P0291-13,Classification pour la recherche documentaire locale,Apprentissage automatique,2023,scikit-learn;régression;classification,0.973
+P0291-14,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2026,métrique F1;jeu d'entraînement;gradient,0.490
+P0291-15,État client pour la recherche documentaire locale,Ingénierie web,2022,composant;CORS;accessibilité,0.827
+P0291-16,Spacy pour la recherche documentaire locale,Traitement automatique du langage,2025,spaCy;entité nommée;embedding,0.823

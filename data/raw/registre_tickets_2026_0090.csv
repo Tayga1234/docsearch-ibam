@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2026-090-00,2026-02-01,Mariam Bonkoungou,Cellule qualité et évaluation,compte CampusFaso,normale,clos
+T-2026-090-01,2026-02-02,Hassane Traoré,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,haute,en cours
+T-2026-090-02,2026-02-03,Paulin Nacanabo,Cellule des stages et de l'insertion professionnelle,vidéo projecteur Somgandé,normale,en cours
+T-2026-090-03,2026-02-04,Salimata Sawadogo,Département Sciences et Technologie,imprimante documentation,haute,ouvert
+T-2026-090-04,2026-02-05,Nadia Zida,Département Sciences et Technologie,imprimante documentation,normale,clos
+T-2026-090-05,2026-02-06,Nadia Dabiré,Cellule des stages et de l'insertion professionnelle,compte CampusFaso,basse,clos
+T-2026-090-06,2026-02-07,Mariam Kinda,Direction de l'IBAM,vidéo projecteur Somgandé,basse,clos
+T-2026-090-07,2026-02-08,Awa Kinda,Cellule des stages et de l'insertion professionnelle,poste bloqué,haute,ouvert
+T-2026-090-08,2026-02-09,Issouf Kinda,Cellule qualité et évaluation,imprimante documentation,haute,en cours
+T-2026-090-09,2026-02-10,Aminata Somé,Service des ressources humaines,DocSearch inaccessible,normale,clos
+T-2026-090-10,2026-02-11,Estelle Ouattara,Département Sciences et Technologie,compte CampusFaso,normale,en cours
+T-2026-090-11,2026-02-12,Aïcha Ouédraogo,Cellule des stages et de l'insertion professionnelle,poste bloqué,normale,clos
+T-2026-090-12,2026-02-13,Hassane Nikièma,Cellule qualité et évaluation,poste bloqué,normale,clos
+T-2026-090-13,2026-02-14,Rasmané Sawadogo,Cellule des stages et de l'insertion professionnelle,restauration fichier,haute,ouvert
+T-2026-090-14,2026-02-15,Ibrahim Guigma,Centre de documentation et des archives,DocSearch inaccessible,normale,clos
+T-2026-090-15,2026-02-16,Claire Guigma,Département Sciences économiques et de gestion,poste bloqué,haute,clos
+T-2026-090-16,2026-02-17,Karim Ouattara,Service de la scolarité et des examens,vidéo projecteur Somgandé,basse,en cours
+T-2026-090-17,2026-02-18,Mariam Traoré,Département Sciences et Technologie,compte CampusFaso,haute,clos
+T-2026-090-18,2026-02-19,Awa Bonkoungou,Centre de documentation et des archives,compte CampusFaso,haute,en cours
+T-2026-090-19,2026-02-20,Aminata Guigma,Agence comptable de l'IBAM,imprimante documentation,haute,ouvert

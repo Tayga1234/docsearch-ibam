@@ -1,0 +1,27 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0218-00,Olap pour la recherche documentaire locale,Bases de données,2024,intégrité référentielle;requête SQL;SQLite,0.432
+P0218-01,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2019,normalisation;NoSQL;transaction,0.874
+P0218-02,Évaluation de session dans un moteur d'indexation hybride,Sécurité des SI,2025,authentification;principe du moindre privilège;jeton Bearer,0.371
+P0218-03,Évaluation de authentification dans un moteur d'indexation hybride,Sécurité des SI,2021,chiffrement;contrôle d'accès;LDAP,0.413
+P0218-04,Entité nommée pour la recherche documentaire locale,Traitement automatique du langage,2021,embedding;lemmatisation;attention,0.647
+P0218-05,Référentiel pour la recherche documentaire locale,Systèmes d'information,2021,interopérabilité;cycle de vie documentaire;référentiel,0.489
+P0218-06,Évaluation de tokenisation dans un moteur d'indexation hybride,Traitement automatique du langage,2021,vectorisation;spaCy;bag-of-words,0.967
+P0218-07,Vers une indexation intelligente fondée sur microservices,Architecture logicielle,2019,pipeline;microservices;OpenAPI,0.810
+P0218-08,Évaluation de SQLite dans un moteur d'indexation hybride,Bases de données,2020,OLAP;SQLite;FTS5,0.473
+P0218-09,Vers une indexation intelligente fondée sur interopérabilité,Systèmes d'information,2021,cycle de vie documentaire;processus;référentiel,0.368
+P0218-10,Ged pour la recherche documentaire locale,Systèmes d'information,2024,archivage;processus;gouvernance des données,0.360
+P0218-11,Évaluation de métadonnées dans un moteur d'indexation hybride,Recherche d'information,2026,rappel;requête;index inversé,0.638
+P0218-12,Ldap pour la recherche documentaire locale,Sécurité des SI,2024,session;jeton Bearer;chiffrement,0.559
+P0218-13,Composant pour la recherche documentaire locale,Ingénierie web,2020,JSON;composant;SPA,0.426
+P0218-14,Transformer pour la recherche documentaire locale,Traitement automatique du langage,2023,transformer;spaCy;embedding,0.797
+P0218-15,Jeton bearer pour la recherche documentaire locale,Sécurité des SI,2025,session;OWASP;chiffrement,0.925
+P0218-16,Vers une indexation intelligente fondée sur entité nommée,Traitement automatique du langage,2025,n-grammes;bag-of-words;entité nommée,0.928
+P0218-17,Vers une indexation intelligente fondée sur schéma,Bases de données,2025,transaction;PostgreSQL;SQLite,0.462
+P0218-18,Cycle de vie documentaire pour la recherche documentaire locale,Systèmes d'information,2022,référentiel;gouvernance des données;métier,0.553
+P0218-19,Évaluation de embedding dans un moteur d'indexation hybride,Traitement automatique du langage,2025,tokenisation;vectorisation;n-grammes,0.897
+P0218-20,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2019,HTTP;état client;JSON,0.467
+P0218-21,Évaluation de métadonnées dans un moteur d'indexation hybride,Recherche d'information,2024,Lucene;précision;rappel,0.429
+P0218-22,Vers une indexation intelligente fondée sur GED,Systèmes d'information,2026,cycle de vie documentaire;archivage;GED,0.594
+P0218-23,Évaluation de SPA dans un moteur d'indexation hybride,Ingénierie web,2024,performance front;état client;composant,0.380
+P0218-24,Vers une indexation intelligente fondée sur transaction,Bases de données,2020,normalisation;transaction;SQLite,0.743
+P0218-25,Évaluation de BM25 dans un moteur d'indexation hybride,Recherche d'information,2020,corpus;pertinence;requête,0.909

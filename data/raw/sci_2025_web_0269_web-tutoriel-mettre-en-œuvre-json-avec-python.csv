@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0269-00,Évaluation de BERT dans un moteur d'indexation hybride,Traitement automatique du langage,2023,similarité cosinus;vectorisation;BERT,0.915
+P0269-01,Évaluation de Vite dans un moteur d'indexation hybride,Ingénierie web,2022,HTTP;état client;React,0.598
+P0269-02,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2019,attention;tokenisation;vectorisation,0.484
+P0269-03,Évaluation de SPA dans un moteur d'indexation hybride,Ingénierie web,2019,état client;composant;SPA,0.505
+P0269-04,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2023,cycle de vie documentaire;interopérabilité;urbanisation SI,0.408
+P0269-05,Évaluation de spaCy dans un moteur d'indexation hybride,Traitement automatique du langage,2019,entité nommée;lemmatisation;spaCy,0.664
+P0269-06,Vers une indexation intelligente fondée sur transaction,Bases de données,2019,transaction;requête SQL;SQLite,0.611
+P0269-07,Évaluation de réseau de neurones dans un moteur d'indexation hybride,Apprentissage automatique,2023,jeu d'entraînement;surapprentissage;classification,0.472
+P0269-08,Session pour la recherche documentaire locale,Sécurité des SI,2025,autorisation;contrôle d'accès;authentification,0.637
+P0269-09,Évaluation de HTTP dans un moteur d'indexation hybride,Ingénierie web,2026,React;performance front;HTTP,0.936
+P0269-10,Classification pour la recherche documentaire locale,Apprentissage automatique,2023,réseau de neurones;surapprentissage;métrique F1,0.721
+P0269-11,Évaluation de Whoosh dans un moteur d'indexation hybride,Recherche d'information,2023,rappel;pertinence;précision,0.403

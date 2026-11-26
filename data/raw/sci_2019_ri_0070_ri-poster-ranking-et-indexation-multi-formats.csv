@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0070-00,Vers une indexation intelligente fondée sur n-grammes,Traitement automatique du langage,2023,BERT;n-grammes;similarité cosinus,0.708
+P0070-01,Sqlite pour la recherche documentaire locale,Bases de données,2024,index B-tree;intégrité référentielle;normalisation,0.928
+P0070-02,Vers une indexation intelligente fondée sur PostgreSQL,Bases de données,2020,NoSQL;FTS5;index B-tree,0.863
+P0070-03,Hybride pour la recherche documentaire locale,Recherche d'information,2026,corpus;index inversé;ranking,0.661
+P0070-04,Évaluation de feature engineering dans un moteur d'indexation hybride,Apprentissage automatique,2020,jeu d'entraînement;gradient;classification,0.869
+P0070-05,Évaluation de API REST dans un moteur d'indexation hybride,Architecture logicielle,2024,API REST;découplage;Docker,0.487
+P0070-06,Archivage pour la recherche documentaire locale,Systèmes d'information,2021,processus;référentiel;interopérabilité,0.773
+P0070-07,Rappel pour la recherche documentaire locale,Recherche d'information,2023,index inversé;BM25;TF-IDF,0.431
+P0070-08,Évaluation de gradient dans un moteur d'indexation hybride,Apprentissage automatique,2020,régression;classification;surapprentissage,0.454
+P0070-09,Évaluation de classification dans un moteur d'indexation hybride,Apprentissage automatique,2026,feature engineering;jeu d'entraînement;gradient,0.955
+P0070-10,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2024,jeton Bearer;chiffrement;OWASP,0.680
+P0070-11,Transformer pour la recherche documentaire locale,Traitement automatique du langage,2019,lemmatisation;attention;tokenisation,0.569
+P0070-12,Évaluation de FTS5 dans un moteur d'indexation hybride,Bases de données,2025,schéma;FTS5;requête SQL,0.439
+P0070-13,Évaluation de découplage dans un moteur d'indexation hybride,Architecture logicielle,2023,couches;OpenAPI;ingestion,0.632
+P0070-14,Évaluation de découplage dans un moteur d'indexation hybride,Architecture logicielle,2024,API REST;OpenAPI;Docker,0.496
+P0070-15,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2023,régression;gradient;feature engineering,0.928
+P0070-16,Évaluation de jeu d'entraînement dans un moteur d'indexation hybride,Apprentissage automatique,2024,régression;réseau de neurones;classification,0.466
+P0070-17,Validation croisée pour la recherche documentaire locale,Apprentissage automatique,2021,jeu d'entraînement;scikit-learn;gradient,0.853
+P0070-18,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2022,surapprentissage;régression;réseau de neurones,0.444
+P0070-19,Api rest pour la recherche documentaire locale,Architecture logicielle,2024,ingestion;contrat d'interface;pipeline,0.604
+P0070-20,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2026,transaction;OLAP;PostgreSQL,0.890
+P0070-21,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2022,validation croisée;réseau de neurones;scikit-learn,0.416

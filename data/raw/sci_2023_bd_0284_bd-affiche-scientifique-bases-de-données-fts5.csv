@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0284-00,Évaluation de entité nommée dans un moteur d'indexation hybride,Traitement automatique du langage,2024,n-grammes;entité nommée;transformer,0.976
+P0284-01,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2020,accessibilité;CORS;React,0.668
+P0284-02,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2024,API REST;OpenAPI;ingestion,0.964
+P0284-03,Vers une indexation intelligente fondée sur urbanisation SI,Systèmes d'information,2026,gouvernance des données;cycle de vie documentaire;métier,0.967
+P0284-04,Évaluation de PostgreSQL dans un moteur d'indexation hybride,Bases de données,2019,OLAP;FTS5;requête SQL,0.785
+P0284-05,État client pour la recherche documentaire locale,Ingénierie web,2024,Vite;SPA;HTTP,0.416
+P0284-06,Évaluation de transaction dans un moteur d'indexation hybride,Bases de données,2024,NoSQL;intégrité référentielle;PostgreSQL,0.633
+P0284-07,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2020,scikit-learn;régression;jeu d'entraînement,0.693
+P0284-08,Évaluation de classification dans un moteur d'indexation hybride,Apprentissage automatique,2022,gradient;métrique F1;feature engineering,0.477
+P0284-09,Vers une indexation intelligente fondée sur OLAP,Bases de données,2026,index B-tree;PostgreSQL;NoSQL,0.849
+P0284-10,Vers une indexation intelligente fondée sur métrique F1,Apprentissage automatique,2023,feature engineering;classification;jeu d'entraînement,0.949
+P0284-11,Vers une indexation intelligente fondée sur transaction,Bases de données,2026,requête SQL;OLAP;normalisation,0.435
+P0284-12,Vers une indexation intelligente fondée sur interopérabilité,Systèmes d'information,2026,métier;gouvernance des données;archivage,0.468
+P0284-13,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2019,contrôle d'accès;chiffrement;jeton Bearer,0.372
+P0284-14,Vers une indexation intelligente fondée sur OLAP,Bases de données,2026,requête SQL;transaction;FTS5,0.396
+P0284-15,Requête pour la recherche documentaire locale,Recherche d'information,2023,Lucene;rappel;hybride,0.554
+P0284-16,Évaluation de CORS dans un moteur d'indexation hybride,Ingénierie web,2025,SPA;composant;état client,0.544
+P0284-17,Métadonnées pour la recherche documentaire locale,Recherche d'information,2022,corpus;rappel;ranking,0.872
+P0284-18,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2026,LDAP;contrôle d'accès;journalisation,0.401
+P0284-19,État client pour la recherche documentaire locale,Ingénierie web,2021,accessibilité;HTTP;état client,0.835
+P0284-20,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2021,SQLite;transaction;OLAP,0.678
+P0284-21,Vers une indexation intelligente fondée sur Lucene,Recherche d'information,2022,hybride;nDCG;métadonnées,0.587

@@ -1,0 +1,31 @@
+Brouillon — tokenisation sans processeur graphique
+
+Auteurs : M. Ouédraogo (IBAM), S. Traoré (Université Nazi Boni)
+Année : 2022
+Type : preprint
+Domaine : Traitement automatique du langage
+Revue / support : Revue africaine d'informatique appliquée
+Mots-clés : transformer, vectorisation, n-grammes, tokenisation, lemmatisation, informatique
+
+Résumé
+Cet article traite de « Brouillon — tokenisation sans processeur graphique » dans le domaine traitement automatique du langage. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur transformer, vectorisation, n-grammes. Les résultats indiquent que l'approche retenue confirme la faisabilité d'un prototype local. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Dans le champ traitement automatique du langage, la notion de informatique reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur lemmatisation et sur vectorisation, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+Les travaux récents insistent sur transformer et sur transformer, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Les travaux récents insistent sur lemmatisation et sur BERT, souvent combinés dans des architectures hybrides.
+
+Résultats
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ traitement automatique du langage, la notion de transformer reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur transformer et sur n-grammes, souvent combinés dans des architectures hybrides.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ traitement automatique du langage, la notion de lemmatisation reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Conclusion
+Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

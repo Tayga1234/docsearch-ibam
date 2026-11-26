@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2025-082-00,2025-09-01,Issa Traoré,Agence comptable de l'IBAM,poste bloqué,haute,en cours
+T-2025-082-01,2025-09-02,Mariam Kaboré,Direction de l'IBAM,vidéo projecteur Somgandé,normale,ouvert
+T-2025-082-02,2025-09-03,Hassane Ouédraogo,Direction de l'IBAM,restauration fichier,normale,en cours
+T-2025-082-03,2025-09-04,Boukary Nikièma,Cellule qualité et évaluation,restauration fichier,normale,clos
+T-2025-082-04,2025-09-05,Estelle Ilboudo,Cellule des stages et de l'insertion professionnelle,poste bloqué,haute,clos
+T-2025-082-05,2025-09-06,Estelle Bationo,Département Sciences économiques et de gestion,DocSearch inaccessible,normale,clos
+T-2025-082-06,2025-09-07,Aminata Traoré,Agence comptable de l'IBAM,compte CampusFaso,basse,ouvert
+T-2025-082-07,2025-09-08,Estelle Kaboré,Cellule qualité et évaluation,restauration fichier,normale,clos
+T-2025-082-08,2025-09-09,Ibrahim Guigma,Service des ressources humaines,imprimante documentation,haute,clos
+T-2025-082-09,2025-09-10,Aïcha Ilboudo,Service de la scolarité et des examens,vidéo projecteur Somgandé,haute,clos
+T-2025-082-10,2025-09-11,Issouf Kaboré,Cellule qualité et évaluation,vidéo projecteur Somgandé,haute,en cours
+T-2025-082-11,2025-09-12,Issouf Zongo,Département Sciences économiques et de gestion,DocSearch inaccessible,basse,clos
+T-2025-082-12,2025-09-13,Karim Nikièma,Département Sciences et Technologie,compte CampusFaso,basse,ouvert
+T-2025-082-13,2025-09-14,Adama Tapsoba,Service des systèmes d'information,compte CampusFaso,basse,en cours
+T-2025-082-14,2025-09-15,Aïcha Nacanabo,Service des ressources humaines,imprimante documentation,normale,ouvert
+T-2025-082-15,2025-09-16,Paulin Ouédraogo,Service des systèmes d'information,compte CampusFaso,normale,clos
+T-2025-082-16,2025-09-17,Abdoulaye Yaméogo,Département Sciences et Technologie,vidéo projecteur Somgandé,basse,ouvert
+T-2025-082-17,2025-09-18,Claire Ouédraogo,Agence comptable de l'IBAM,DocSearch inaccessible,haute,clos
+T-2025-082-18,2025-09-19,Mariam Bonkoungou,Département Sciences et Technologie,DocSearch inaccessible,basse,en cours
+T-2025-082-19,2025-09-20,Rasmané Savadogo,Cellule qualité et évaluation,vidéo projecteur Somgandé,basse,en cours

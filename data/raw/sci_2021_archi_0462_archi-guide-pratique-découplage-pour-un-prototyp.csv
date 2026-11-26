@@ -1,0 +1,25 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0462-00,Vers une indexation intelligente fondée sur Docker,Architecture logicielle,2019,contrat d'interface;OpenAPI;Docker,0.752
+P0462-01,Évaluation de métadonnées dans un moteur d'indexation hybride,Recherche d'information,2019,précision;rappel;BM25,0.595
+P0462-02,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2024,principe du moindre privilège;OWASP;contrôle d'accès,0.593
+P0462-03,Session pour la recherche documentaire locale,Sécurité des SI,2025,contrôle d'accès;OWASP;authentification,0.414
+P0462-04,Fts5 pour la recherche documentaire locale,Bases de données,2022,requête SQL;intégrité référentielle;index B-tree,0.900
+P0462-05,Ndcg pour la recherche documentaire locale,Recherche d'information,2020,Lucene;précision;rappel,0.967
+P0462-06,Accessibilité pour la recherche documentaire locale,Ingénierie web,2022,état client;React;Vite,0.752
+P0462-07,Évaluation de bag-of-words dans un moteur d'indexation hybride,Traitement automatique du langage,2026,n-grammes;similarité cosinus;spaCy,0.835
+P0462-08,Vers une indexation intelligente fondée sur bag-of-words,Traitement automatique du langage,2025,embedding;attention;tokenisation,0.924
+P0462-09,Performance front pour la recherche documentaire locale,Ingénierie web,2019,Vite;SPA;React,0.917
+P0462-10,Pertinence pour la recherche documentaire locale,Recherche d'information,2020,corpus;précision;requête,0.387
+P0462-11,Vers une indexation intelligente fondée sur état client,Ingénierie web,2025,React;composant;performance front,0.564
+P0462-12,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2023,SPA;Vite;performance front,0.865
+P0462-13,Ingestion pour la recherche documentaire locale,Architecture logicielle,2019,contrat d'interface;OpenAPI;ingestion,0.441
+P0462-14,Évaluation de entité nommée dans un moteur d'indexation hybride,Traitement automatique du langage,2025,attention;lemmatisation;embedding,0.733
+P0462-15,Rappel pour la recherche documentaire locale,Recherche d'information,2020,hybride;Lucene;rappel,0.939
+P0462-16,Vers une indexation intelligente fondée sur attention,Traitement automatique du langage,2023,bag-of-words;BERT;spaCy,0.362
+P0462-17,Feature engineering pour la recherche documentaire locale,Apprentissage automatique,2020,surapprentissage;scikit-learn;régression,0.367
+P0462-18,Évaluation de jeu d'entraînement dans un moteur d'indexation hybride,Apprentissage automatique,2022,scikit-learn;réseau de neurones;gradient,0.923
+P0462-19,Vers une indexation intelligente fondée sur nDCG,Recherche d'information,2022,métadonnées;Lucene;Whoosh,0.743
+P0462-20,Jeu d'entraînement pour la recherche documentaire locale,Apprentissage automatique,2026,surapprentissage;validation croisée;régression,0.563
+P0462-21,Réseau de neurones pour la recherche documentaire locale,Apprentissage automatique,2020,feature engineering;validation croisée;métrique F1,0.917
+P0462-22,Sqlite pour la recherche documentaire locale,Bases de données,2019,intégrité référentielle;transaction;PostgreSQL,0.635
+P0462-23,Évaluation de API REST dans un moteur d'indexation hybride,Architecture logicielle,2020,API REST;OpenAPI;pipeline,0.812

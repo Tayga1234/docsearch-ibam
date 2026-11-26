@@ -1,0 +1,31 @@
+Brouillon — référentiel sans processeur graphique
+
+Auteurs : A. Kaboré (UJKZ), K. Zongo (UJKZ), T. Bonkoungou (UJKZ)
+Année : 2022
+Type : preprint
+Domaine : Systèmes d'information
+Revue / support : Séminaire Master MISIE
+Mots-clés : cycle de vie documentaire, processus, interopérabilité, urbanisation SI, GED, système d'information
+
+Résumé
+Cet article traite de « Brouillon — référentiel sans processeur graphique » dans le domaine systèmes d'information. Nous présentons une expérimentation sur un corpus de démonstration, centrée sur cycle de vie documentaire, processus, interopérabilité. Les résultats indiquent que l'approche retenue montre l'intérêt d'un enrichissement déterministe. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les travaux récents insistent sur système d'information et sur processus, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ systèmes d'information, la notion de GED reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Cadre théorique
+Les travaux récents insistent sur interopérabilité et sur cycle de vie documentaire, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ systèmes d'information, la notion de processus reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Méthode
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Résultats
+Les travaux récents insistent sur cycle de vie documentaire et sur GED, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ systèmes d'information, la notion de système d'information reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur système d'information et sur cycle de vie documentaire, souvent combinés dans des architectures hybrides.
+
+Conclusion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

@@ -1,0 +1,25 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0144-00,Évaluation de session dans un moteur d'indexation hybride,Sécurité des SI,2026,authentification;LDAP;chiffrement,0.857
+P0144-01,Vers une indexation intelligente fondée sur régression,Apprentissage automatique,2024,métrique F1;surapprentissage;régression,0.474
+P0144-02,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2026,référentiel;processus;GED,0.640
+P0144-03,Contrat d'interface pour la recherche documentaire locale,Architecture logicielle,2019,contrat d'interface;ingestion;OpenAPI,0.668
+P0144-04,Vers une indexation intelligente fondée sur archivage,Systèmes d'information,2026,urbanisation SI;gouvernance des données;processus,0.754
+P0144-05,Évaluation de API REST dans un moteur d'indexation hybride,Architecture logicielle,2022,ingestion;couches;Docker,0.481
+P0144-06,Gradient pour la recherche documentaire locale,Apprentissage automatique,2022,gradient;feature engineering;régression,0.844
+P0144-07,Évaluation de CORS dans un moteur d'indexation hybride,Ingénierie web,2026,état client;HTTP;composant,0.784
+P0144-08,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2022,autorisation;OWASP;journalisation,0.481
+P0144-09,Bm25 pour la recherche documentaire locale,Recherche d'information,2023,corpus;métadonnées;nDCG,0.775
+P0144-10,Pipeline pour la recherche documentaire locale,Architecture logicielle,2024,découplage;API REST;couches,0.524
+P0144-11,Évaluation de SPA dans un moteur d'indexation hybride,Ingénierie web,2024,performance front;CORS;SPA,0.643
+P0144-12,Vers une indexation intelligente fondée sur réseau de neurones,Apprentissage automatique,2021,régression;scikit-learn;feature engineering,0.447
+P0144-13,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2019,surapprentissage;métrique F1;réseau de neurones,0.558
+P0144-14,Évaluation de API REST dans un moteur d'indexation hybride,Architecture logicielle,2020,microservices;FastAPI;API REST,0.653
+P0144-15,Vers une indexation intelligente fondée sur couches,Architecture logicielle,2026,microservices;contrat d'interface;découplage,0.412
+P0144-16,Évaluation de normalisation dans un moteur d'indexation hybride,Bases de données,2022,intégrité référentielle;PostgreSQL;requête SQL,0.521
+P0144-17,Journalisation pour la recherche documentaire locale,Sécurité des SI,2025,OWASP;chiffrement;jeton Bearer,0.632
+P0144-18,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2026,NoSQL;requête SQL;normalisation,0.800
+P0144-19,Réseau de neurones pour la recherche documentaire locale,Apprentissage automatique,2025,réseau de neurones;gradient;classification,0.770
+P0144-20,Vers une indexation intelligente fondée sur métadonnées,Recherche d'information,2020,ranking;index inversé;métadonnées,0.460
+P0144-21,Vers une indexation intelligente fondée sur gradient,Apprentissage automatique,2021,validation croisée;scikit-learn;classification,0.511
+P0144-22,Évaluation de entité nommée dans un moteur d'indexation hybride,Traitement automatique du langage,2020,bag-of-words;embedding;tokenisation,0.445
+P0144-23,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2023,gouvernance des données;GED;processus,0.553

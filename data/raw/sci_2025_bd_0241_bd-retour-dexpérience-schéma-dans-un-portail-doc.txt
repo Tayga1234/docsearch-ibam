@@ -1,0 +1,31 @@
+Retour d'expérience : schéma dans un portail documentaire
+
+Auteurs : K. Zongo (UJKZ), D. Somé (IBAM), J. Dabiré (Université Joseph Ki-Zerbo), T. Bonkoungou (UJKZ)
+Année : 2025
+Type : note_technique
+Domaine : Bases de données
+Revue / support : Annales de l'IBAM
+Mots-clés : FTS5, schéma, OLAP, normalisation, intégrité référentielle, informatique
+
+Résumé
+Cet article traite de « Retour d'expérience : schéma dans un portail documentaire » dans le domaine bases de données. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur FTS5, schéma, OLAP. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur OLAP et sur SQLite, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur informatique et sur OLAP, souvent combinés dans des architectures hybrides. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ bases de données, la notion de informatique reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Résultats
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Dans le champ bases de données, la notion de OLAP reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur schéma et sur FTS5, souvent combinés dans des architectures hybrides.
+
+Discussion
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Les travaux récents insistent sur informatique et sur index B-tree, souvent combinés dans des architectures hybrides. Dans le champ bases de données, la notion de normalisation reste centrale pour comprendre la qualité des réponses.
+
+Conclusion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Les travaux récents insistent sur schéma et sur NoSQL, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ bases de données, la notion de OLAP reste centrale pour comprendre la qualité des réponses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

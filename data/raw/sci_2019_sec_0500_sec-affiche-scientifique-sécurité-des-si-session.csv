@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0500-00,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2025,NoSQL;requête SQL;normalisation,0.842
+P0500-01,Évaluation de métier dans un moteur d'indexation hybride,Systèmes d'information,2022,gouvernance des données;processus;cycle de vie documentaire,0.888
+P0500-02,Feature engineering pour la recherche documentaire locale,Apprentissage automatique,2023,scikit-learn;validation croisée;métrique F1,0.846
+P0500-03,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2025,urbanisation SI;interopérabilité;processus,0.834
+P0500-04,React pour la recherche documentaire locale,Ingénierie web,2022,JSON;CORS;état client,0.758
+P0500-05,Évaluation de urbanisation SI dans un moteur d'indexation hybride,Systèmes d'information,2023,archivage;cycle de vie documentaire;urbanisation SI,0.783
+P0500-06,Cors pour la recherche documentaire locale,Ingénierie web,2022,composant;HTTP;SPA,0.614
+P0500-07,Hybride pour la recherche documentaire locale,Recherche d'information,2026,TF-IDF;index inversé;rappel,0.830
+P0500-08,Vers une indexation intelligente fondée sur autorisation,Sécurité des SI,2026,LDAP;contrôle d'accès;principe du moindre privilège,0.674
+P0500-09,Vectorisation pour la recherche documentaire locale,Traitement automatique du langage,2021,similarité cosinus;spaCy;BERT,0.559
+P0500-10,Gouvernance des données pour la recherche documentaire locale,Systèmes d'information,2024,archivage;référentiel;processus,0.467
+P0500-11,Métier pour la recherche documentaire locale,Systèmes d'information,2026,archivage;GED;processus,0.354
+P0500-12,Évaluation de Docker dans un moteur d'indexation hybride,Architecture logicielle,2019,couches;découplage;FastAPI,0.690
+P0500-13,Évaluation de interopérabilité dans un moteur d'indexation hybride,Systèmes d'information,2024,archivage;urbanisation SI;processus,0.860
+P0500-14,Évaluation de schéma dans un moteur d'indexation hybride,Bases de données,2020,schéma;transaction;FTS5,0.438

@@ -1,0 +1,17 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0319-00,Évaluation de authentification dans un moteur d'indexation hybride,Sécurité des SI,2022,OWASP;contrôle d'accès;autorisation,0.901
+P0319-01,Feature engineering pour la recherche documentaire locale,Apprentissage automatique,2022,feature engineering;classification;métrique F1,0.747
+P0319-02,Vers une indexation intelligente fondée sur OLAP,Bases de données,2025,intégrité référentielle;schéma;requête SQL,0.729
+P0319-03,Vers une indexation intelligente fondée sur GED,Systèmes d'information,2025,archivage;processus;GED,0.512
+P0319-04,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2022,état client;accessibilité;composant,0.923
+P0319-05,Évaluation de cycle de vie documentaire dans un moteur d'indexation hybride,Systèmes d'information,2021,gouvernance des données;référentiel;métier,0.868
+P0319-06,Vers une indexation intelligente fondée sur Whoosh,Recherche d'information,2026,Lucene;hybride;pertinence,0.648
+P0319-07,Chiffrement pour la recherche documentaire locale,Sécurité des SI,2026,contrôle d'accès;session;chiffrement,0.709
+P0319-08,Évaluation de gradient dans un moteur d'indexation hybride,Apprentissage automatique,2024,métrique F1;jeu d'entraînement;gradient,0.907
+P0319-09,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2021,performance front;JSON;CORS,0.450
+P0319-10,Vers une indexation intelligente fondée sur transformer,Traitement automatique du langage,2025,entité nommée;transformer;vectorisation,0.787
+P0319-11,Vers une indexation intelligente fondée sur requête,Recherche d'information,2024,index inversé;précision;pertinence,0.739
+P0319-12,Vers une indexation intelligente fondée sur état client,Ingénierie web,2025,React;accessibilité;JSON,0.822
+P0319-13,Évaluation de jeu d'entraînement dans un moteur d'indexation hybride,Apprentissage automatique,2026,surapprentissage;jeu d'entraînement;métrique F1,0.871
+P0319-14,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2022,FTS5;intégrité référentielle;index B-tree,0.675
+P0319-15,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2025,interopérabilité;processus;référentiel,0.787

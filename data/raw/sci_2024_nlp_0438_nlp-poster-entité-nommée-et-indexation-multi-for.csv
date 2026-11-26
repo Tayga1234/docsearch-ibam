@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0438-00,Spacy pour la recherche documentaire locale,Traitement automatique du langage,2020,similarité cosinus;n-grammes;embedding,0.669
+P0438-01,Vers une indexation intelligente fondée sur validation croisée,Apprentissage automatique,2023,validation croisée;jeu d'entraînement;réseau de neurones,0.923
+P0438-02,Évaluation de gradient dans un moteur d'indexation hybride,Apprentissage automatique,2024,surapprentissage;métrique F1;validation croisée,0.468
+P0438-03,Évaluation de API REST dans un moteur d'indexation hybride,Architecture logicielle,2022,découplage;pipeline;API REST,0.505
+P0438-04,Requête sql pour la recherche documentaire locale,Bases de données,2024,PostgreSQL;normalisation;intégrité référentielle,0.721
+P0438-05,Vers une indexation intelligente fondée sur Docker,Architecture logicielle,2019,ingestion;OpenAPI;Docker,0.777
+P0438-06,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2026,CORS;état client;composant,0.858
+P0438-07,Index b-tree pour la recherche documentaire locale,Bases de données,2026,index B-tree;normalisation;requête SQL,0.625
+P0438-08,Session pour la recherche documentaire locale,Sécurité des SI,2020,OWASP;journalisation;LDAP,0.874
+P0438-09,Vers une indexation intelligente fondée sur feature engineering,Apprentissage automatique,2021,gradient;feature engineering;validation croisée,0.578
+P0438-10,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2020,métier;GED;gouvernance des données,0.561
+P0438-11,Vers une indexation intelligente fondée sur Lucene,Recherche d'information,2022,pertinence;ranking;nDCG,0.866
+P0438-12,Vers une indexation intelligente fondée sur CORS,Ingénierie web,2024,accessibilité;CORS;React,0.823
+P0438-13,React pour la recherche documentaire locale,Ingénierie web,2024,état client;JSON;composant,0.930
+P0438-14,Évaluation de spaCy dans un moteur d'indexation hybride,Traitement automatique du langage,2024,tokenisation;n-grammes;attention,0.595

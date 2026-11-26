@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2021-10-01,Service de la scolarité et des examens,40,PDF,BORD-2021-033-00,Fatou Sanou
+2021-10-02,Département Sciences et Technologie,3,TXT,BORD-2021-033-01,Issa Ouédraogo
+2021-10-03,Service des ressources humaines,21,TXT,BORD-2021-033-02,Issa Ouédraogo
+2021-10-04,Service de la scolarité et des examens,3,mixte,BORD-2021-033-03,Fatou Sanou
+2021-10-05,Cellule des stages et de l'insertion professionnelle,39,PDF,BORD-2021-033-04,Fatou Sanou
+2021-10-06,Centre de documentation et des archives,6,CSV,BORD-2021-033-05,David Kaboré
+2021-10-07,Cellule des stages et de l'insertion professionnelle,19,TXT,BORD-2021-033-06,Issa Ouédraogo
+2021-10-08,Cellule qualité et évaluation,25,CSV,BORD-2021-033-07,Fatou Sanou
+2021-10-09,Département Sciences et Technologie,14,TXT,BORD-2021-033-08,Issa Ouédraogo
+2021-10-10,Cellule qualité et évaluation,4,TXT,BORD-2021-033-09,Issa Ouédraogo
+2021-10-11,Service des ressources humaines,37,CSV,BORD-2021-033-10,David Kaboré
+2021-10-12,Cellule qualité et évaluation,12,CSV,BORD-2021-033-11,Fatou Sanou
+2021-10-13,Cellule qualité et évaluation,37,TXT,BORD-2021-033-12,Issa Ouédraogo
+2021-10-14,Service des systèmes d'information,32,TXT,BORD-2021-033-13,David Kaboré
+2021-10-15,Département Sciences économiques et de gestion,36,PDF,BORD-2021-033-14,Fatou Sanou
+2021-10-16,Département Sciences économiques et de gestion,22,TXT,BORD-2021-033-15,David Kaboré

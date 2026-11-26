@@ -1,0 +1,21 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0209-00,Session pour la recherche documentaire locale,Sécurité des SI,2021,authentification;autorisation;OWASP,0.611
+P0209-01,Vers une indexation intelligente fondée sur urbanisation SI,Systèmes d'information,2024,GED;archivage;urbanisation SI,0.413
+P0209-02,Évaluation de jeu d'entraînement dans un moteur d'indexation hybride,Apprentissage automatique,2026,classification;réseau de neurones;jeu d'entraînement,0.515
+P0209-03,Vers une indexation intelligente fondée sur spaCy,Traitement automatique du langage,2021,bag-of-words;spaCy;attention,0.701
+P0209-04,Vers une indexation intelligente fondée sur gouvernance des données,Systèmes d'information,2020,cycle de vie documentaire;urbanisation SI;archivage,0.943
+P0209-05,Bert pour la recherche documentaire locale,Traitement automatique du langage,2019,bag-of-words;lemmatisation;transformer,0.857
+P0209-06,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2026,schéma;normalisation;SQLite,0.782
+P0209-07,Vers une indexation intelligente fondée sur session,Sécurité des SI,2026,session;chiffrement;jeton Bearer,0.674
+P0209-08,Découplage pour la recherche documentaire locale,Architecture logicielle,2023,ingestion;FastAPI;microservices,0.415
+P0209-09,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2024,surapprentissage;jeu d'entraînement;classification,0.516
+P0209-10,Vers une indexation intelligente fondée sur OLAP,Bases de données,2023,index B-tree;PostgreSQL;OLAP,0.711
+P0209-11,Évaluation de hybride dans un moteur d'indexation hybride,Recherche d'information,2020,Lucene;nDCG;corpus,0.450
+P0209-12,Vectorisation pour la recherche documentaire locale,Traitement automatique du langage,2019,BERT;lemmatisation;spaCy,0.785
+P0209-13,Évaluation de état client dans un moteur d'indexation hybride,Ingénierie web,2023,CORS;SPA;HTTP,0.570
+P0209-14,Vers une indexation intelligente fondée sur métier,Systèmes d'information,2026,cycle de vie documentaire;archivage;GED,0.380
+P0209-15,Processus pour la recherche documentaire locale,Systèmes d'information,2019,cycle de vie documentaire;processus;interopérabilité,0.594
+P0209-16,Performance front pour la recherche documentaire locale,Ingénierie web,2022,Vite;JSON;HTTP,0.369
+P0209-17,Évaluation de React dans un moteur d'indexation hybride,Ingénierie web,2023,performance front;SPA;CORS,0.862
+P0209-18,Vers une indexation intelligente fondée sur pipeline,Architecture logicielle,2019,pipeline;OpenAPI;API REST,0.763
+P0209-19,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2020,régression;métrique F1;gradient,0.667

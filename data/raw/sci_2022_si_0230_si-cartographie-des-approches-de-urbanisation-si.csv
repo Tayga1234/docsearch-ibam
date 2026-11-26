@@ -1,0 +1,17 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0230-00,Évaluation de composant dans un moteur d'indexation hybride,Ingénierie web,2019,SPA;HTTP;accessibilité,0.606
+P0230-01,Composant pour la recherche documentaire locale,Ingénierie web,2025,Vite;accessibilité;composant,0.735
+P0230-02,Évaluation de hybride dans un moteur d'indexation hybride,Recherche d'information,2021,hybride;corpus;nDCG,0.550
+P0230-03,Évaluation de pipeline dans un moteur d'indexation hybride,Architecture logicielle,2020,couches;découplage;ingestion,0.525
+P0230-04,Évaluation de TF-IDF dans un moteur d'indexation hybride,Recherche d'information,2026,BM25;requête;TF-IDF,0.640
+P0230-05,Vers une indexation intelligente fondée sur Vite,Ingénierie web,2019,SPA;Vite;JSON,0.365
+P0230-06,Évaluation de OWASP dans un moteur d'indexation hybride,Sécurité des SI,2024,jeton Bearer;principe du moindre privilège;journalisation,0.566
+P0230-07,Lemmatisation pour la recherche documentaire locale,Traitement automatique du langage,2026,spaCy;transformer;attention,0.570
+P0230-08,Vers une indexation intelligente fondée sur découplage,Architecture logicielle,2023,découplage;microservices;Docker,0.944
+P0230-09,Évaluation de urbanisation SI dans un moteur d'indexation hybride,Systèmes d'information,2020,métier;référentiel;urbanisation SI,0.459
+P0230-10,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2020,LDAP;principe du moindre privilège;session,0.828
+P0230-11,Évaluation de SQLite dans un moteur d'indexation hybride,Bases de données,2026,PostgreSQL;normalisation;transaction,0.538
+P0230-12,Tf-idf pour la recherche documentaire locale,Recherche d'information,2025,requête;rappel;hybride,0.456
+P0230-13,Index inversé pour la recherche documentaire locale,Recherche d'information,2022,Lucene;corpus;BM25,0.575
+P0230-14,Évaluation de accessibilité dans un moteur d'indexation hybride,Ingénierie web,2023,React;performance front;composant,0.918
+P0230-15,Évaluation de surapprentissage dans un moteur d'indexation hybride,Apprentissage automatique,2025,jeu d'entraînement;classification;scikit-learn,0.826

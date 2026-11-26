@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2024-102-00,vidéoprojecteur,1,moyen,laboratoire MIAGE,Agence comptable de l'IBAM
+INV-2024-102-01,extincteur,24,moyen,magasin A des archives,Cellule qualité et évaluation
+INV-2024-102-02,extincteur,16,à réformer,salle multimédia,Centre de documentation et des archives
+INV-2024-102-03,scanner A4,7,bon,salle multimédia,Centre de documentation et des archives
+INV-2024-102-04,rayonnage archives,18,à réformer,"campus principal, secteur 25",Service des systèmes d'information
+INV-2024-102-05,poste lecteur,22,à réformer,amphithéâtre A,Département Sciences et Technologie
+INV-2024-102-06,split climatisation,14,bon,magasin A des archives,Département Sciences économiques et de gestion
+INV-2024-102-07,scanner A4,20,à réformer,laboratoire MIAGE,Service des systèmes d'information
+INV-2024-102-08,split climatisation,8,moyen,magasin A des archives,Département Sciences et Technologie
+INV-2024-102-09,switch réseau,17,bon,"campus principal, secteur 25",Département Sciences et Technologie
+INV-2024-102-10,extincteur,8,à réformer,magasin B (examens),Agence comptable de l'IBAM
+INV-2024-102-11,poste lecteur,13,bon,salle multimédia,Service de la scolarité et des examens
+INV-2024-102-12,scanner A4,14,bon,salle conseil de l'institut,Cellule qualité et évaluation
+INV-2024-102-13,poste lecteur,7,bon,complexe pédagogique de Somgandé,Centre de documentation et des archives
+INV-2024-102-14,extincteur,19,moyen,local technique DSI,Cellule des stages et de l'insertion professionnelle

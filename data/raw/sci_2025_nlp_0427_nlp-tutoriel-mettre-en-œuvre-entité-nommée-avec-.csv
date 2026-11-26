@@ -1,0 +1,14 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0427-00,Évaluation de nDCG dans un moteur d'indexation hybride,Recherche d'information,2025,métadonnées;index inversé;nDCG,0.515
+P0427-01,Vers une indexation intelligente fondée sur OLAP,Bases de données,2019,schéma;index B-tree;SQLite,0.837
+P0427-02,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2019,n-grammes;embedding;BERT,0.781
+P0427-03,Vers une indexation intelligente fondée sur jeton Bearer,Sécurité des SI,2019,authentification;principe du moindre privilège;journalisation,0.974
+P0427-04,Pipeline pour la recherche documentaire locale,Architecture logicielle,2024,FastAPI;ingestion;pipeline,0.852
+P0427-05,Vers une indexation intelligente fondée sur corpus,Recherche d'information,2020,corpus;rappel;index inversé,0.753
+P0427-06,Archivage pour la recherche documentaire locale,Systèmes d'information,2026,GED;archivage;urbanisation SI,0.536
+P0427-07,Vers une indexation intelligente fondée sur nDCG,Recherche d'information,2022,requête;hybride;ranking,0.808
+P0427-08,Whoosh pour la recherche documentaire locale,Recherche d'information,2021,rappel;métadonnées;ranking,0.703
+P0427-09,Vers une indexation intelligente fondée sur performance front,Ingénierie web,2024,HTTP;accessibilité;composant,0.555
+P0427-10,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2021,gradient;scikit-learn;validation croisée,0.355
+P0427-11,Docker pour la recherche documentaire locale,Architecture logicielle,2022,découplage;pipeline;FastAPI,0.395
+P0427-12,Évaluation de cycle de vie documentaire dans un moteur d'indexation hybride,Systèmes d'information,2019,métier;urbanisation SI;processus,0.694

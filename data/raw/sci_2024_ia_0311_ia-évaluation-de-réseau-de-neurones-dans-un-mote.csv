@@ -1,0 +1,29 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0311-00,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2024,régression;surapprentissage;validation croisée,0.887
+P0311-01,Authentification pour la recherche documentaire locale,Sécurité des SI,2024,jeton Bearer;contrôle d'accès;OWASP,0.577
+P0311-02,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2020,classification;jeu d'entraînement;régression,0.828
+P0311-03,Vers une indexation intelligente fondée sur métier,Systèmes d'information,2025,cycle de vie documentaire;GED;processus,0.588
+P0311-04,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2022,urbanisation SI;archivage;GED,0.831
+P0311-05,Vers une indexation intelligente fondée sur chiffrement,Sécurité des SI,2024,chiffrement;session;contrôle d'accès,0.730
+P0311-06,Évaluation de pertinence dans un moteur d'indexation hybride,Recherche d'information,2025,précision;BM25;Lucene,0.475
+P0311-07,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2024,LDAP;principe du moindre privilège;OWASP,0.589
+P0311-08,Vers une indexation intelligente fondée sur normalisation,Bases de données,2026,SQLite;schéma;normalisation,0.627
+P0311-09,Évaluation de FTS5 dans un moteur d'indexation hybride,Bases de données,2022,PostgreSQL;intégrité référentielle;requête SQL,0.722
+P0311-10,Évaluation de embedding dans un moteur d'indexation hybride,Traitement automatique du langage,2026,bag-of-words;spaCy;entité nommée,0.763
+P0311-11,Évaluation de lemmatisation dans un moteur d'indexation hybride,Traitement automatique du langage,2021,n-grammes;BERT;tokenisation,0.626
+P0311-12,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2025,OWASP;contrôle d'accès;jeton Bearer,0.862
+P0311-13,Vers une indexation intelligente fondée sur React,Ingénierie web,2025,composant;performance front;CORS,0.551
+P0311-14,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2019,surapprentissage;réseau de neurones;jeu d'entraînement,0.817
+P0311-15,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2022,API REST;OpenAPI;Docker,0.613
+P0311-16,Vers une indexation intelligente fondée sur rappel,Recherche d'information,2019,requête;corpus;Lucene,0.433
+P0311-17,Évaluation de pipeline dans un moteur d'indexation hybride,Architecture logicielle,2019,API REST;ingestion;découplage,0.945
+P0311-18,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2019,interopérabilité;gouvernance des données;archivage,0.689
+P0311-19,Index inversé pour la recherche documentaire locale,Recherche d'information,2025,nDCG;métadonnées;Whoosh,0.848
+P0311-20,Vectorisation pour la recherche documentaire locale,Traitement automatique du langage,2023,attention;tokenisation;similarité cosinus,0.562
+P0311-21,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2019,OpenAPI;contrat d'interface;FastAPI,0.561
+P0311-22,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2026,classification;surapprentissage;feature engineering,0.777
+P0311-23,Évaluation de nDCG dans un moteur d'indexation hybride,Recherche d'information,2021,pertinence;rappel;ranking,0.738
+P0311-24,Évaluation de validation croisée dans un moteur d'indexation hybride,Apprentissage automatique,2024,réseau de neurones;feature engineering;gradient,0.452
+P0311-25,Évaluation de ingestion dans un moteur d'indexation hybride,Architecture logicielle,2021,découplage;pipeline;FastAPI,0.620
+P0311-26,Ndcg pour la recherche documentaire locale,Recherche d'information,2022,Whoosh;corpus;index inversé,0.752
+P0311-27,Évaluation de microservices dans un moteur d'indexation hybride,Architecture logicielle,2026,contrat d'interface;pipeline;microservices,0.779

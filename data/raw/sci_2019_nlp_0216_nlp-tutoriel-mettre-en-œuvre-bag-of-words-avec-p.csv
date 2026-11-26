@@ -1,0 +1,17 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0216-00,Vers une indexation intelligente fondée sur nDCG,Recherche d'information,2026,ranking;Whoosh;précision,0.980
+P0216-01,Évaluation de contrôle d'accès dans un moteur d'indexation hybride,Sécurité des SI,2022,OWASP;contrôle d'accès;authentification,0.412
+P0216-02,Métrique f1 pour la recherche documentaire locale,Apprentissage automatique,2020,scikit-learn;métrique F1;gradient,0.932
+P0216-03,Évaluation de jeu d'entraînement dans un moteur d'indexation hybride,Apprentissage automatique,2025,jeu d'entraînement;scikit-learn;classification,0.625
+P0216-04,Vers une indexation intelligente fondée sur Docker,Architecture logicielle,2022,ingestion;FastAPI;API REST,0.455
+P0216-05,Évaluation de scikit-learn dans un moteur d'indexation hybride,Apprentissage automatique,2026,validation croisée;classification;régression,0.365
+P0216-06,Évaluation de React dans un moteur d'indexation hybride,Ingénierie web,2020,SPA;HTTP;performance front,0.484
+P0216-07,Évaluation de FastAPI dans un moteur d'indexation hybride,Architecture logicielle,2026,pipeline;API REST;Docker,0.762
+P0216-08,Authentification pour la recherche documentaire locale,Sécurité des SI,2022,journalisation;autorisation;chiffrement,0.978
+P0216-09,Évaluation de corpus dans un moteur d'indexation hybride,Recherche d'information,2024,requête;hybride;BM25,0.849
+P0216-10,Tf-idf pour la recherche documentaire locale,Recherche d'information,2022,nDCG;Whoosh;TF-IDF,0.706
+P0216-11,Fts5 pour la recherche documentaire locale,Bases de données,2019,schéma;transaction;NoSQL,0.832
+P0216-12,Postgresql pour la recherche documentaire locale,Bases de données,2025,index B-tree;transaction;NoSQL,0.402
+P0216-13,Évaluation de découplage dans un moteur d'indexation hybride,Architecture logicielle,2020,FastAPI;API REST;contrat d'interface,0.476
+P0216-14,Vers une indexation intelligente fondée sur Vite,Ingénierie web,2021,HTTP;React;performance front,0.637
+P0216-15,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2025,OWASP;autorisation;chiffrement,0.714

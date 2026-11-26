@@ -1,0 +1,13 @@
+date,usager,service,requete,mode,document_oriente
+2025-01-20,Fatou Sanou,Documentation,budget documentaire,hybrid,note_budget_documentaire
+2025-01-22,Aminata Kaboré,Scolarité,attestation de scolarité,keyword,modele_attestation_scolarite
+2025-02-03,Claire Nikièma,Direction,partenariat CCI,hybrid,partenaires_institutionnels
+2025-02-12,Ibrahim Ouédraogo,DSI,serveur DocSearch,keyword,demande_achat_serveur
+2025-02-18,Moussa Compaoré,Stages,stage MISIE,semantic,suivi_conventions_stage
+2025-02-17,Rasmané Ilboudo,ST,formation,hybrid,plan_formation_2025
+2025-03-04,Salimata Zongo,SEG,catalogue formations,keyword,catalogue_formations_ibam
+2025-03-11,David Kaboré,Archives,versement n°18,keyword,bordereau_versement_18
+2025-03-25,Boureima Sawadogo,Agence,SONABEL,hybrid,suivi_facture_sonabel
+2025-04-02,Paulin Yaméogo,Qualité,PDF scannés,semantic,alerte_qualite_documents
+2025-04-09,Étudiant L3 MIAGE,Public,règlement examens,hybrid,reglement_examens_ibam
+2025-04-15,Adama Ouédraogo,ST,délibération MISIE,keyword,deliberation_m1_misie

@@ -1,0 +1,18 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0156-00,Évaluation de normalisation dans un moteur d'indexation hybride,Bases de données,2020,intégrité référentielle;OLAP;transaction,0.545
+P0156-01,Vers une indexation intelligente fondée sur authentification,Sécurité des SI,2023,session;LDAP;chiffrement,0.871
+P0156-02,Évaluation de Docker dans un moteur d'indexation hybride,Architecture logicielle,2025,API REST;couches;pipeline,0.746
+P0156-03,Évaluation de vectorisation dans un moteur d'indexation hybride,Traitement automatique du langage,2023,bag-of-words;attention;entité nommée,0.737
+P0156-04,Intégrité référentielle pour la recherche documentaire locale,Bases de données,2025,index B-tree;SQLite;normalisation,0.954
+P0156-05,Précision pour la recherche documentaire locale,Recherche d'information,2019,ranking;Whoosh;nDCG,0.844
+P0156-06,Évaluation de référentiel dans un moteur d'indexation hybride,Systèmes d'information,2026,archivage;référentiel;urbanisation SI,0.480
+P0156-07,Vers une indexation intelligente fondée sur autorisation,Sécurité des SI,2019,chiffrement;OWASP;autorisation,0.387
+P0156-08,Vers une indexation intelligente fondée sur autorisation,Sécurité des SI,2023,autorisation;authentification;OWASP,0.494
+P0156-09,Évaluation de gradient dans un moteur d'indexation hybride,Apprentissage automatique,2019,scikit-learn;surapprentissage;classification,0.679
+P0156-10,Vers une indexation intelligente fondée sur microservices,Architecture logicielle,2021,microservices;API REST;contrat d'interface,0.721
+P0156-11,Évaluation de embedding dans un moteur d'indexation hybride,Traitement automatique du langage,2026,tokenisation;entité nommée;spaCy,0.925
+P0156-12,Évaluation de OLAP dans un moteur d'indexation hybride,Bases de données,2024,requête SQL;SQLite;intégrité référentielle,0.803
+P0156-13,Vers une indexation intelligente fondée sur FastAPI,Architecture logicielle,2022,contrat d'interface;FastAPI;ingestion,0.945
+P0156-14,Vers une indexation intelligente fondée sur OpenAPI,Architecture logicielle,2019,API REST;FastAPI;pipeline,0.836
+P0156-15,Processus pour la recherche documentaire locale,Systèmes d'information,2025,interopérabilité;urbanisation SI;GED,0.531
+P0156-16,Vers une indexation intelligente fondée sur rappel,Recherche d'information,2019,requête;précision;corpus,0.747

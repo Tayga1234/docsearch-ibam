@@ -1,0 +1,31 @@
+Cartographie des approches de similarité cosinus (2018-2026)
+
+Auteurs : E. Tapsoba (IBAM), F. Sanou (IBAM), I. Sawadogo (2iE), G. KOROGO (IBAM / MISIE)
+Année : 2022
+Type : survey
+Domaine : Traitement automatique du langage
+Revue / support : Bulletin technique ANPTIC
+Mots-clés : BERT, tokenisation, n-grammes, similarité cosinus, spaCy, système d'information
+
+Résumé
+Cet article traite de « Cartographie des approches de similarité cosinus (2018-2026) » dans le domaine traitement automatique du langage. Nous présentons une évaluation des métriques de ranking lexical et hybride, centrée sur BERT, tokenisation, n-grammes. Les résultats indiquent que l'approche retenue confirme la faisabilité d'un prototype local. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Dans le champ traitement automatique du langage, la notion de BERT reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+Dans le champ traitement automatique du langage, la notion de tokenisation reste centrale pour comprendre la qualité des réponses. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Méthode
+Les travaux récents insistent sur tokenisation et sur transformer, souvent combinés dans des architectures hybrides. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Dans le champ traitement automatique du langage, la notion de BERT reste centrale pour comprendre la qualité des réponses.
+
+Résultats
+Dans le champ traitement automatique du langage, la notion de tokenisation reste centrale pour comprendre la qualité des réponses. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses. Les travaux récents insistent sur tokenisation et sur spaCy, souvent combinés dans des architectures hybrides. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur BERT et sur entité nommée, souvent combinés dans des architectures hybrides.
+
+Conclusion
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

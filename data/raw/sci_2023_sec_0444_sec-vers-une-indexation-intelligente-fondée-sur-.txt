@@ -1,0 +1,31 @@
+Vers une indexation intelligente fondée sur jeton Bearer
+
+Auteurs : R. Ilboudo (IBAM), K. Zongo (UJKZ)
+Année : 2023
+Type : article
+Domaine : Sécurité des SI
+Revue / support : Revue africaine d'informatique appliquée
+Mots-clés : contrôle d'accès, jeton Bearer, principe du moindre privilège, session, OWASP, système d'information
+
+Résumé
+Cet article traite de « Vers une indexation intelligente fondée sur jeton Bearer » dans le domaine sécurité des si. Nous présentons une analyse de pipeline d'ingestion multi-formats, centrée sur contrôle d'accès, jeton Bearer, principe du moindre privilège. Les résultats indiquent que l'approche retenue distingue clairement parcours sans index et moteur à index. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Dans le champ sécurité des si, la notion de session reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur OWASP et sur contrôle d'accès, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Cadre théorique
+Les travaux récents insistent sur principe du moindre privilège et sur authentification, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de jeton Bearer reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Méthode
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur OWASP et sur authentification, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Résultats
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de jeton Bearer reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur jeton Bearer et sur journalisation, souvent combinés dans des architectures hybrides. Les limites concernent l'absence d'une collection annotée type TREC et l'approximation sémantique du TF-IDF face aux embeddings denses.
+
+Discussion
+Les travaux récents insistent sur jeton Bearer et sur chiffrement, souvent combinés dans des architectures hybrides. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ sécurité des si, la notion de principe du moindre privilège reste centrale pour comprendre la qualité des réponses. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits.
+
+Conclusion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

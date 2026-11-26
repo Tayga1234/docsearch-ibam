@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2026-070-00,poste lecteur,14,bon,salle multimédia,Service des systèmes d'information
+INV-2026-070-01,poste lecteur,3,moyen,salle multimédia,Centre de documentation et des archives
+INV-2026-070-02,switch réseau,11,bon,amphithéâtre A,Département Sciences et Technologie
+INV-2026-070-03,vidéoprojecteur,3,bon,salle conseil de l'institut,Service des ressources humaines
+INV-2026-070-04,vidéoprojecteur,3,à réformer,amphithéâtre A,Agence comptable de l'IBAM
+INV-2026-070-05,scanner A4,3,à réformer,amphithéâtre A,Cellule des stages et de l'insertion professionnelle
+INV-2026-070-06,poste lecteur,1,à réformer,laboratoire MIAGE,Agence comptable de l'IBAM
+INV-2026-070-07,rayonnage archives,16,moyen,local technique DSI,Département Sciences économiques et de gestion
+INV-2026-070-08,vidéoprojecteur,5,bon,salle de lecture du Centre de documentation,Cellule des stages et de l'insertion professionnelle
+INV-2026-070-09,poste lecteur,11,moyen,laboratoire MIAGE,Service des ressources humaines
+INV-2026-070-10,rayonnage archives,23,à réformer,magasin B (examens),Département Sciences et Technologie
+INV-2026-070-11,rayonnage archives,9,bon,complexe pédagogique de Somgandé,Service de la scolarité et des examens
+INV-2026-070-12,scanner A4,19,moyen,salle conseil de l'institut,Service de la scolarité et des examens
+INV-2026-070-13,split climatisation,1,bon,salle multimédia,Cellule qualité et évaluation
+INV-2026-070-14,vidéoprojecteur,15,bon,salle conseil de l'institut,Cellule des stages et de l'insertion professionnelle

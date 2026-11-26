@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2020-030-00,poste lecteur,7,moyen,amphithéâtre A,Service des ressources humaines
+INV-2020-030-01,vidéoprojecteur,16,à réformer,magasin B (examens),Agence comptable de l'IBAM
+INV-2020-030-02,poste lecteur,13,bon,salle conseil de l'institut,Service des systèmes d'information
+INV-2020-030-03,switch réseau,20,bon,complexe pédagogique de Somgandé,Département Sciences et Technologie
+INV-2020-030-04,vidéoprojecteur,2,bon,laboratoire MIAGE,Département Sciences économiques et de gestion
+INV-2020-030-05,rayonnage archives,15,à réformer,salle conseil de l'institut,Service des ressources humaines
+INV-2020-030-06,vidéoprojecteur,11,à réformer,salle conseil de l'institut,Direction de l'IBAM
+INV-2020-030-07,switch réseau,18,bon,local technique DSI,Département Sciences économiques et de gestion
+INV-2020-030-08,vidéoprojecteur,2,bon,magasin A des archives,Cellule des stages et de l'insertion professionnelle
+INV-2020-030-09,scanner A4,19,à réformer,"campus principal, secteur 25",Service de la scolarité et des examens
+INV-2020-030-10,switch réseau,13,moyen,salle de lecture du Centre de documentation,Service de la scolarité et des examens
+INV-2020-030-11,switch réseau,16,bon,salle conseil de l'institut,Centre de documentation et des archives
+INV-2020-030-12,poste lecteur,20,bon,magasin A des archives,Centre de documentation et des archives
+INV-2020-030-13,vidéoprojecteur,21,bon,local technique DSI,Centre de documentation et des archives
+INV-2020-030-14,scanner A4,6,moyen,laboratoire MIAGE,Direction de l'IBAM

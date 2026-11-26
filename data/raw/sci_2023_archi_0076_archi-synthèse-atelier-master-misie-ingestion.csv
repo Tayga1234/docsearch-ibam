@@ -1,0 +1,13 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0076-00,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2024,interopérabilité;processus;cycle de vie documentaire,0.709
+P0076-01,Vers une indexation intelligente fondée sur requête,Recherche d'information,2019,métadonnées;requête;Lucene,0.703
+P0076-02,Vers une indexation intelligente fondée sur requête,Recherche d'information,2021,Whoosh;corpus;ranking,0.354
+P0076-03,Http pour la recherche documentaire locale,Ingénierie web,2022,état client;composant;HTTP,0.834
+P0076-04,Vers une indexation intelligente fondée sur Lucene,Recherche d'information,2022,rappel;TF-IDF;index inversé,0.711
+P0076-05,Évaluation de gouvernance des données dans un moteur d'indexation hybride,Systèmes d'information,2020,processus;référentiel;gouvernance des données,0.538
+P0076-06,Vers une indexation intelligente fondée sur surapprentissage,Apprentissage automatique,2021,réseau de neurones;scikit-learn;jeu d'entraînement,0.977
+P0076-07,Cycle de vie documentaire pour la recherche documentaire locale,Systèmes d'information,2019,processus;métier;cycle de vie documentaire,0.521
+P0076-08,Docker pour la recherche documentaire locale,Architecture logicielle,2023,contrat d'interface;couches;OpenAPI,0.882
+P0076-09,Évaluation de métadonnées dans un moteur d'indexation hybride,Recherche d'information,2021,BM25;pertinence;Whoosh,0.878
+P0076-10,Interopérabilité pour la recherche documentaire locale,Systèmes d'information,2025,métier;référentiel;urbanisation SI,0.798
+P0076-11,Vers une indexation intelligente fondée sur intégrité référentielle,Bases de données,2024,OLAP;index B-tree;intégrité référentielle,0.423

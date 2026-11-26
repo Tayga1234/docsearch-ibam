@@ -1,0 +1,23 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0145-00,Ldap pour la recherche documentaire locale,Sécurité des SI,2024,contrôle d'accès;session;journalisation,0.452
+P0145-01,Évaluation de tokenisation dans un moteur d'indexation hybride,Traitement automatique du langage,2023,attention;spaCy;transformer,0.929
+P0145-02,Réseau de neurones pour la recherche documentaire locale,Apprentissage automatique,2025,jeu d'entraînement;métrique F1;gradient,0.578
+P0145-03,Évaluation de schéma dans un moteur d'indexation hybride,Bases de données,2024,requête SQL;normalisation;transaction,0.835
+P0145-04,Hybride pour la recherche documentaire locale,Recherche d'information,2021,précision;rappel;Whoosh,0.711
+P0145-05,Lemmatisation pour la recherche documentaire locale,Traitement automatique du langage,2024,transformer;tokenisation;bag-of-words,0.968
+P0145-06,Scikit-learn pour la recherche documentaire locale,Apprentissage automatique,2021,jeu d'entraînement;surapprentissage;régression,0.868
+P0145-07,Fastapi pour la recherche documentaire locale,Architecture logicielle,2024,microservices;API REST;FastAPI,0.837
+P0145-08,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2026,scikit-learn;classification;régression,0.431
+P0145-09,Jeton bearer pour la recherche documentaire locale,Sécurité des SI,2020,principe du moindre privilège;autorisation;OWASP,0.609
+P0145-10,Vers une indexation intelligente fondée sur pertinence,Recherche d'information,2020,requête;Whoosh;hybride,0.506
+P0145-11,Évaluation de GED dans un moteur d'indexation hybride,Systèmes d'information,2024,urbanisation SI;processus;référentiel,0.479
+P0145-12,Vers une indexation intelligente fondée sur scikit-learn,Apprentissage automatique,2020,régression;gradient;métrique F1,0.615
+P0145-13,Évaluation de CORS dans un moteur d'indexation hybride,Ingénierie web,2022,HTTP;Vite;composant,0.488
+P0145-14,Évaluation de authentification dans un moteur d'indexation hybride,Sécurité des SI,2022,session;contrôle d'accès;chiffrement,0.914
+P0145-15,Évaluation de Vite dans un moteur d'indexation hybride,Ingénierie web,2019,JSON;CORS;SPA,0.843
+P0145-16,Évaluation de interopérabilité dans un moteur d'indexation hybride,Systèmes d'information,2023,métier;archivage;cycle de vie documentaire,0.576
+P0145-17,Vers une indexation intelligente fondée sur HTTP,Ingénierie web,2024,JSON;accessibilité;état client,0.385
+P0145-18,Fastapi pour la recherche documentaire locale,Architecture logicielle,2020,API REST;contrat d'interface;pipeline,0.551
+P0145-19,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2019,gouvernance des données;interopérabilité;GED,0.402
+P0145-20,Vers une indexation intelligente fondée sur régression,Apprentissage automatique,2019,réseau de neurones;scikit-learn;gradient,0.915
+P0145-21,Docker pour la recherche documentaire locale,Architecture logicielle,2019,pipeline;découplage;couches,0.900

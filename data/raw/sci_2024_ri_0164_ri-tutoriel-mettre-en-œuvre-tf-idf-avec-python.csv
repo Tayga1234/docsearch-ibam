@@ -1,0 +1,15 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0164-00,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2019,similarité cosinus;attention;transformer,0.574
+P0164-01,Journalisation pour la recherche documentaire locale,Sécurité des SI,2022,LDAP;contrôle d'accès;jeton Bearer,0.710
+P0164-02,Postgresql pour la recherche documentaire locale,Bases de données,2021,intégrité référentielle;OLAP;schéma,0.716
+P0164-03,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2019,chiffrement;autorisation;authentification,0.779
+P0164-04,Vers une indexation intelligente fondée sur FTS5,Bases de données,2024,requête SQL;intégrité référentielle;index B-tree,0.460
+P0164-05,Vers une indexation intelligente fondée sur TF-IDF,Recherche d'information,2023,corpus;pertinence;métadonnées,0.589
+P0164-06,Requête pour la recherche documentaire locale,Recherche d'information,2023,métadonnées;requête;ranking,0.736
+P0164-07,Évaluation de régression dans un moteur d'indexation hybride,Apprentissage automatique,2025,jeu d'entraînement;scikit-learn;gradient,0.580
+P0164-08,Vers une indexation intelligente fondée sur classification,Apprentissage automatique,2023,classification;scikit-learn;régression,0.883
+P0164-09,Vers une indexation intelligente fondée sur principe du moindre privilège,Sécurité des SI,2026,session;OWASP;contrôle d'accès,0.563
+P0164-10,Métier pour la recherche documentaire locale,Systèmes d'information,2024,métier;interopérabilité;urbanisation SI,0.878
+P0164-11,Docker pour la recherche documentaire locale,Architecture logicielle,2023,découplage;couches;contrat d'interface,0.611
+P0164-12,Vers une indexation intelligente fondée sur requête,Recherche d'information,2021,rappel;BM25;TF-IDF,0.384
+P0164-13,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2021,surapprentissage;scikit-learn;réseau de neurones,0.382

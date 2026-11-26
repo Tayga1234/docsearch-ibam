@@ -1,0 +1,21 @@
+id,date,demandeur,service,objet,priorite,etat
+T-2020-058-00,2020-05-01,Wendyam Ilboudo,Cellule qualité et évaluation,vidéo projecteur Somgandé,haute,ouvert
+T-2020-058-01,2020-05-02,Adama Kientega,Agence comptable de l'IBAM,poste bloqué,normale,clos
+T-2020-058-02,2020-05-03,Salif Guigma,Service de la scolarité et des examens,imprimante documentation,haute,clos
+T-2020-058-03,2020-05-04,Inès Zida,Département Sciences économiques et de gestion,vidéo projecteur Somgandé,normale,clos
+T-2020-058-04,2020-05-05,Inès Lingani,Service de la scolarité et des examens,restauration fichier,normale,en cours
+T-2020-058-05,2020-05-06,Mariam Bonkoungou,Cellule qualité et évaluation,restauration fichier,basse,ouvert
+T-2020-058-06,2020-05-07,Wendyam Somé,Service de la scolarité et des examens,DocSearch inaccessible,basse,ouvert
+T-2020-058-07,2020-05-08,Inès Ouattara,Service des systèmes d'information,poste bloqué,normale,en cours
+T-2020-058-08,2020-05-09,Mariam Bationo,Cellule qualité et évaluation,compte CampusFaso,normale,ouvert
+T-2020-058-09,2020-05-10,Moussa Somé,Cellule des stages et de l'insertion professionnelle,restauration fichier,basse,clos
+T-2020-058-10,2020-05-11,Boukary Zida,Département Sciences économiques et de gestion,restauration fichier,normale,en cours
+T-2020-058-11,2020-05-12,Wendyam Ouattara,Centre de documentation et des archives,poste bloqué,haute,en cours
+T-2020-058-12,2020-05-13,Moussa Sawadogo,Cellule des stages et de l'insertion professionnelle,imprimante documentation,haute,en cours
+T-2020-058-13,2020-05-14,Boukary Savadogo,Service de la scolarité et des examens,imprimante documentation,normale,ouvert
+T-2020-058-14,2020-05-15,Karim Somé,Service des ressources humaines,imprimante documentation,basse,clos
+T-2020-058-15,2020-05-16,Boukary Lingani,Département Sciences et Technologie,vidéo projecteur Somgandé,basse,en cours
+T-2020-058-16,2020-05-17,Salif Ganemtoré,Service de la scolarité et des examens,imprimante documentation,basse,clos
+T-2020-058-17,2020-05-18,Hassane Bonkoungou,Département Sciences économiques et de gestion,restauration fichier,haute,clos
+T-2020-058-18,2020-05-19,Boukary Bonkoungou,Agence comptable de l'IBAM,vidéo projecteur Somgandé,normale,en cours
+T-2020-058-19,2020-05-20,Awa Dabiré,Agence comptable de l'IBAM,poste bloqué,normale,en cours

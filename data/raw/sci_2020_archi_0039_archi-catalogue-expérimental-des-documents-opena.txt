@@ -1,0 +1,31 @@
+Catalogue expérimental des documents OpenAPI
+
+Auteurs : V. Kinda (IBAM), C. Yaméogo (UJKZ), K. Zongo (UJKZ), Y. Ouattara (ESI)
+Année : 2020
+Type : dataset
+Domaine : Architecture logicielle
+Revue / support : Annales de l'IBAM
+Mots-clés : microservices, découplage, contrat d'interface, ingestion, OpenAPI, évaluation expérimentale
+
+Résumé
+Cet article traite de « Catalogue expérimental des documents OpenAPI » dans le domaine architecture logicielle. Nous présentons une analyse de pipeline d'ingestion multi-formats, centrée sur microservices, découplage, contrat d'interface. Les résultats indiquent que l'approche retenue réduit le temps de recherche sous la seconde. Les apports portent sur la conception, l'implémentation et l'évaluation d'un système d'information documentaire reproductible.
+
+Introduction
+Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Cadre théorique
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur OpenAPI et sur microservices, souvent combinés dans des architectures hybrides.
+
+Méthode
+Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation. Dans le champ architecture logicielle, la notion de découplage reste centrale pour comprendre la qualité des réponses. Les travaux récents insistent sur OpenAPI et sur découplage, souvent combinés dans des architectures hybrides. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF.
+
+Résultats
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. Les travaux récents insistent sur microservices et sur couches, souvent combinés dans des architectures hybrides. Dans le champ architecture logicielle, la notion de découplage reste centrale pour comprendre la qualité des réponses.
+
+Discussion
+En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus. Les travaux récents insistent sur microservices et sur couches, souvent combinés dans des architectures hybrides. Dans le champ architecture logicielle, la notion de microservices reste centrale pour comprendre la qualité des réponses. Contrairement à un parcours de fichiers à la requête, un index préparé sépare clairement ingestion et interrogation.
+
+Conclusion
+La discussion replace ces résultats dans l'ingénierie des SI : traçabilité du pipeline, droits d'accès et conservation des originaux. Le prototype DocSearch illustre ces choix en local : extraction multi-formats, enrichissement, Whoosh et similarité TF-IDF. Notre protocole mesure le temps d'indexation, la latence de requête et l'exploitabilité qualitative des extraits. En perspective, un moteur Meilisearch, un OCR asynchrone et un annuaire LDAP permettraient une mise en production sur le campus.
+
+Document de démonstration généré pour DocSearch (reconstitution pédagogique, non publié). Usage : mémoire Master MISIE / IBAM — indexation intelligente.

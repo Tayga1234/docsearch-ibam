@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2026-086-00,extincteur,5,à réformer,magasin A des archives,Cellule des stages et de l'insertion professionnelle
+INV-2026-086-01,extincteur,22,bon,magasin B (examens),Direction de l'IBAM
+INV-2026-086-02,switch réseau,18,moyen,salle multimédia,Centre de documentation et des archives
+INV-2026-086-03,switch réseau,3,à réformer,complexe pédagogique de Somgandé,Agence comptable de l'IBAM
+INV-2026-086-04,scanner A4,14,à réformer,"campus principal, secteur 25",Cellule qualité et évaluation
+INV-2026-086-05,split climatisation,3,moyen,laboratoire MIAGE,Agence comptable de l'IBAM
+INV-2026-086-06,scanner A4,19,à réformer,salle de lecture du Centre de documentation,Département Sciences économiques et de gestion
+INV-2026-086-07,poste lecteur,19,à réformer,amphithéâtre A,Cellule des stages et de l'insertion professionnelle
+INV-2026-086-08,extincteur,12,bon,salle de lecture du Centre de documentation,Département Sciences et Technologie
+INV-2026-086-09,switch réseau,11,bon,amphithéâtre A,Cellule qualité et évaluation
+INV-2026-086-10,vidéoprojecteur,18,à réformer,salle de lecture du Centre de documentation,Direction de l'IBAM
+INV-2026-086-11,switch réseau,18,bon,local technique DSI,Service des systèmes d'information
+INV-2026-086-12,extincteur,6,moyen,"campus principal, secteur 25",Service des ressources humaines
+INV-2026-086-13,vidéoprojecteur,11,à réformer,complexe pédagogique de Somgandé,Département Sciences et Technologie
+INV-2026-086-14,poste lecteur,4,moyen,laboratoire MIAGE,Département Sciences et Technologie

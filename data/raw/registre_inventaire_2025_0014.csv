@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2025-014-00,extincteur,19,moyen,"campus principal, secteur 25",Département Sciences et Technologie
+INV-2025-014-01,extincteur,18,à réformer,local technique DSI,Service des ressources humaines
+INV-2025-014-02,switch réseau,22,à réformer,magasin B (examens),Service des ressources humaines
+INV-2025-014-03,extincteur,24,moyen,amphithéâtre A,Cellule qualité et évaluation
+INV-2025-014-04,split climatisation,21,bon,"campus principal, secteur 25",Service de la scolarité et des examens
+INV-2025-014-05,extincteur,21,bon,magasin A des archives,Agence comptable de l'IBAM
+INV-2025-014-06,poste lecteur,22,moyen,amphithéâtre A,Cellule des stages et de l'insertion professionnelle
+INV-2025-014-07,extincteur,12,moyen,"campus principal, secteur 25",Service de la scolarité et des examens
+INV-2025-014-08,split climatisation,11,bon,salle multimédia,Cellule des stages et de l'insertion professionnelle
+INV-2025-014-09,scanner A4,6,bon,amphithéâtre A,Service des systèmes d'information
+INV-2025-014-10,rayonnage archives,17,moyen,laboratoire MIAGE,Service des systèmes d'information
+INV-2025-014-11,extincteur,5,moyen,"campus principal, secteur 25",Direction de l'IBAM
+INV-2025-014-12,rayonnage archives,11,moyen,magasin A des archives,Cellule des stages et de l'insertion professionnelle
+INV-2025-014-13,switch réseau,24,à réformer,local technique DSI,Service des ressources humaines
+INV-2025-014-14,scanner A4,23,moyen,amphithéâtre A,Département Sciences économiques et de gestion

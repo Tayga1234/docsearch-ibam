@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0151-00,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2019,entité nommée;n-grammes;tokenisation,0.515
+P0151-01,Évaluation de jeton Bearer dans un moteur d'indexation hybride,Sécurité des SI,2022,jeton Bearer;journalisation;principe du moindre privilège,0.701
+P0151-02,N-grammes pour la recherche documentaire locale,Traitement automatique du langage,2025,BERT;bag-of-words;attention,0.786
+P0151-03,Interopérabilité pour la recherche documentaire locale,Systèmes d'information,2026,urbanisation SI;archivage;GED,0.882
+P0151-04,Vers une indexation intelligente fondée sur GED,Systèmes d'information,2021,cycle de vie documentaire;processus;interopérabilité,0.753
+P0151-05,Vers une indexation intelligente fondée sur OWASP,Sécurité des SI,2025,session;chiffrement;contrôle d'accès,0.567
+P0151-06,Évaluation de spaCy dans un moteur d'indexation hybride,Traitement automatique du langage,2025,n-grammes;BERT;attention,0.552
+P0151-07,Ranking pour la recherche documentaire locale,Recherche d'information,2026,Lucene;rappel;métadonnées,0.634
+P0151-08,Évaluation de performance front dans un moteur d'indexation hybride,Ingénierie web,2025,performance front;HTTP;JSON,0.362
+P0151-09,Urbanisation si pour la recherche documentaire locale,Systèmes d'information,2026,référentiel;processus;gouvernance des données,0.429
+P0151-10,Évaluation de entité nommée dans un moteur d'indexation hybride,Traitement automatique du langage,2020,transformer;similarité cosinus;spaCy,0.779
+P0151-11,Docker pour la recherche documentaire locale,Architecture logicielle,2023,couches;microservices;découplage,0.595
+P0151-12,Gradient pour la recherche documentaire locale,Apprentissage automatique,2019,validation croisée;réseau de neurones;feature engineering,0.740
+P0151-13,Évaluation de microservices dans un moteur d'indexation hybride,Architecture logicielle,2024,microservices;FastAPI;contrat d'interface,0.529
+P0151-14,Pipeline pour la recherche documentaire locale,Architecture logicielle,2024,ingestion;FastAPI;Docker,0.881

@@ -1,0 +1,15 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0415-00,Vers une indexation intelligente fondée sur jeu d'entraînement,Apprentissage automatique,2020,métrique F1;scikit-learn;classification,0.782
+P0415-01,Évaluation de index inversé dans un moteur d'indexation hybride,Recherche d'information,2021,hybride;Lucene;requête,0.674
+P0415-02,Ingestion pour la recherche documentaire locale,Architecture logicielle,2022,pipeline;microservices;contrat d'interface,0.598
+P0415-03,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2026,ingestion;microservices;API REST,0.721
+P0415-04,Vers une indexation intelligente fondée sur spaCy,Traitement automatique du langage,2022,vectorisation;BERT;n-grammes,0.404
+P0415-05,Évaluation de OpenAPI dans un moteur d'indexation hybride,Architecture logicielle,2019,ingestion;FastAPI;pipeline,0.679
+P0415-06,Évaluation de index B-tree dans un moteur d'indexation hybride,Bases de données,2024,normalisation;requête SQL;OLAP,0.881
+P0415-07,Fts5 pour la recherche documentaire locale,Bases de données,2020,requête SQL;intégrité référentielle;OLAP,0.848
+P0415-08,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2020,scikit-learn;gradient;régression,0.357
+P0415-09,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2020,contrat d'interface;couches;pipeline,0.447
+P0415-10,Vers une indexation intelligente fondée sur cycle de vie documentaire,Systèmes d'information,2021,métier;interopérabilité;processus,0.877
+P0415-11,Évaluation de ingestion dans un moteur d'indexation hybride,Architecture logicielle,2019,pipeline;FastAPI;API REST,0.690
+P0415-12,Évaluation de composant dans un moteur d'indexation hybride,Ingénierie web,2021,composant;état client;Vite,0.747
+P0415-13,Sqlite pour la recherche documentaire locale,Bases de données,2023,index B-tree;transaction;OLAP,0.776

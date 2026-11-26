@@ -1,0 +1,17 @@
+date,service,nb_pieces,formats,bordereau,visa
+2021-05-01,Service de la scolarité et des examens,31,mixte,BORD-2021-009-00,David Kaboré
+2021-05-02,Département Sciences et Technologie,7,PDF,BORD-2021-009-01,Fatou Sanou
+2021-05-03,Centre de documentation et des archives,7,TXT,BORD-2021-009-02,Issa Ouédraogo
+2021-05-04,Agence comptable de l'IBAM,32,DOCX,BORD-2021-009-03,Issa Ouédraogo
+2021-05-05,Département Sciences économiques et de gestion,7,TXT,BORD-2021-009-04,Issa Ouédraogo
+2021-05-06,Cellule des stages et de l'insertion professionnelle,39,DOCX,BORD-2021-009-05,David Kaboré
+2021-05-07,Département Sciences économiques et de gestion,29,PDF,BORD-2021-009-06,David Kaboré
+2021-05-08,Agence comptable de l'IBAM,29,TXT,BORD-2021-009-07,David Kaboré
+2021-05-09,Agence comptable de l'IBAM,32,mixte,BORD-2021-009-08,Fatou Sanou
+2021-05-10,Agence comptable de l'IBAM,29,TXT,BORD-2021-009-09,Fatou Sanou
+2021-05-11,Service des ressources humaines,29,PDF,BORD-2021-009-10,Issa Ouédraogo
+2021-05-12,Service des systèmes d'information,27,TXT,BORD-2021-009-11,Issa Ouédraogo
+2021-05-13,Service des ressources humaines,19,DOCX,BORD-2021-009-12,Issa Ouédraogo
+2021-05-14,Service des systèmes d'information,25,CSV,BORD-2021-009-13,Fatou Sanou
+2021-05-15,Centre de documentation et des archives,11,CSV,BORD-2021-009-14,David Kaboré
+2021-05-16,Département Sciences et Technologie,12,TXT,BORD-2021-009-15,Issa Ouédraogo

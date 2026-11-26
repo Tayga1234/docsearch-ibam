@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2026-006-00,extincteur,13,moyen,magasin B (examens),Cellule qualité et évaluation
+INV-2026-006-01,poste lecteur,17,à réformer,amphithéâtre A,Cellule des stages et de l'insertion professionnelle
+INV-2026-006-02,scanner A4,24,moyen,"campus principal, secteur 25",Service des systèmes d'information
+INV-2026-006-03,rayonnage archives,21,à réformer,magasin B (examens),Cellule des stages et de l'insertion professionnelle
+INV-2026-006-04,switch réseau,21,moyen,local technique DSI,Centre de documentation et des archives
+INV-2026-006-05,rayonnage archives,13,moyen,magasin B (examens),Cellule des stages et de l'insertion professionnelle
+INV-2026-006-06,poste lecteur,23,à réformer,laboratoire MIAGE,Service des ressources humaines
+INV-2026-006-07,switch réseau,24,bon,local technique DSI,Service de la scolarité et des examens
+INV-2026-006-08,vidéoprojecteur,2,moyen,complexe pédagogique de Somgandé,Agence comptable de l'IBAM
+INV-2026-006-09,rayonnage archives,16,à réformer,salle de lecture du Centre de documentation,Service de la scolarité et des examens
+INV-2026-006-10,scanner A4,2,moyen,complexe pédagogique de Somgandé,Centre de documentation et des archives
+INV-2026-006-11,vidéoprojecteur,4,bon,salle conseil de l'institut,Département Sciences économiques et de gestion
+INV-2026-006-12,scanner A4,8,à réformer,complexe pédagogique de Somgandé,Service des ressources humaines
+INV-2026-006-13,switch réseau,22,moyen,"campus principal, secteur 25",Service des systèmes d'information
+INV-2026-006-14,extincteur,19,bon,laboratoire MIAGE,Service des ressources humaines

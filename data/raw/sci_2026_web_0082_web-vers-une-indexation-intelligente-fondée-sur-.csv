@@ -1,0 +1,24 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0082-00,Évaluation de React dans un moteur d'indexation hybride,Ingénierie web,2020,HTTP;CORS;état client,0.879
+P0082-01,Vers une indexation intelligente fondée sur BERT,Traitement automatique du langage,2019,n-grammes;transformer;lemmatisation,0.524
+P0082-02,Évaluation de contrat d'interface dans un moteur d'indexation hybride,Architecture logicielle,2020,pipeline;OpenAPI;couches,0.854
+P0082-03,Évaluation de requête SQL dans un moteur d'indexation hybride,Bases de données,2023,OLAP;PostgreSQL;requête SQL,0.885
+P0082-04,Vers une indexation intelligente fondée sur métrique F1,Apprentissage automatique,2026,gradient;scikit-learn;régression,0.790
+P0082-05,Pipeline pour la recherche documentaire locale,Architecture logicielle,2021,API REST;FastAPI;OpenAPI,0.577
+P0082-06,Nosql pour la recherche documentaire locale,Bases de données,2023,SQLite;FTS5;requête SQL,0.565
+P0082-07,Évaluation de vectorisation dans un moteur d'indexation hybride,Traitement automatique du langage,2024,BERT;attention;tokenisation,0.772
+P0082-08,Vers une indexation intelligente fondée sur processus,Systèmes d'information,2023,archivage;urbanisation SI;processus,0.767
+P0082-09,Évaluation de performance front dans un moteur d'indexation hybride,Ingénierie web,2019,performance front;Vite;SPA,0.660
+P0082-10,Autorisation pour la recherche documentaire locale,Sécurité des SI,2021,jeton Bearer;principe du moindre privilège;journalisation,0.697
+P0082-11,Évaluation de ingestion dans un moteur d'indexation hybride,Architecture logicielle,2020,Docker;couches;microservices,0.433
+P0082-12,Session pour la recherche documentaire locale,Sécurité des SI,2022,autorisation;journalisation;LDAP,0.694
+P0082-13,Évaluation de index B-tree dans un moteur d'indexation hybride,Bases de données,2025,OLAP;schéma;NoSQL,0.509
+P0082-14,Vers une indexation intelligente fondée sur accessibilité,Ingénierie web,2021,HTTP;état client;SPA,0.459
+P0082-15,Vers une indexation intelligente fondée sur bag-of-words,Traitement automatique du langage,2026,n-grammes;attention;bag-of-words,0.379
+P0082-16,Tf-idf pour la recherche documentaire locale,Recherche d'information,2020,ranking;précision;pertinence,0.397
+P0082-17,Évaluation de Whoosh dans un moteur d'indexation hybride,Recherche d'information,2026,pertinence;ranking;Lucene,0.759
+P0082-18,Vers une indexation intelligente fondée sur vectorisation,Traitement automatique du langage,2022,embedding;n-grammes;attention,0.382
+P0082-19,Vers une indexation intelligente fondée sur ingestion,Architecture logicielle,2024,couches;microservices;API REST,0.667
+P0082-20,Embedding pour la recherche documentaire locale,Traitement automatique du langage,2021,transformer;spaCy;n-grammes,0.800
+P0082-21,Openapi pour la recherche documentaire locale,Architecture logicielle,2026,Docker;découplage;microservices,0.425
+P0082-22,Évaluation de journalisation dans un moteur d'indexation hybride,Sécurité des SI,2022,chiffrement;session;jeton Bearer,0.843

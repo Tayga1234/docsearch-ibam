@@ -1,0 +1,11 @@
+id,date,service,objet,urgence,delai_heures,cloture
+T-001,2025-01-16,Documentation,Compte DocSearch Fatou Sanou,bloquant,1,oui
+T-008,2025-01-20,Scolarité,Imprimante bourrage,gênant,6,oui
+T-014,2025-02-03,ST,Vidéoprojecteur Somgandé,gênant,26,oui
+T-019,2025-02-11,RH,Mot de passe oublié,mineur,2,oui
+T-022,2025-02-17,Documentation,Vidéo atelier DocSearch,mineur,8,oui
+T-031,2025-03-11,DSI,Incident SONABEL / onduleur,bloquant,3,oui
+T-033,2025-03-18,Direction,Messagerie Nikièma,gênant,5,oui
+T-038,2025-03-22,Tous,Maintenance switch programmée,bloquant,6,oui
+T-041,2025-03-27,Scolarité,Tableur listes L3,mineur,12,oui
+T-044,2025-03-31,Documentation,Tag manquant budget,mineur,4,oui

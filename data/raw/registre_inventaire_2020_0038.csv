@@ -1,0 +1,16 @@
+code,designation,quantite,etat,localisation,service
+INV-2020-038-00,extincteur,19,moyen,magasin A des archives,Service des systèmes d'information
+INV-2020-038-01,split climatisation,24,bon,magasin B (examens),Département Sciences économiques et de gestion
+INV-2020-038-02,vidéoprojecteur,24,moyen,complexe pédagogique de Somgandé,Service des ressources humaines
+INV-2020-038-03,vidéoprojecteur,20,bon,salle conseil de l'institut,Service de la scolarité et des examens
+INV-2020-038-04,poste lecteur,18,à réformer,"campus principal, secteur 25",Direction de l'IBAM
+INV-2020-038-05,switch réseau,7,moyen,amphithéâtre A,Département Sciences et Technologie
+INV-2020-038-06,switch réseau,22,moyen,complexe pédagogique de Somgandé,Département Sciences et Technologie
+INV-2020-038-07,scanner A4,19,moyen,magasin B (examens),Centre de documentation et des archives
+INV-2020-038-08,vidéoprojecteur,13,moyen,amphithéâtre A,Cellule qualité et évaluation
+INV-2020-038-09,scanner A4,22,bon,salle multimédia,Service des systèmes d'information
+INV-2020-038-10,poste lecteur,16,bon,laboratoire MIAGE,Cellule des stages et de l'insertion professionnelle
+INV-2020-038-11,poste lecteur,1,moyen,amphithéâtre A,Service de la scolarité et des examens
+INV-2020-038-12,switch réseau,17,bon,"campus principal, secteur 25",Direction de l'IBAM
+INV-2020-038-13,rayonnage archives,4,bon,magasin B (examens),Cellule des stages et de l'insertion professionnelle
+INV-2020-038-14,poste lecteur,22,à réformer,amphithéâtre A,Service de la scolarité et des examens

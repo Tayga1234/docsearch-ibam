@@ -1,0 +1,16 @@
+id,titre,domaine,annee,mots_cles,score_pertinence
+P0172-00,Évaluation de normalisation dans un moteur d'indexation hybride,Bases de données,2026,index B-tree;schéma;normalisation,0.716
+P0172-01,Évaluation de BERT dans un moteur d'indexation hybride,Traitement automatique du langage,2020,spaCy;entité nommée;n-grammes,0.768
+P0172-02,Évaluation de transaction dans un moteur d'indexation hybride,Bases de données,2026,FTS5;transaction;normalisation,0.779
+P0172-03,Référentiel pour la recherche documentaire locale,Systèmes d'information,2019,archivage;gouvernance des données;cycle de vie documentaire,0.573
+P0172-04,Principe du moindre privilège pour la recherche documentaire locale,Sécurité des SI,2020,authentification;chiffrement;session,0.535
+P0172-05,Évaluation de embedding dans un moteur d'indexation hybride,Traitement automatique du langage,2021,transformer;attention;lemmatisation,0.680
+P0172-06,Vers une indexation intelligente fondée sur OpenAPI,Architecture logicielle,2022,découplage;FastAPI;couches,0.487
+P0172-07,Surapprentissage pour la recherche documentaire locale,Apprentissage automatique,2019,régression;surapprentissage;métrique F1,0.612
+P0172-08,Vers une indexation intelligente fondée sur transaction,Bases de données,2023,NoSQL;OLAP;intégrité référentielle,0.886
+P0172-09,Évaluation de normalisation dans un moteur d'indexation hybride,Bases de données,2026,index B-tree;NoSQL;requête SQL,0.773
+P0172-10,Vers une indexation intelligente fondée sur BM25,Recherche d'information,2021,TF-IDF;rappel;métadonnées,0.832
+P0172-11,Contrôle d'accès pour la recherche documentaire locale,Sécurité des SI,2020,LDAP;OWASP;chiffrement,0.480
+P0172-12,Découplage pour la recherche documentaire locale,Architecture logicielle,2025,microservices;contrat d'interface;couches,0.362
+P0172-13,Évaluation de React dans un moteur d'indexation hybride,Ingénierie web,2019,React;Vite;composant,0.588
+P0172-14,Vers une indexation intelligente fondée sur référentiel,Systèmes d'information,2021,processus;GED;cycle de vie documentaire,0.677
