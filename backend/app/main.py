@@ -4,11 +4,15 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.api.routes import router
-from app.config import API_VERSION
+from app.config import API_VERSION, PROJECT_ROOT
 from app.database import init_db, list_documents
 from app.indexing.whoosh_index import init_search_index
+
+STATIC_DIR = PROJECT_ROOT / "frontend" / "dist"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -70,10 +74,39 @@ app.add_middleware(
         "http://localhost:4173",
         "http://127.0.0.1:4173",
     ],
-    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?",
+    allow_origin_regex=(
+        r"https?://(localhost|127\.0\.0\.1)(:\d+)?|"
+        r"https://[\w-]+\.onrender\.com"
+    ),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 app.include_router(router)
+
+
+def _mount_frontend() -> None:
+    if not STATIC_DIR.is_dir():
+        logger.info("Frontend statique absent (%s) — API seule", STATIC_DIR)
+        return
+
+    assets_dir = STATIC_DIR / "assets"
+    if assets_dir.is_dir():
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+
+    @app.get("/{full_path:path}", include_in_schema=False)
+    async def spa_fallback(full_path: str):
+        # Fichiers publics du build (logo, favicon…)
+        candidate = STATIC_DIR / full_path
+        if full_path and candidate.is_file():
+            return FileResponse(candidate)
+        index = STATIC_DIR / "index.html"
+        if index.is_file():
+            return FileResponse(index)
+        return {"detail": "Frontend non disponible"}
+
+    logger.info("Frontend servi depuis %s", STATIC_DIR)
+
+
+_mount_frontend()
